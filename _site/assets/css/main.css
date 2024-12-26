@@ -3521,9 +3521,7 @@ textarea.form-control-lg { min-height: calc(1.5em + 1rem + calc(var(--bs-border-
 .img-embed { padding: 5px; vertical-align: baseline; }
 
 body a { color: #b59b0c; /*#7a7459 d44a00*/ text-decoration: underline; }
-body a:hover { color: #b59b0c6c; /*#2b2200*/ text-decoration: none; }
-
-.cat-and-sidebar { display: flex; flex-flow: row wrap; }
+body a:hover { color: #b59b0c6c; /*#2b2200*/ text-decoration: underline; }
 
 .text-colore7c84b { color: #e7c84b; align: justify; }
 

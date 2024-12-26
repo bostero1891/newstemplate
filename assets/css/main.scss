@@ -107,14 +107,9 @@ body {
             text-decoration: underline;
             &:hover {
                     color: #b59b0c6c; /*#2b2200*/
-                    text-decoration: none;
+                    text-decoration: underline;
             }
     }
-}
-
-.cat-and-sidebar {
-    display: flex;
-    flex-flow: row wrap;
 }
 
 .text-colore7c84b {
