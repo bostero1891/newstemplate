@@ -1,0 +1,23 @@
+<div class="container-fluid bg-color1a1a1a title-wrapper-sidebar inline w-100 mt-5 mb-0">
+    <h5 class="float-start inline custom ms-2">audios sport 890 </h5>
+    <span class="float-end inline me-2">{% include brand.html %}</span>
+</div>
+
+<div class="container-fluid mt-0 bg-color1a1a1a">
+    <div class="row">
+        {% for post in site.categories.Audios-sport890 limit: 4 %}       
+            <div class="col-md-3 mt-2 mb-0">
+                <div class="card border-0 bg-color1a1a1a mb-0">
+                    <img src="{{ post.image2 }}" width="100%">
+                    <div class="card-body text-colore7c84b p-0">
+                        <span class="archivo700">
+                            {{ post.title }}
+                        </span>
+                        <p class="post-date post-date-light archivo700">{{ post.date_es }}</p>
+                        <a href="#"><img class="mb-1" src="{{ site.url }}/images/escuchalo.png" width="100px"></a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}    
+    </div>
+</div>

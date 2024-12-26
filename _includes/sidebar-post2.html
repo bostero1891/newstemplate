@@ -1,0 +1,19 @@
+<div class="sticky-top">
+    <div id="rightCol" class="container-fluid bg-color4b4a42 title-wrapper-sidebar text-center mt-5 mb-2 sticky-top">
+        <h5 class="custom">audios carve deportiva</h5>
+    </div>
+
+    {% for post in site.categories.Audio-carvedeportiva linit: 5 %}
+
+        <div class="container-fluid mt-3 archivo700 outside-image cat-and-sidebar">
+            <span class="text-muted post-date ms-2 mb-0">{{ post.date_es }}</span>
+            <div class="img-embed">
+                <div class="d-flex">
+                    <img class="me-1" src="{{ post.image2 }}" width="120px" height="100%" style="vertical-align: baseline;">
+                    <a href="#"><p>{{ post.title }}</p></a>
+                </div>
+            </div>
+        </div>
+
+    {% endfor %}
+</div>

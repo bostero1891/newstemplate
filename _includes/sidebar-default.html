@@ -1,0 +1,83 @@
+<div class="container-fluid bg-color4b4a42 title-wrapper-sidebar text-center mt-5 mb-2">
+    <h5 class="custom">próximo partido</h5>
+</div>
+
+<div class="container-fluid align-items-center justify-content-center">
+    <div class="text-center">
+        <h5 class="archivo700">Domingo 12 de enero</h5>
+    </div>
+    <div class="">
+        <div class="d-flex justify-content-center">
+            <img src="{{ site.url }}/images/PEN.png" height="85px">
+            <img src="{{ site.url }}/images/COL.png" height="85px">
+        </div>
+    </div>
+    
+    <div class="text-center">
+        <h5 id="countdown"> </h5>
+    </div>
+
+    <div class="text-center">
+        <h5 class="archivo700">Serie Río de la Plata</h5>
+    </div>
+    
+    <div class="text-center">
+        <span class="text-muted archivo">Campeón del Siglo</span>
+    </div>
+
+</div>
+
+<div class="container-fluid bg-color4b4a42 title-wrapper-sidebar text-center mt-5 mb-2">
+    <h5 class="custom">audios carve deportiva</h5>
+</div>
+
+{% for post in site.categories.Audio-carvedeportiva linit: 5 %}
+
+    <div class="container-fluid mt-3 archivo700 outside-image cat-and-sidebar">
+        <span class="text-muted post-date ms-2 mb-0">{{ post.date_es }}</span>
+        <div class="img-embed">
+            <div class="d-flex">
+                <img class="me-1" src="{{ post.image2 }}" width="120px" height="100%" style="vertical-align: baseline;">
+                <a href="#"><p>{{ post.title }}</p></a>
+            </div>
+        </div>
+    </div>
+
+{% endfor %}
+
+<script>
+    // Converting string to required date format 
+    let deadline = new Date("January 13, 2025 00:00:00")
+                    .getTime();
+
+    // To call defined fuction every second
+    let x = setInterval(function () {
+         
+        // Getting current time in required format
+        let now = new Date().getTime();
+
+        // Calculating the difference
+        let t = deadline - now;
+
+        // Getting value of days, hours, minutes, seconds
+        let days = Math.floor(t / (1000 * 60 * 60 * 24));
+        let hours = Math.floor(
+            (t % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        let minutes = Math.floor(
+            (t % (1000 * 60 * 60)) / (1000 * 60));
+        let seconds = Math.floor(
+            (t % (1000 * 60)) / 1000);
+
+        // Output the remaining time
+        document.getElementById("countdown").innerHTML =
+            days + "d " + hours + "h " + 
+            minutes + "m " + seconds + "s ";
+
+        // Output for over time
+        if (t < 0) {
+            clearInterval(x);
+            document.getElementById("countdown")
+                    .innerHTML = "¡comenzó!";
+        }
+    }, 1000);
+</script>

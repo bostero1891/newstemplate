@@ -1,0 +1,139 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+@import "custom";
+@import "../bower_components/bootstrap/scss/bootstrap";
+
+// Import other styling below
+// ...
+
+@font-face {
+    font-family: 'antonregular';
+    src: url('{{ site.url | relative_url }}/assets/css/fonts/anton-webfont.woff2') format('woff2'),
+         url('{{ site.url | relative_url }}/assets/css/fonts/anton-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kustom_cultureregular';
+    src: url('{{ site.url | relative_url }}/assets/css/fonts/kustomculture-regular-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-display:swap;
+    font-family: 'Archivo700';
+    font-style:normal;
+    font-weight:700;
+    src:url('{{ site.url | relative_url }}/assets/css/fonts/archivo_700.woff2') format("woff2");
+}
+
+@font-face {
+    font-family: 'Archivo';
+    src: url('{{ site.url | relative_url }}/assets/css/fonts/archivo-regular-webfont.woff2') format('woff2'),
+         url('{{ site.url | relative_url }}/assets/css/fonts/archivo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.custom {
+    font-family: 'kustom_cultureregular';
+}
+
+.antonregular {
+    font-family: 'antonregular';
+}
+
+.archivo700 {
+    font-family: 'Archivo700';
+}
+
+.archivo {
+    font-family: 'Archivo';
+}
+
+.navbar-brand {
+    span {
+        color: #e7c84b;
+        font-size: 0.9rem;
+    }
+}
+
+.nav-link {
+    span {
+        color: #e7c84b;
+        font-size: 1.1rem;
+    }
+}
+
+.inline {
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+.post-date {
+    font-size: 0.7rem;
+}
+
+.title-wrapper {
+    color: #e7c84b;
+    display: inline-block;
+    border-top: 10px solid #e7c84b;
+    vertical-align: baseline;
+}
+
+.title-wrapper-sidebar {
+    color: #e7c84b;
+    display: inline-block;
+    border-top: 7px solid #e7c84b;
+    vertical-align: baseline;
+}
+
+.img-embed {
+    padding: 5px;
+    vertical-align: baseline;
+}
+
+body {
+    a {
+            color: #b59b0c;  /*#7a7459 d44a00*/
+            text-decoration: underline;
+            &:hover {
+                    color: #b59b0c6c; /*#2b2200*/
+                    text-decoration: none;
+            }
+    }
+}
+
+.cat-and-sidebar {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.text-colore7c84b {
+    color: #e7c84b;
+    align: justify;
+}
+
+.post-date-light {
+    color: #ffffe0;
+}
+
+h1 {
+    font-family: 'kustom_cultureregular';
+}
+
+h2 {
+    font-family: 'kustom_cultureregular';
+}
+
+.archivo-post-size {
+    font-size: 1.3rem;
+}

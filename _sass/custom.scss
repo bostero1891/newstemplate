@@ -1,0 +1,22 @@
+/* Here you can customize Bootstrap. Remember to customize as it is explained here: https://getbootstrap.com/docs/5.0/customize/sass. */
+@import "../bower_components/bootstrap/scss/functions";
+@import "../bower_components/bootstrap/scss/variables";
+@import "../bower_components/bootstrap/scss/maps"; // MAPS FILE - SINCE 5.2
+
+$color4b4a42: #4b4a42;
+$color1a1a1a: #1a1a1a;
+
+$custom-colors: (
+        "color4b4a42": $color4b4a42, // your colours
+        "color1a1a1a": $color1a1a1a,
+);
+
+
+$theme-colors: map-merge($theme-colors, $custom-colors);
+$theme-colors-rgb: map-loop($theme-colors, to-rgb, "$value");
+$utilities-colors: map-merge($utilities-colors, $theme-colors-rgb);
+$utilities-text-colors: map-loop($utilities-colors, rgba-css-var, "$key", "text");
+$utilities-bg-colors: map-loop($utilities-colors, rgba-css-var, "$key", "bg");
+
+@import "../bower_components/bootstrap/scss/mixins";
+@import "../bower_components/bootstrap/scss/utilities";

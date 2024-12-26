@@ -1,0 +1,26 @@
+{
+  "name": "newstemplate",
+  "homepage": "https://github.com/bostero1891/newstemplate",
+  "description": "a news website template using jekyll and bootstrap",
+  "main": "index.md",
+  "keywords": [
+    "bootstrap",
+    "jekyll",
+    "template"
+  ],
+  "authors": [
+    "Código bostero"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
