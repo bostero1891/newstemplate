@@ -5,7 +5,7 @@ author: PEÑAROLPRESS 1891
 ---
 
 <div class="container-fluid bg-color4b4a42 title-wrapper inline w-100 mt-5 mb-2">
-    <h1 class="float-start inline custom ms-2">noticias</h1>
+    <h1 class="float-start inline custom ms-2">Últimas noticias de Peñarol</h1>
     <span class="float-end inline me-2">{% include brand.html %}</span>
 </div>
 
@@ -17,10 +17,10 @@ author: PEÑAROLPRESS 1891
                 <img src="{{ post.image2 }}" width="100%">
                 <div class="card-body">
                     <span class="archivo700">
-                        {{ post.title }}
+                        {{ post.title | truncate: 84 }}
                     </span>
-                    <p class="text-muted post-date archivo700">{{ post.date_es }}</p>
-                    <a href="{{ site.url | relative_url }}/{{ post.url }}">
+                    <p class="text-muted post-date post-date-font">{{ post.date_es }}</p>
+                    <a href="{{ site.url | relative_url }}{{ post.url }}">
                         <img src="{{ site.url }}/images/veronline.png" width="120px">
                     </a>
                 </div>

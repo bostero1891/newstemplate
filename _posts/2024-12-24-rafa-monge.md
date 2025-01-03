@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Rafa Monge: “Mañana me junto con Washington Aguerre para hablar de la propuesta de Peñarol”'
 description: 
 category: 'Audio-carvedeportiva'

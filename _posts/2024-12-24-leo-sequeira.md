@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Leo Sequeira: “El año en Peñarol fue hermoso, el mejor de mi vida”'
 description: 
 category: 'Audio-carvedeportiva'

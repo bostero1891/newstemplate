@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Alejandro Gonzalez“Guzmán Rodríguez es muy probable que se vaya”'
 description: 
 category: 'Audio-carvedeportiva'

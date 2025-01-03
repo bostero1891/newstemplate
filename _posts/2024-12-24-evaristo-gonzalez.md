@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Evaristo Gonzalez“La renovación de Aguirre es el hecho más importante”'
 description: 
 category: 'Audio-carvedeportiva'

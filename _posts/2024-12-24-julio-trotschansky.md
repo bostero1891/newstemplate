@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Julio Trostchansky“Tenemos un cuerpo técnico que se mantiene. No como otros que todavía están buscando.”'
 description: 
 category: 'Audio-carvedeportiva'

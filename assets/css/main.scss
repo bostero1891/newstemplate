@@ -79,7 +79,15 @@
 }
 
 .post-date {
-    font-size: 0.7rem;
+    font-size: 0.9rem;
+}
+
+.post-date-extra-small {
+    font-size: 0.8rem;
+}
+
+.title-extra-small p {
+    font-size: 0.9rem;
 }
 
 .title-wrapper {
@@ -117,8 +125,13 @@ body {
     align: justify;
 }
 
-.post-date-light {
-    color: #ffffe0;
+.post-date-font {
+    font-family: Manrope;
+}
+
+.info_rastreador p {
+    font-family: Manrope;
+    font-size: 0.8rem;
 }
 
 h1 {
@@ -131,4 +144,28 @@ h2 {
 
 .archivo-post-size {
     font-size: 1.3rem;
+}
+
+.post-text-color {
+    color: #757468;
+}
+
+.footer {
+    color: #ffffe0;
+    font-family: 'Manrope';
+}
+
+.footer a {
+    color: #e7c84b;  /*#7a7459 d44a00*/
+    text-decoration: underline;
+    &:hover {
+            color: #b59b0c6c; /*#2b2200*/
+            text-decoration: underline;
+    }
+}
+
+.image-sport890 {
+    object-fit: cover;
+    width: 100%;
+    height: 180px;
 }

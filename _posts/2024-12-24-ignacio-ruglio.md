@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Ignacio Ruglio: "Peñarol le ofrece tres años de contrato a Leo Fernández, con un contrato que jamás se le ofreció a ningún jugador en Uruguay”'
 description: 
 category: 'Audios-sport890'

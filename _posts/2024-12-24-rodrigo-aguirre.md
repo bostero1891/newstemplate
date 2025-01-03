@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post2-Penarol
 title: 'Rodrigo Aguirre: el campeonato con América, la jugada suya con la que soñó Bielsa y cuando pensó en dejar todo y volverse de México a Uruguay'
 description: 
 category: 'Audios-sport890'
