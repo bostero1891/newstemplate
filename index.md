@@ -11,13 +11,13 @@ author: PEÑAROLPRESS 1891
 
 <div class="container-fluid">
     <div class="row">
-    {% for post in site.categories.Penarol limit: 9 %}       
-        <div class="col-md-4 mt-3 mb-3">
+    {% for post in site.categories.Penarol limit: 6 %}       
+        <div class="col-md-6 mt-3 mb-3">
             <div class="card align-items-center justify-content-center">
                 <img src="{{ post.image2 }}" width="100%">
                 <div class="card-body">
                     <span class="archivo700">
-                        {{ post.title | truncate: 84 }}
+                        {{ post.title }}
                     </span>
                     <p class="text-muted post-date post-date-font">{{ post.date_es }}</p>
                     <a href="{{ site.url | relative_url }}{{ post.url }}">

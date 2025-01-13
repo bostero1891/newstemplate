@@ -1,0 +1,25 @@
+<div class="container-fluid bg-color4b4a42 title-wrapper-sidebar inline w-100 mt-5 mb-0">
+    <h5 class="float-start inline antonregular ms-2"><i class="fas-solid fa-headphones me-2"></i>Audios</h5>
+    <span class="float-end inline me-2">{% include brand.html %}</span>
+</div>
+
+<div class="container-fluid mt-3 archivo700 outside-image cat-and-sidebar">
+    <div class="row">
+        {% for post in site.categories.carvedeportiva-Deportes limit: 6 %}
+        <div class="col-md-4 mt-3 mb-2">
+            <div class="img-embed">
+                <div class="d-flex">
+                    <div class="image-sidebar">
+                        <span class="text-muted post-date-extra-small post-date-font mb-0">{{ post.date_es }}</span>
+                        <img class="me-1" src="{{ post.image2 }}" width="210px" height="auto" style="vertical-align: baseline;">
+                    </div>
+                    <div class="title-extra-small mt-4">
+                        
+                        <a href="{{ site.url | relative_url }}{{ post.url }}"><p>{{ post.title }}</p></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
