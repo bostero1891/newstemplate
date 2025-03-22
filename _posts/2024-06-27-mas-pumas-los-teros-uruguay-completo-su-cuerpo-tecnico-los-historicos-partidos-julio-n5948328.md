@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Más Pumas a Los Teros: Uruguay completó su cuerpo técnico para los históricos partidos de julio'
+description: 'Juan Figallo se suma como entrenador de forwards de Los Teros, además de Leonardo Senatore, que ya era entrenador de Peñarol Rugby; vuelve Joaquín Pastore'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/60dcc3e311a051bff0b459e9f452308b/adjuntos/362/imagenes/100/514/0100514108/1000x0/smart/fotojet-58jpg.jpg'
+date: 2024-06-27T15:51:00:00 +2:00:00
+date_es: '27 de junio  2024 - 15:51hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><a href="https://www.elobservador.com.uy/nota/confirmado-los-teros-tendran-partidos-sonados-contra-tres-potencias-del-rugby-mundial-en-montevideo-2024311153657" rel="follow" target="_blank"><strong>Los Teros</strong></a> ya tienen definido el cuerpo técnico que acompañará al entrenador argentino Rodolfo Ambrosio durante la ventana internacional de julio de rugby, en la que Uruguay jugará una histórica serie de tres test matches ante Francia, Los Pumas y Escocia.</p><p>El cuerpo técnico de <a class="agrupador" href="https://www.elobservador.com.uy/los-teros-a2665" rel="2665">Los Teros</a> tendrá las incorporaciones del exPuma Juan Figallo como coach de forwards, Leonardo Senatore como coach de line out y Joaquin Pastore como entrenador de backs.</p><h2>Quiénes son los nuevos entrenadores de Los Teros</h2><p>Figallo, de 36 años, jugó 33 tests por Los Pumas, entre ellos los mundiales de 2011, 2015 y 2019. Como profesional se destacó el Saracens de Inglaterra. Se retiró forzosamente en 2020 por una conmoción cerebral.</p><p>Senatore, de 40 años y mundialista con Los Pumas en 2011 y 2015, ya es un conocido de Uruguay porque entrenó este semestre a Peñarol. Se enfocará ahora en el line.</p><p> Pastore es el único entrenador que se mantiene del ciclo Esteban Meneses. El exTero y Old Boys tendrá el mismo cargo que en los últimos años, ya que se enfocará en los tres cuartos.</p><p>Las incorporaciones, por ahora, son para  la ventana de julio, aunque desde la URU hay intenciones de que el vínculo se prolongue en el tiempo, aunque en ventanas específicas ya que luego de julio la selección uruguaya no volverá a la cancha hasta noviembre</p><p>El resto de los roles del cuerpo técnico son los que ya trabajan en el Centro de Alto Rendimiento del Charrúa, comandados por Federizo Izeta en la preparación física y, Santiago Ramirez en fisioterapia y Marcelo Santurio en la parte médica.</p><h2>¿Cuándo juegan Los Teros 2024?</h2><p>Los Teros enfrentarán a Francia el 10 de julio a las 14 horas en el Estadio Charrúa, a Los Pumas el 20 de julio a las 16 en el Campus de Maldonado, y el 27 a las 16 a Escocia en el Charrúa.</p><p>Los jugadores locales ya están entrenando bajo el mando de Ambrosio, mientras que a partir del 1° de julio llegarán los jugadores del exterior. En principio se espera contar con todos los jugadores que militan afuera.</p>
+<div style='height: 300px;'></div>
+</html>

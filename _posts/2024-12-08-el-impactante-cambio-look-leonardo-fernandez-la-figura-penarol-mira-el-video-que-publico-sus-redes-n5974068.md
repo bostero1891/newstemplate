@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'El impactante cambio de look de Leonardo Fernández, la figura de Peñarol: mirá el video que publicó en sus redes'
+description: 'Mientras disfruta de sus vacaciones a la espera de definir su futuro, Leonardo Fernández aprovechó para meter un cambio de look'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/a61bc50eb3ea3c4b670eb80889514a36/adjuntos/362/imagenes/100/576/0100576520/1000x0/smart/469631862_18484282159048388_2119335573645876503_njpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/69d757a238e5ccce043e7e9a86b0e8ab/adjuntos/362/imagenes/100/564/0100564852/316x177/smart/leonardo-fernandez.jpeg'
+date: 2024-12-08T16:19:00 +2:00:00
+date_es: '2024-12-08  16:19'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Leonardo Fernández, la gran figura que tuvo <strong><a href="https://www.elobservador.com.uy/futbol/video-el-jugador-penarol-que-no-se-saco-la-camiseta-ni-subirse-la-montana-rusa-disney-su-hijo-n5974046" rel="follow" target="_blank">Peñarol</a></strong> en su inolvidable 2024, mostró este domingo su nuevo corte de pelo y un look muy jugado para dejar atrás el platinado que lució en los últimos meses.</p><p>Fernández se dio una vuelta por Shangrilá y le llevó la número 8 a su barbero de confianza, Diego Juanelli.</p><p>Se sacó una foto con sus amigos, a los que denomina "Mi banda" con el emoji de un corazón negro, y luego mostró en qué consistió su cambio de look.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/a61bc50eb3ea3c4b670eb80889514a36/adjuntos/362/imagenes/100/576/0100576520/1000x0/smart/469631862_18484282159048388_2119335573645876503_njpg.jpg" height="undefined" id="600316-Libre-747560000_embed" src="https://media.elobservador.com.uy/p/a61bc50eb3ea3c4b670eb80889514a36/adjuntos/362/imagenes/100/576/0100576520/1000x0/smart/469631862_18484282159048388_2119335573645876503_njpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>El zurdo, autor de ocho goles de tito libre en la temporada, volvió a su color natural aunque con toques de mechas claras, se rapó a cero en los márgenes con una terminación en punta atrás y se hizo un diseño que insumió mucho trabajo en los costados pero que le dio un toque único a su nuevo look.</p><p> El jugador termina contrato con Peñarol el 31 de diciembre y el dueño de su pase, Toluca, deberá definir su destino.</p><p>Hay un equipo interesado en su concurso, <a href="https://www.elobservador.com.uy/futbol/leo-fernandez-jugara-el-mundial-clubes-mira-el-equipo-grande-que-lo-quiere-al-jugador-penarol-y-el-intercambio-que-se-puede-gestar-n5974026" rel="follow" target="_blank">nada menos que Boca Juniors</a>.</p><p>Fernández fue el único jugador uruguayo en integrar el <a href="https://www.elobservador.com.uy/futbol/un-jugador-penarol-integra-el-equipo-ideal-la-copa-libertadores-america-n5974043" rel="follow" target="_blank">equipo ideal de la Copa Libertadores</a> 2024.</p><p>Otro jugador que se atendió el mismo día y en la misma barbería fue Damián García. </p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/09 12:55 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Increíble: Trouville venció a Nacional y como hizo con Goes, no lo dejó alcanzar su récord de 15 victorias seguidas en la Liga Uruguaya de Básquetbol'
+description: 'Increíble: Trouville venció a Nacional y como hizo con Goes, no lo dejó alcanzar su récord de 15 victorias seguidas en la Liga Uruguaya de Básquetbol'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/f9c6398c1ae90fbeade0f394088d7fb2/adjuntos/362/imagenes/100/591/0100591276/1000x0/smart/20250124-trouville-derroto-nacional-la-liga-uruguaya-basquetbol.jpeg'
+image2: 'https://media.elobservador.com.uy/p/cafcd07c6eea197d9824ecd4d287bdf2/adjuntos/362/imagenes/100/591/0100591276/316x177/smart/20250124-trouville-derroto-nacional-la-liga-uruguaya-basquetbol.jpeg'
+date: 2025-01-24T12:20:00 +2:00:00
+date_es: '24 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/nota/los-100-anos-de-trouville-una-forma-de-vivir-el-basquetbol-a-su-manera-20224110490" rel="follow" target="_blank">Trouville</a></strong> derrotó de manera sorpresiva y con una tremenda reacción a Nacional 81-77 de visitante este jueves a la noche y no dejó que los tricolores alcanzaran el récord que los propios rojos de Pocitos son dueños desde la temporada 2012-13, con 15 triunfos consecutivos en la Liga Uruguaya de Básquetbol.</p><p><a href="https://www.elobservador.com.uy/basquetbol/penarol-vs-nacional-vivo-los-aurinegros-quieren-terminar-el-invicto-tricolor-un-partidazo-que-promete-n5980352" rel="follow" target="_blank">Nacional venía de ganarle con propiedad el clásico a Peñarol </a><strong>el viernes de la semana pasada por 89-85 en el Palacio Cr. Gastón Guelfi y había alcanzado 14 triunfos seguidos.</strong></p><h2> Increíble: Trouville venció a Nacional y como hizo con Goes, no lo dejó alcanzar su récord de 15 victorias seguidas en la Liga Uruguaya de Básquetbol</h2><p>Lo de Trouville fue espectacular, no solo por el triunfo conseguido ante un rival trascendente, que venía invicto y líder de la Liga Uruguaya de Básquetbol, sino además, por la reacción que tuvo.</p><p><strong>Es que a falta de 9 minutos para terminar el encuentro, perdía por 15 puntos, pero luego, consiguió darlo vuelta</strong> en su visita al Gran Parque Central de Nacional.</p><p> <strong>Mateo Bolívar, con 21 puntos, fue el goleador de Trouville, </strong>y lo secundó Laquinton Lee Ross, con 14.</p><p>En tanto, en los tricolores, Connor Zinaich convirtió 25.</p><p>De esta manera, Trouville consiguió <a href="https://www.elobservador.com.uy/nota/goes-buscara-ante-trouville-igualarle-su-record-historico-de-15-triunfos-consecutivos-20222622560" rel="follow" target="_blank">algo que ya había logrado en febrero de 2022 cuando también le cortó, en ese caso a Goes, la posibilidad de igualarlo en su récord.</a></p><p><a href="https://fibalivestats.dcd.shared.geniussports.com/u/FUBB/2556845/bs.html#ASFSK" rel="follow" target="_blank">Mirá aquí las estadísticas completas del partido.</a></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 24 de enero  2025  -  16:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

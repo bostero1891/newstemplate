@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Darwin Núñez le pidió la camiseta de su equipo a un compañero de la selección: mirá cuál es'
+description: 'El delantero del Liverpool le hizo el pedido a un compañero de la selección uruguaya'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/fe8aeb708f000c742afd84b5cc2f051b/adjuntos/362/imagenes/100/567/0100567356/1000x0/smart/uruguay-colombia-eliminatorias-2026santiago-mele.jpg'
+image2: 'https://media.elobservador.com.uy/p/ccf9c314afc6ce8a039825c892c984b6/adjuntos/362/imagenes/100/590/0100590143/20250121-fbl-eur-c1-liverpool-lille-lilles-french-defender-18-bafode-diakite-l-fights-for-the-ball-with-liverpools-uruguayan-striker-09-darwin-nunez-during-the-uefa-champions-league-football-match-between-liverpool-and-lille-losc-at-anfield.jpg'
+date: 2025-02-07T12:04:00 +2:00:00
+date_es: '7 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Darwin Núñez fue protagonista el jueves del triunfo de Liverpool frente a Tottenham por la semifinal de vuelta de la EFL Cup, clasificando a la final del torneo inglés. Al mismo tiempo, <strong>un compañero del delantero en la selección uruguaya, contó que le pidió la camiseta de su equipo.</strong></p><p>Se trata del arquero de Junior de Barranquilla, <strong>Santiago Mele</strong>, quien brindó una entrevista para el diario Heraldo, y confesó que sus compañeros de la selección se encariñaron con el equipo donde él juega. </p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/fe8aeb708f000c742afd84b5cc2f051b/adjuntos/362/imagenes/100/567/0100567356/1000x0/smart/uruguay-colombia-eliminatorias-2026santiago-mele.jpg" height="undefined" id="593546-Libre-560714432_embed" src="https://media.elobservador.com.uy/p/fe8aeb708f000c742afd84b5cc2f051b/adjuntos/362/imagenes/100/567/0100567356/1000x0/smart/uruguay-colombia-eliminatorias-2026santiago-mele.jpg" title="" width="100%"/><div style='height: 75px;'></div><p class="">“Hay muchos compañeros que siguen a Junior. Por ejemplo, Nico Fonseca estaba hace poco en River y por ser compañero de Borja que miraba todos los partidos, él se convirtió un poco en hincha de Junior. También Facu Torres cuando estaba en el Orlando City por Muriel”, contó el golero.</p><p class="">Pero además, contó que <strong>Darwin Núñez le pidió la camiseta del Junior porque ahí jugó Luis Díaz</strong>, su actual compañero y amigo en el Liverpool.</p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" data-td-src-property="https://www.youtube.com/embed/Y5OwF1-U8x0?feature=oembed" frameborder="0" height="113" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Y5OwF1-U8x0?feature=oembed" title="Entrevista exclusiva con Santiago Mele, arquero de Junior “Esto no es un sprint, es una maratón”" width="200"></iframe></div><div style='height: 50px;'></div><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de febrero  2025  -  16:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

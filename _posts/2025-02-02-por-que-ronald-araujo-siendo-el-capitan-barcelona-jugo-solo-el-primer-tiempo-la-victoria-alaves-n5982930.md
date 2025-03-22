@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: '¿Por qué Ronald Araujo, siendo el capitán de Barcelona, jugó solo el primer tiempo en la victoria sobre Alavés?'
+description: '¿Por qué Ronald Araujo, siendo el capitán de Barcelona, jugó solo el primer tiempo en la victoria sobre Alavés?'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/922168811bab8ccbb8524e7b832fbf98/adjuntos/362/imagenes/100/593/0100593161/1000x0/smart/barcelonas-uruguayan-defender-04-ronald-federico-araujo-da-silva-l-celebrates-after-scoring-their-second-goal-with-teammate-barcelonas-french-defender-23-jules-kounde-during-the-uefa-champions-league-league-phase-football-match-between-fc-barcelona.jpg'
+image2: 'https://media.elobservador.com.uy/p/7e79c51a8dc7f2a982b7c01cec3dda51/adjuntos/362/imagenes/100/593/0100593161/316x177/smart/barcelonas-uruguayan-defender-04-ronald-federico-araujo-da-silva-l-celebrates-after-scoring-their-second-goal-with-teammate-barcelonas-french-defender-23-jules-kounde-during-the-uefa-champions-league-league-phase-football-match-between-fc-barcelona.jpg'
+date: 2025-02-02T16:09:00 +2:00:00
+date_es: '2 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Sin haberse apagado los ecos de la polémica arbitral en la derrota de Real Madrid el sábado contra Espanyol de visita 1-0, Barcelona, con <strong><a href="https://www.elobservador.com.uy/futbol/estoy-contento-ronald-araujo-explico-su-alegria-barcelona-y-respondio-si-son-candidatos-ganar-la-liga-campeones-n5982412" rel="follow" target="_blank">Ronald Araujo</a></strong> de capitán, derrotó por la mínima (1-0) a Alavés este domingo para colocarse a cuatro puntos del eterno rival, que se mantiene líder de LaLiga de España.</p><p>El polaco Robert Lewandoswki a la hora de juego (61 minutos) fue el único barcelonista que pudo romper la férrea defensa del rival que marcha en la posición 18º, el 18º gol en LaLiga esta temporada que dio los tres puntos a su equipo, <strong>que suma 45, por los 49 de los merengues punteros. En medio se sitúa el Atlético, con 48.</strong></p><p> "Sabíamos que teníamos que ganar hoy (...) No podemos ganar siempre con cuatro, cinco o seis goles de diferencia, a veces equipos como éste vienen y defienden muy atrás y lo hacen bien", destacó el goleador.</p><h2>¿Por qué Ronald Araujo, siendo el capitán de Barcelona, jugó solo el primer tiempo en la victoria sobre Alavés?</h2><p>Ronald Araujo, pese a ser capitán este domingo, jugó solamente los primeros 45 minutos.</p><p> Hasta ese momento, Barcelona no aprovechaba lo que había sido la sorpresiva caída de Real Madrid a manos de Espanyol 1-0.</p><p>El jugador de la selección de Uruguay de Marcelo Bielsa, <strong>vio la tarjeta amarilla en esa primera parte que disputó.</strong></p><p>Incluso estuvo a punto <strong>de ser expulsado. </strong></p><p>En ese contexto, el técnico alemán <strong>Hansi Flick decidió cambiarlo al final de la primera mitad. </strong></p><p>Según informa la prensa catalana, <strong>a Araujo, "le cuesta jugar con este sistema con la defensa adelantada".</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 2 de febrero  2025  -  00:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

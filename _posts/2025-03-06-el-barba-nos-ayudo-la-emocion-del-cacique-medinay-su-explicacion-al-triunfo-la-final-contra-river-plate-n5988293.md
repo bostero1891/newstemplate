@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: '"El barba nos ayudó": la explicación del Cacique Medina y su emoción tras el triunfo de Talleres frente a River Plate'
+description: 'Talleres de Córdoba, dirigido por Cacique Medina, ganó al final de la Supercopa Internacional Argentina frente a River Plate'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e9b74b1631068de36a9e362f93a038c5/adjuntos/362/imagenes/100/605/0100605693/1000x0/smart/alexander-medinajpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/44e5f690087a82585681cb3c2d2c6890/adjuntos/362/imagenes/100/605/0100605693/316x177/smart/alexander-medinajpg.jpg'
+date: 2025-03-06T10:32:00 +2:00:00
+date_es: '6 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El técnico uruguayo <a href="https://www.elobservador.com.uy/futbol-internacional/el-llanto-del-cacique-medina-ganar-talleres-la-supercopa-internacional-frente-al-river-marcelo-gallardo-n5988248" rel="follow" target="_blank">Alexander Medina</a> se metió en la historia de Talleres de Córdoba, tras vencer por penales a River Plate de Marcelo Gallardo, en la final de la Supercopa Internacional Argentina que se jugó en Asunción. Emocionado, el entrenador explicó lo que sintió en ese momento.</p><p>"Cómo se dio, rozar prácticamente la derrota, cómo se dieron los penales, y bueno, <strong>esta vez el barba nos ayudó</strong>, estuvo de nuestro lado, como en tantas oportunidades no", dijo el Cacique.</p><p>Y enumeró las perdidas: "la final con Boca, la final con Patronato, como muchos de los partidos de este año, en los que este equipo jugó bien y no mereció perder... Nos tenía algo preparado lindo, hermoso".</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> "EL BARBA NOS TENÍA ALGO PREPARADO HERMOSO..."<br/><br/> Cacique Medina tras ser CAMPEÓN con Talleres <a href="https://t.co/rT5f1NgVun">pic.twitter.com/rT5f1NgVun</a></p> &mdash; SportsCenter (@SC_ESPN) <a href="https://twitter.com/SC_ESPN/status/1897507943257366921?ref_src=twsrc%5Etfw">March 6, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p><strong> Talleres </strong>consiguió la segunda estrella en su historia. La primera fue la Copa Conmebol de 1999.</p><p> "Estoy contento, junto a mi padre y con Jorgito -un amigo-, un segundo padre. La verdad tengo una felicidad enorme porque lo estábamos buscando hace mucho tiempo y se nos dio. Estoy feliz por todo, por la gente, por los hinchas, por los que vinieron, por los que están en Córdoba, por el presidente y, sobre todo, por los jugadores", manifestó el entrenador.</p><p>Medina agregó: "Para nosotros no era un partido más. <strong>Había que hacer historia</strong>, había que tratar de ganar esta final porque era la ilusión de todos, porque el convencimiento que había en el vestuario era enorme. En todo momento estuvimos a la altura de la situación".</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 6 de marzo  2025  -  14:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

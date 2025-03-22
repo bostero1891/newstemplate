@@ -1,0 +1,17 @@
+---
+layout: post2
+title: 'Jayson Granger pidió disculpas, sin nombrar a Pepo Vidal, y aludió al racismo en el básquetbol'
+description: 'El basquetbolista de Peñarol pidió disculpas (no nombró a Santiago Pepo Vidal) luego de los gestos que hizo en la final contra Aguada'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/065f46953aa5009d93a929efda5b8fbc/adjuntos/362/imagenes/100/503/0100503462/1000x0/smart/20240602-primera-final-liga-uruguaya-basquetbol-2023-2024-penarol-aguada-foto-leonardo-carreno.jpg'
+date: 2024-06-07T11:55:00 +2:00:00
+date_es: '
+							7 de junio  2024 - 11:55hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><a href="https://www.elobservador.com.uy/basquetbol/jayson-granger-amenazo-muerte-santiago-vidal-otro-final-caliente-aguada-vs-penarol-n5944524" rel="follow" target="_blank">El basquetbolista de Peñarol, Jayson Granger</a>, quien amenazó con pegarle un balazo y cortarle el cuello a Santiago Pepo Vidal, durante la final de la Liga Uruguaya de básquetbol contra <a class="agrupador" href="https://www.elobservador.com.uy//tag/aguada" rel="7383">Aguada</a>, pidió disculpas a través de sus redes sociales.</p><p>El mensaje que publicó en su cuenta de X alude al racismo y las disculpas fueron hacia los aficionados y su familia, pero no nombró al jugador aguatero.</p><p>"Me gustaría pedir disculpas por cómo perdí los nervios en el partido ayer, <strong>no estoy acostumbrado a lidiar con el racismo y ciertas situaciones que no deberían de darse adentro de una cancha de basketball</strong>, es algo que nunca viví en mis 20 años como profesional. A pesar de todo, no justifica mis faltas de respeto y mi salida de tono. Pido disculpas a los aficionados y a mi familia"</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="zxx"> <a href="https://t.co/cPOsr2oGi4">pic.twitter.com/cPOsr2oGi4</a></p> &mdash; <a class="agrupador" href="https://www.elobservador.com.uy/tag/jayson-granger" rel="47469">Jayson granger</a> (@jaygranger11) <a href="https://twitter.com/jaygranger11/status/1799089522996609152?ref_src=twsrc%5Etfw">June 7, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><h2>Las amenazas de Jayson Granger</h2><p>El base de <a class="" cmp-ltrk="detalle-nota-links-cuerpo" cmp-ltrk-idx="0" data-mrf-link="https://www.elobservador.com.uy/club-atletico-penarol-a42904" href="https://www.elobservador.com.uy/club-atletico-penarol-a42904" mrfobservableid="1e748ed1-99ba-439d-af19-27d9d96ac74b" rel="42904">Peñarol</a> <strong><a class="" cmp-ltrk="detalle-nota-links-cuerpo" cmp-ltrk-idx="1" data-mrf-link="https://www.elobservador.com.uy/tag/jayson-granger" href="https://www.elobservador.com.uy/tag/jayson-granger" mrfobservableid="ff8ccfa2-7429-4dca-a40a-c2cf7579bc3d" rel="47469">Jayson Granger</a></strong> protagonizó un final violento al término del partido que <a class="" cmp-ltrk="detalle-nota-links-cuerpo" cmp-ltrk-idx="2" data-mrf-link="https://www.elobservador.com.uy/tag/aguada" href="https://www.elobservador.com.uy/tag/aguada" mrfobservableid="fbf2d416-406d-40f9-8ca4-2ceb466516f0" rel="7383">Aguada</a> le ganó a los aurinegros por 97-90 por la segunda final de la Liga Uruguaya de Básquetbol.</p><p> Granger tuvo un partido aparte con Santiago "Pepo" Vidal y una vez culminado el partido, le hizo gestos amenazándolo de muerte.</p>
+<div style='height: 300px;'></div>
+</html>

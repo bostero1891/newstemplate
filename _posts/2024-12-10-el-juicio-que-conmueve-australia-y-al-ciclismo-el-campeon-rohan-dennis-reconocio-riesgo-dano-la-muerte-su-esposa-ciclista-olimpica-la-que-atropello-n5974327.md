@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'El juicio que conmueve a Australia y al ciclismo: el campeón Rohan Dennis reconoció "riesgo de daño" en la muerte de su esposa, ciclista olímpica, a la que atropelló'
+description: 'El abogado de Rohan Dennis declaró que el antiguo ciclista de 34 años se mostró imprudente, pero que no tenía ninguna intención de matar a su esposa'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/1cb24e17c9cc586f82478b54d0043cd2/adjuntos/362/imagenes/100/391/0100391390/1000x0/smart/1704122230067webp.webp'
+image2: 'https://media.elobservador.com.uy/p/168797fda9ced7596e8eca48b802be44/adjuntos/362/imagenes/100/391/0100391390/316x177/smart/1704122230067webp.webp'
+date: 2024-12-10T09:02:00 +2:00:00
+date_es: '2024-12-10  09:02'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El australiano <strong><a href="https://www.elobservador.com.uy/nota/excampeon-mundial-de-contrarreloj-rohan-dennis-declaro-tras-ser-acusado-por-la-muerte-de-su-esposa-tambien-ciclista-a-quien-habria-atropellado-20243138918" rel="follow" target="_blank">Rohan Dennis</a>, campeón del mundo de contrarreloj en 2018 y 2019, reconoció este martes "un riesgo de daño" en relación a la muerte de su esposa Melissa Hoskins</strong> a finales de 2023, atropellada por el vehículo que conducía el exciclista, según la cadena de televisión australiana ABC.</p><p>Dennis, <strong>antiguo ciclista del equipo Ineos</strong>, se declaró culpable ante en un tribunal de Adelaida en el marco de "un cargo de acusación agravado de creación de un riesgo de daño", tras <a href="https://www.elobservador.com.uy/nota/drama-en-el-ciclismo-acusan-a-campeon-del-mundo-de-homicidio-involuntario-de-su-esposa-tambien-ciclista-atropellada-por-un-vehiculo-202411122037" rel="follow" target="_blank">haber atropellado a su esposa al volante de un coche</a>, según ABC.</p><p>Los fiscales decidieron no presentar cargos por "conducción peligrosa con resultado de muerte" y "conducción sin precaución y poner en peligro la vida de otro", añadió la cadena de televisión pública.</p><p>El abogado de Rohan Dennis declaró ante el tribunal que <strong>el antiguo ciclista de 34 años se mostró imprudente, pero que no tenía ninguna intención de matar a su esposa</strong>.</p><p> Los cargos retenidos podrían acarrearle hasta una pena máxima de siete años de prisión y una retirada del permiso de conducir durante cinco años. Dennis fue enviado al tribunal del distrito para recibir su sentencia.</p><p>Melissa Hoskins, antigua ciclista de pista retirada que representó a Australia en los Juegos de Londres 2012 y Rio 2016, <strong>falleció en un hospital de Adelaida tras sus graves heridas</strong>.</p><p>Formó parte del plantel australiano victorioso en la prueba de persecución por equipos del Mundial de ciclismo en pista de Francia 2015.</p><p><strong>A continuación se retiró en 2017 y se casó con Dennis en 2018, con el que tuvo dos hijos</strong>.</p><p>Dennis, antiguo especialista en pista, ganó la contrarreloj del Mundial en 2018 y 2019. Además logró una victoria de etapa en el Tour de Francia en 2015.</p><p>AFP</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/10 13:15 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

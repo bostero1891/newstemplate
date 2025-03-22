@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Orlando Petinatti, hincha de Nacional, colaboró con la colecta de Peñarol para Leo Fernández: entregó su aporte directamente a Ignacio Ruglio'
+description: 'El conductor de radio y televisión le entregó en vivo un monto de dinero al presidente aurinegro'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/71992ba241820ce5317700d03ff10c2f/adjuntos/362/imagenes/100/585/0100585956/1000x0/smart/rugliojpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/f1a58f58141a3790a04805b61e1db776/adjuntos/362/imagenes/100/585/0100585956/316x177/smart/rugliojpg.jpg'
+date: 2025-01-09T07:53:00 +2:00:00
+date_es: '9 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Peñarol confirmó la compra del 80% de la ficha de <a href="https://www.elobservador.com.uy/futbol/de-donde-saca-penarol-la-plata-pagar-leo-fernandez-ignacio-ruglio-lo-explico-y-dijo-cuanto-tiempo-seria-el-contrato-n5977764" rel="follow" target="_blank">Leonardo Fernández</a> al Toluca de México por US$ 7 millones. El volante ofensivo<strong> fue durante 2024 la figura excluyente del equipo que ganó el Campeonato Uruguayo</strong> de punta a punta y avanzó hasta semifinales de la Copa Libertadores.</p><p>Para ser frente a la operación, los aurinegros <strong>hará el lanzamiento de una colecta</strong> entre sus hinchas, así todos pueden colaborar para seguir disfrutando al ídolo.</p><p>En medio de la negociación y la implementación oficial de la recolección de dinero, sucedió un hecho risueño entre el conductor de radio y televisión, <strong>Orlando Petinatti</strong>, y el presidente aurinegro,<strong> Ignacio Ruglio</strong>.</p><h2>¿Cuánto le dio Petinatti a Ruglio?</h2><p>El dirigente era entrevistado por varios medios de prensa, estaba contando sobre la negociación, cuando apareció en escena el conductor,<strong> hincha fanático de Nacional</strong>.</p><p>"Perdón, disculpen, tomá", dijo Petinatti y <strong>le entregó $50 en la mano</strong>. Luego le dio un beso en la mejilla y siguió su camino, según se puede ver en el video publicado por FM Gente.</p><p>"Ya tenemos para la colecta, <strong>y de un bolso</strong>", dijo Ruglio.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Petinatti donó $50 a Ignacio Ruglio para la colecta de Leonardo Fernández.<br/><br/> Mientras el presidente de Peñarol dialogaba con FM GENTE, el conductor radial, reconocido públicamente como hincha de Nacional, protagonizó un momento llamativo que causó risas entre los presentes.… <a href="https://t.co/Zfn3anAEY6">pic.twitter.com/Zfn3anAEY6</a></p> &mdash; Fm Gente 094054756 (@fmgenteradio) <a href="https://twitter.com/fmgenteradio/status/1877132927726661723?ref_src=twsrc%5Etfw">January 8, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 9 de enero  2025  -  18:46 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

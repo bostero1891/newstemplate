@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Un grande de Chile quiere a una de las figuras del Peñarol campeón uruguayo'
+description: 'Un grande de Chile tiene en el radar a una de las mejores figuras que tuvo Peñarol en este 2024 y cuyo contrato se vence el 31 de diciembre'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/e14bcdfa053eb8cb30c3dd62e800ee3a/adjuntos/362/imagenes/100/573/0100573924/1000x0/smart/20241201-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-43jpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/48db372bf1495e6b626efbdcbdeadbd5/adjuntos/362/imagenes/100/573/0100573924/316x177/smart/20241201-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-43jpg.jpg'
+date: 2024-12-11T13:46:00 +2:00:00
+date_es: '2024-12-11  13:46'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Una de las figuras que tuvo <strong><a href="https://www.elobservador.com.uy/futbol/penarol-se-frota-las-manos-el-pase-facundo-torres-palmeiras-cuanto-puede-ingresar-la-plusvalia-la-transferencia-n5974532" rel="follow" target="_blank">Peñarol</a></strong> en la temporada 2024 ya empezó a sonar en distintos equipos del continente. </p><p>Primero surgió el nombre de Boca Juniors como uno de los posibles interesados. </p><p>Y en las últimas horas se sumó el de Colo Colo. </p><p>¿Quién es el jugador que está en el radar de esos clubes? <strong>Washington Aguerre. </strong></p><p> El golero tuvo un excelente 2024, tanto en el Campeonato Uruguayo como en la Copa Libertadores, aunque la serie semifinal que hizo ante Botafogo tuvo un final nefasto. </p><p>En el partido de ida, donde Peñarol cayó 5-0, al verse sorprendido en 10 minutos fatales, Aguerre tuvo un par de flojas respuestas en dos goles, más allá de que tuvo otras buenas intervenciones.</p><p>En la revancha, cuando Peñarol ganaba 1-0 al cabo del primer tiempo y tenía al rival (jugando con cinco suplentes) arrinconado y con una pelota en el palo, Aguerre se hizo echar al pisar al golero rival cuando ya había acabado el primer período. </p><p>A pesar de eso, la hinchada de Peñarol lo perdonó rápidamente y valoró todo lo hecho a lo largo del año.  </p><p>Aguerre tiene 31 años y su contrato con Peñarol vence el 31 de diciembre. </p><p>En Boca Juniors su nombre no fue manejado en el área directiva del club, según se informó a <em>Referí</em>. </p><p>Boca tiene a Cristian "Chiquito" Romero, de 37 años, figura en la Copa Libertadores 2023 y el año lo cerró atajando Leandro Brey, de 22 años, por algunas lesiones padecidas por Romero, un golero con pasado en AZ Alkmaar, Sampdoria, Mónaco, Manchester United y Venecia, además de mundialista en Sudáfrica 2010 y Brasil 2014. </p><p>En <strong>Colo Colo</strong>, flamante campeón del fútbol chileno, se da por hecha la salida de los goleros Brayan Cortés y Carlos Palacios y se manejan alternativas para reforzar el puesto. </p><p>Nombres como los de Claudio Bravo, Matías Dituro, Gabriel Arias y Keylor Navas ya fueron manejados públicamente y ahora, a esa lista, se sumó el nombre de Washington Aguerre.    </p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/11 18:00 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

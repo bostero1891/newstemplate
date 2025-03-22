@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'El increíble motivo que dejó afuera a Rodrigo Bentancur del partido de este sábado, que Tottenham perdió ante Newcastle'
+description: 'El volante uruguayo regresó a jugar en Tottenham en la fecha del Boxing Day tras cumplir siete partidos de suspensión, pero este sábado ante Newcastle no fue convocado'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/4c31deb0ebbcd0e9da595b2827f504d3/adjuntos/362/imagenes/100/582/0100582923/1000x0/smart/20241229-fbl-eng-pr-tottenham-wolves-tottenham-hotspurs-uruguayan-midfielder-30-rodrigo-bentancur-r-celebrates-with-tottenham-hotspurs-south-korean-striker-07-son-heung-min-l-after-scoring-their-first-goal-during-the-english-premier-league.jpg'
+image2: 'https://media.elobservador.com.uy/p/eb6545c63c51d7c0bd2c27d80970ca4d/adjuntos/362/imagenes/100/582/0100582923/316x177/smart/20241229-fbl-eng-pr-tottenham-wolves-tottenham-hotspurs-uruguayan-midfielder-30-rodrigo-bentancur-r-celebrates-with-tottenham-hotspurs-south-korean-striker-07-son-heung-min-l-after-scoring-their-first-goal-during-the-english-premier-league.jpg'
+date: 2025-01-04T11:31:00 +2:00:00
+date_es: '4 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El Tottenham de <a href="https://www.elobservador.com.uy/futbol/la-dura-sancion-que-puede-llegar-recibir-rodrigo-bentancur-su-broma-el-surcoreano-son-heung-min-n5969938" rel="follow" target="_blank">Rodrigo Bentancur</a> perdió 2-1 este sábado contra Newcastle</strong> por una nueva jornada de la Premier League. Dominic Solanke abrió la cuenta a los 4 minutos para Tottenham y todo era alegría en el Tottenham Hotspur Stadium de Londres. Pero todo se empezó a dar vuelta dos minutos después, con el empate de Anthony Gordon, y antes del final del primer tiempo, a los 38, con el tanto de Alexander Isak para Newcastle.</p><p>El equipo dirigido por Ange Postecoglou tuvo varias bajas para este encuentro: Micky van de Ven, Cuti Romero, Guglielmo Vicario, Destiny Udogie y <strong>el uruguayo Rodrigo Bentancur.</strong></p><h2> <strong>¿Por qué no jugó Rodrigo Bentancur?</strong></h2><p>El volante de la selección de Uruguay regresó al equipo el 26 de diciembre, durante el Boxing Day, <strong>luego de cumplir una sanción de siete partidos</strong> en la liga inglesa por sus comentarios sobre su compañero Son Heung-Min, que fueron considerados "racistas" por la Liga.</p><p>Bentancur, que no jugaba desde el 10 de noviembre, sumó 64 minutos en la derrota de los Spurs contra Nottingham Forest.</p><p> Este sábado, en la vuelta de la Premier, no fue convocado porque en el partido de su regreso recibió una tarjeta amarilla, por lo que <strong>llegó a la quinta y quedó suspendido por un partido.</strong></p><p><strong> El Tottenham suma apenas 24 puntos en 20 fechas disputadas y se encuentra en el puesto 11 de la Premier League.</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 4 de enero  2025  -  10:13 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Atalanta vs Real Madrid: Federico Valverde titular y los merengues en busca del repunta en la Champions'
+description: 'Atalanta vs Real Madrid: Federico Valverde titular y los merengues en busca del repunta en la Champions'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/44567ba1344f408c4385f7f959aa28c9/adjuntos/362/imagenes/100/577/0100577224/1000x0/smart/20241210-fbl-eur-c1-atalanta-real-madrid-real-madrids-french-forward-09-kylian-mbappe-celebrates-scoring-his-teams-first-goal-during-the-uefa-champions-league-football-match-between-atalanta-and-real-madrid-at-the-gewiss-stadium-in-bergamo-on.jpg'
+image2: 'https://media.elobservador.com.uy/p/5fba88e916c03186a4c8e21432633b76/adjuntos/362/imagenes/100/577/0100577224/665x399/smart/20241210-fbl-eur-c1-atalanta-real-madrid-real-madrids-french-forward-09-kylian-mbappe-celebrates-scoring-his-teams-first-goal-during-the-uefa-champions-league-football-match-between-atalanta-and-real-madrid-at-the-gewiss-stadium-in-bergamo-on.jpg'
+date: 2024-12-10T17:22:00 +2:00:00
+date_es: '2024-12-10  17:22'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Con <a href="https://www.elobservador.com.uy/futbol-internacional/la-carta-del-elfo-benicio-el-hijo-federico-valverde-y-mina-bonino-un-pedido-muy-especial-a-dormir-solito-n5974396" rel="follow" target="_blank"><strong>Federico Valverde</strong></a> como titular, Real Madrid visita a Atalanta en duelo correspondiente a la sexta fecha de la fase de liga de la UEFA Champions League. </p><p>Atalanta es quinto con 11 puntos y Real Madrid marcha 24º con 6 unidades, en discreta campaña. </p><p>Kylian Mbappé abrió la cuenta a los 9' con un potente remate cruzado entrando al área. </p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.champions.751929&amp;lang=es_LA" height="1000" scrolling="auto" src="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.champions.751929&lang=es_LA" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.champions&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.champions&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/10 21:30 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

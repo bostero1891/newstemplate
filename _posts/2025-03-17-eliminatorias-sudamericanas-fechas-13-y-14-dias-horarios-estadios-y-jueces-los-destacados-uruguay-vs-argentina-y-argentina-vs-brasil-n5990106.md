@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Eliminatorias Sudamericanas fechas 13 y 14: días, horarios, estadios y jueces; los destacados, Uruguay vs Argentina y Argentina vs Brasil'
+description: 'La fecha 13 de Eliminatorias tiene el partido Uruguay vs Argentina como destacado en el Estadio Centenario y en la 14, Argentina vs Brasil en el Monumental; mirá todos los detalles de los 10 encuentros de la doble fecha'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/b9047a5f43df1454be72e74525eefd01/adjuntos/362/imagenes/100/410/0100410401/1000x0/smart/1699450697551webp.webp'
+image2: 'https://media.elobservador.com.uy/p/b3c27501d56d2779b368b1a1dbc6381e/adjuntos/362/imagenes/100/410/0100410401/316x177/smart/1699450697551webp.webp'
+date: 2025-03-17T18:38:00 +2:00:00
+date_es: '17 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El año 2025 comienza con lo mejor que puede ofrecer las <strong>Eliminatorias Sudamericanas </strong>en esta doble fecha de marzo que ofrecerá <strong><a href="https://www.elobservador.com.uy/seleccion/la-lista-marcelo-bielsa-la-seleccion-uruguaya-enfrentar-argentina-y-bolivia-eliminatorias-el-mundial-2026-n5990070" rel="follow" target="_blank">Uruguay vs Argentina</a></strong> el viernes 21 en Montevideo y <strong>Argentina vs Brasil</strong> el martes 25 en Buenos Aires.</p><p>Entre este jueves 20 y el martes 25 se jugarán los <strong>10 partidos</strong> correspondientes a las <strong>fechas 13 y 14</strong> del torneo clasificatorio para el Mundial 2026, del cual los seis primeros de Conmebol irán en forma directa y el séptimo a un repechaje. Solo quedan eliminados en forma directa el octavo, noveno y décimo.</p><h2>Así está la tabla de posiciones de las Eliminatorias</h2><p>Luego de 12 fechas, los últimos partidos se jugaron en noviembre 2024, la <strong>tabla de posiciones </strong>dejó primero a Argentina, segundo a Uruguay y quinto a Brasil.</p><p>Así está la tabla de las Eliminatorias de Conmebol:</p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.eliminatorias&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.eliminatorias&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><h2>Fecha 13 de Eliminatorias: partidos, días, horarios, estadios y árbitros</h2><p>La<strong> fecha 13</strong> de las Eliminatorias se jugará entre el jueves 20 y el viernes 21.</p><p>Estos son los detalles:</p><h2>Fecha 13 de Eliminatorias: partidos, días, horarios, estadios y árbitros</h2><p>La <strong>fecha 14 </strong>de las Eliminatorias se jugará en un solo día y con cuatro partidos en el mismo horario.</p><p>Estos son los detalles:</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 17 de marzo  2025  -  22:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

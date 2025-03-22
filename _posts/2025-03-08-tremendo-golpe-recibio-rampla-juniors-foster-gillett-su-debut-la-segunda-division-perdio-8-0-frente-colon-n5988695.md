@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Tremendo golpe recibió Rampla Juniors de Foster Gillett en su debut en la Segunda división: perdió 8-0 frente a Colón'
+description: 'El conjunto picapiedra, dirigido por Leandro Somoza y con Julio Buffarini como titular, perdió 8-0 ante Colón'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/f31fc247c0b2337c2c8b600a35d7b1ec/adjuntos/362/imagenes/100/606/0100606556/1000x0/smart/rampla-jrsjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/81c3596cbd89b6364d17e84e7d89b36a/adjuntos/362/imagenes/100/606/0100606556/316x177/smart/rampla-jrsjpg.jpg'
+date: 2025-03-08T13:37:00 +2:00:00
+date_es: '8 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><a href="https://www.elobservador.com.uy/futbol/rampla-juniors-inicia-una-nueva-era-como-sociedad-anonima-deportiva-foster-gillett-al-frente-n5979377" rel="follow" target="_blank">Rampla Juniors</a> debutó este sábado en el Campeonato Uruguayo de la Segunda división profesional con un tremendo golpe: perdió 8-0 contra Colón. El equipo picapiedra se convirtió en enero pasado en <strong>sociedad anónima deportiva</strong> tras firmar un<strong> histórico acuerdo</strong> con el estadounidense Foster Gillett quien pasó a regir los destinos de la institución por los próximos <strong>30 años.</strong></p><p>Producto de la inversión, el cuerpo técnico dirigido por el argentino Leandro Somoza se hizo cargo del plantel y llegó como jugador estrella Julio Buffarini, de pasado en Boca Juniors, que este sábado fue titular.</p><div style='height: 75px;'></div><img alt="Julio Buffarini, Rampla Juniors" data-td-src-property="https://media.elobservador.com.uy/p/49bf5c702d51622c1d23e41a310c2616/adjuntos/362/imagenes/100/606/0100606563/1000x0/smart/buffarinijpg.jpg" height="undefined" id="624687-Libre-1168018716_embed" src="https://media.elobservador.com.uy/p/49bf5c702d51622c1d23e41a310c2616/adjuntos/362/imagenes/100/606/0100606563/1000x0/smart/buffarinijpg.jpg" title="Julio Buffarini, Rampla Juniors" width="100%"/><div style='height: 75px;'></div><p>El impactante resultado en contra de este sábado en el Parque Palermo repercutió fuerte entre los hinchas, especialmente porque en el primer tiempo el equipo ya perdía 6-0.</p><p>Los goles de Colón fueron convertidos por Santiago Benítez, Maximiliano Lombardi (2), Ignacio Casas, Leandro Méndez, Cristian Cruz, Maicol Ferreira y Ronald Álvarez.</p><div style='height: 75px;'></div><img alt="Tremenda goleada de Col&amp;oacute;n frente a Rampla Juniors" data-td-src-property="https://media.elobservador.com.uy/p/68c597d92aba5eb663d809fc5d1d55bc/adjuntos/362/imagenes/100/606/0100606564/1000x0/smart/colonjpg.jpg" height="undefined" id="624688-Libre-1383895439_embed" src="https://media.elobservador.com.uy/p/68c597d92aba5eb663d809fc5d1d55bc/adjuntos/362/imagenes/100/606/0100606564/1000x0/smart/colonjpg.jpg" title="Tremenda goleada de Col&amp;oacute;n frente a Rampla Juniors" width="100%"/><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 8 de marzo  2025  -  17:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

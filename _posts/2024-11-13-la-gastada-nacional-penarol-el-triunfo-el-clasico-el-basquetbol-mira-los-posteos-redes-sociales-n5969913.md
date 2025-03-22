@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'La gastada de Nacional a Peñarol tras el triunfo clásico en el básquetbol; mirá los posteos en redes sociales'
+description: 'Tras el triunfo, Nacional festejó en su cancha, donde se llenaron las tribunas, y también en las redes sociales'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/478a83beae1be426e38d3e32a7f90836/adjuntos/362/imagenes/100/565/0100565892/1000x0/smart/festejo-nacional-al-ganarle-el-clasico-penarol-basquetbol.jfif'
+date: 2024-11-13T08:26:00:00 +2:00:00
+date_es: '13 de noviembre  2024 - 8:26hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El <strong><a href="https://www.elobservador.com.uy/basquetbol/nacional-vs-penarol-vivo-hay-clasico-el-polideportivo-del-gran-parque-central-la-liga-uruguaya-basquetbol-n5969865" rel="follow" target="_blank">Club Nacional de Football celebró en sus redes el triunfo</a> en ante Peñarol</strong> de este martes por la Liga Uruguaya de Básquetbol y recordó el duelo ganado en el fútbol.</p><p>Los tricolores, de local y sin público visitante en su gimnasio del Gran Parque Central, se impusieron este martes por 80-78 en el partido por la sexta fecha de la fase regular y tras estar abajo en los dos primeros cuartos.</p><p>Tras el triunfo, Nacional festejó en la cancha, donde se llenaron las tribunas y también en las redes.</p><p><strong>“Clásico es ganarte”, publicó la cuenta oficial de Nacional</strong>, con una foto del partido de básquetbol de este martes y otra del último clásico del fútbol uruguayo que los albos ganaron en el Gran Parque Central por el Torneo Clausura.</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Clásico es ganarte <a href="https://twitter.com/hashtag/ElClubGigante?src=hash&ref_src=twsrc%5Etfw">#ElClubGigante</a> <a href="https://t.co/JoNN5TfRmK">pic.twitter.com/JoNN5TfRmK</a></p> &mdash; Nacional (@Nacional) <a href="https://twitter.com/Nacional/status/1856525596949360867?ref_src=twsrc%5Etfw">November 13, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p>Mientras que en la cuenta de Nacional Basketball señalaron que “en el Parque siempre hay fiesta”.</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> En el Parque hay fiesta (la fiesta)<a href="https://twitter.com/hashtag/MismoEscudoMismaPasi%C3%B3n?src=hash&ref_src=twsrc%5Etfw">#MismoEscudoMismaPasión</a> <a href="https://twitter.com/hashtag/ElClubGigante?src=hash&ref_src=twsrc%5Etfw">#ElClubGigante</a> <a href="https://t.co/zT8dA7pc9S">pic.twitter.com/zT8dA7pc9S</a></p> &mdash; Nacional Basketball (@CNdeFbasketball) <a href="https://twitter.com/CNdeFbasketball/status/1856531946756579554?ref_src=twsrc%5Etfw">November 13, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p></p>
+<div style='height: 300px;'></div>
+</html>

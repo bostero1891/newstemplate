@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Luis Suárez, Edinson Cavani y otro uruguayo en el emocionante posteo de la FIFA sobre los cracks que se retiraron de sus selecciones en 2024; mirá la imagen'
+description: '“El escenario internacional se despidió de algunas grandes leyendas en 2024”, dice el posteo de FIFA, con emoji con lágrimas'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/91c84dcfff0071a985191a3469decb87/adjuntos/362/imagenes/100/481/0100481261/1000x0/smart/000-32vz6mh-jpgwebp.webp'
+image2: 'https://media.elobservador.com.uy/p/28d551f56dac311bf418434583cab093/adjuntos/362/imagenes/100/481/0100481261/316x177/smart/000-32vz6mh-jpgwebp.webp'
+date: 2025-01-01T11:37:00 +2:00:00
+date_es: '2025-01-01  11:37'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Los delanteros uruguayos <strong><a href="https://www.elobservador.com.uy/futbol-internacional/el-delantero-argentino-que-quiere-inter-miami-lionel-messi-y-luis-suarez-y-quien-negocia-su-prestamo-n5977250" rel="follow" target="_blank">Luis Suárez</a> y Edinson Cavani, y el arquero Fernando Muslera, aparecen en una posteo de la FIFA</strong> para homenajear a los cracks internacionales que se retiraron de sus selecciones en el año 2024.</p><p>En la publicación en las redes oficiales del ente rector del fútbol mundial se ve una imagen montada en la que aparecen varios futbolistas de renombre, entre ellos los dos atacantes que se despidieron de la celeste en el pasado año y también el golero que marcó una época en el combinado.</p><div style='height: 75px;'></div><img alt="La imagen de la FIFA" data-td-src-property="https://media.elobservador.com.uy/p/8775397191fe9be9d6c6982fde3c3f5d/adjuntos/362/imagenes/100/583/0100583621/1000x0/smart/la-imagen-la-fifa.jpg" height="undefined" id="606152-Libre-2085080617_embed" src="https://media.elobservador.com.uy/p/8775397191fe9be9d6c6982fde3c3f5d/adjuntos/362/imagenes/100/583/0100583621/1000x0/smart/la-imagen-la-fifa.jpg" title="La imagen de la FIFA" width="100%"/><div style='height: 75px;'></div><p><strong> “El escenario internacional se despidió de algunas grandes leyendas en 2024”, dice el posteo de FIFA.</strong></p><p> Además, le agregaron el emoji de una cara con emoción y lágrimas.</p><p> Entre los jugadores que aparecen en la imagen de la FIFA están el argentino Ángel Di María, el francés Antoine Griezmann, el chileno Claudio Bravo, los alemanes Manuel Nuer y Tony Kroos, entre otros.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="en"> The international stage said goodbye to some huge legends in 2024. <a href="https://t.co/i6Yf1zRdQZ">pic.twitter.com/i6Yf1zRdQZ</a></p> &mdash; FIFA World Cup (@FIFAWorldCup) <a href="https://twitter.com/FIFAWorldCup/status/1873745539512307848?ref_src=twsrc%5Etfw">December 30, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2025/01/02 14:31 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

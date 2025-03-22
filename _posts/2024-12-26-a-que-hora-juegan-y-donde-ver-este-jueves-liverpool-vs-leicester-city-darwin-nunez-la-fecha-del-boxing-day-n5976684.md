@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '¿A qué hora juegan y dónde ver este jueves Liverpool vs Leicester City con Darwin Núñez, en la fecha del Boxing Day?'
+description: 'Liverpool de Darwin Núñez, líder de la Premier League, recibe este jueves a Leicester City por una nueva jornada de la liga inglesa'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/6bc19361e4e4960a4aef603da3b1c146/adjuntos/362/imagenes/100/574/0100574907/1000x0/smart/newcastle-united-kingdom-04122024-liverpools-darwin-nunez-reacts-during-the-english-premier-league-soccer-match-between-newcastle-united-and-liverpool-fc-in-newcastle-britain-04-december-2024-reino-unido-efeepapeter-powell-editorial-use-on.jpg'
+image2: 'https://media.elobservador.com.uy/p/3974e97e8009efe4dc5d521f9ad599c9/adjuntos/362/imagenes/100/574/0100574907/316x177/smart/newcastle-united-kingdom-04122024-liverpools-darwin-nunez-reacts-during-the-english-premier-league-soccer-match-between-newcastle-united-and-liverpool-fc-in-newcastle-britain-04-december-2024-reino-unido-efeepapeter-powell-editorial-use-on.jpg'
+date: 2024-12-26T05:00:00 +2:00:00
+date_es: '2024-12-26  05:00'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Tras la victoria por 6-3 el fin de semana,<strong> Liverpool de Darwin Núñez, recibe este jueves a Leicester</strong>, que lucha por evitar el descenso, en el estadio de Anfield, <a href="https://www.elobservador.com.uy/futbol-internacional/premier-league-boxing-day-2024-que-se-llama-asi-que-juegan-al-futbol-el-26-diciembre-y-cuando-lo-hacen-n5976667" rel="follow" target="_blank">en la fecha del Boxing Day</a>. El equipo de Arne Slot desmanteló al Tottenham a puro contragolpe, logrando un triunfo decisivo, ya que el Chelsea había empatado con el Everton más temprano el mismo día, cuando una victoria habría dejado a los Blues en lo más alto de la tabla durante un par de horas.</p><p>En cambio, <strong>Liverpool llegó a Navidad con cuatro puntos de ventaja</strong> y un partido aún pendiente. Slot ha perdido solo 1 de sus últimos 54 partidos como entrenador, desde hace más de un año (el 3 de diciembre) incluyendo su última temporada en el Feyenoord.</p><h2>¿A qué hora juegan Liverpool vs Leicester City?</h2><p>El equipo de Darwin Núñez juega <strong>este jueves 26 de diciembre a las 17 horas </strong>en el estadio de Anfield.</p><h2>¿Dónde ver Liverpool vs Leicester City en el Boxing Day?</h2><p>El partido se podrá ver en Uruguay <strong>a través de la pantalla de ESPN y por streaming en Disney+</strong>.</p><h2> Posiciones de la Premier League</h2><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/26 20:46 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

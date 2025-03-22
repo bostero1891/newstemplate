@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'El desesperado grito de Freddy, el youtuber de Peñarol, tras el blooper de Campaña y Coelho que costó el empate de River Plate'
+description: 'Peñarol empató con River Plate en el Saroldi tras un creíble gol que recibió y que el relator aurinegro casi infarta: "No, no, no, nooooooooooooooooooooo"'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/b916ac3d39f4bce4532504f7e0302718/adjuntos/362/imagenes/100/601/0100601568/1000x0/smart/fredyjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/7b4aeb09c1d007b8890b1be92036a3ed/adjuntos/362/imagenes/100/601/0100601568/316x177/smart/fredyjpg.jpg'
+date: 2025-02-24T07:33:00 +2:00:00
+date_es: '24 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><a href="https://www.elobservador.com.uy/futbol/river-plate-vs-penarol-el-manya-obligado-ganar-seguir-arriba-nacional-y-cerca-del-peloton-avanzada-n5986500" rel="follow" target="_blank">Peñarol</a> volvió a dejar puntos en el Torneo Apertura. Empató 1-1 contra River Plate en el Saroldi, por la cuarta fecha. <strong>Es el tercer empate consecutivo del equipo que dirige Diego Aguirre</strong>. El de este domingo tuvo un impacto emocional tremendo, por el gol que recibió Martín Campaña, tras chocar con su compañero Leo Coelho.</p><p>La pelota derivó hacia Faustino Barone, pero antes que el delantero de River llegó Coelho, que intentó cubrirla. Al mismo tiempo salió Campaña, quien <strong>chocó con su compañero y le dejó el gol servido al futbolista darsenero</strong>, que marcó el empate a los 84 minutos.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> En la noche de hoy, y tras ir ganando 1 a 0, <a href="https://twitter.com/OficialCAP?ref_src=twsrc%5Etfw">@OficialCAP</a> terminó empatando con <a href="https://twitter.com/cariverplateuru?ref_src=twsrc%5Etfw">@cariverplateuru</a> luego de un olvidable segundo tiempo. El empate llegó como consecuencia de un grueso error defensivo y, una vez más, Leo Fernández marró un penal. Este es nuestro compacto. <a href="https://t.co/ZdE7aZK2gC">pic.twitter.com/ZdE7aZK2gC</a></p> &mdash; Tenfieldoficial (@tenfieldoficial) <a href="https://twitter.com/tenfieldoficial/status/1893860207303774567?ref_src=twsrc%5Etfw">February 24, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p><strong> La desazón fue total en el carbonero. </strong>Incluso en el relato partidario de Freddy García, el conocido youtuber de Peñarol, quien estaba como es habitual relatando junto a Fabio y El Richi.</p><p>El grito de desesperación cuando se chocaron Campaña y Coelho fue fatal: <strong>"No, no, no, noooooooooooooooo"</strong>, exclamó mientras se agarraba la cabeza.</p><p> "Coelho lo marcó a Campaña. Se hicieron un gol insólito. Un blooper. Esto es joda", fueron los comentarios de los desconcertados hinchas.</p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 24 de febrero  2025  -  11:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

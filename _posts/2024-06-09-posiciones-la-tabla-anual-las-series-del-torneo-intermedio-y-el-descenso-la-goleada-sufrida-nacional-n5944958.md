@@ -1,0 +1,17 @@
+---
+layout: post2
+title: 'Posiciones de la Tabla Anual, las series del Torneo Intermedio y el descenso tras la goleada sufrida por Nacional'
+description: 'Mirá cómo quedaron las tablas de posiciones del Campeonato Uruguayo tras las derrotas de Peñarol con Wanderers del sábado y de Nacional con Cerro este domingo'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/3aa40132e1e02e2ef1073ca688449304/adjuntos/362/imagenes/100/506/0100506278/1000x0/smart/20240609-cerro-nacional-franzini-torneo-intermedio-2024-foto-nacional.jpg'
+date: 2024-06-09T21:59:00 +2:00:00
+date_es: '
+							9 de junio  2024 - 21:59hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><a class="agrupador" href="https://www.elobservador.com.uy/club-atletico-penarol-a42904" rel="42904">Peñarol</a> mantuvo sus siete puntos de ventaja sobre <strong><a class="agrupador" href="https://www.elobservador.com.uy/nacional-a47436" rel="47436">Nacional</a></strong> en la Tabla Anual pese a perder el sábado 2-0 contra Wanderers. El tricolor no lo aprovechó este domingo al caer goleado 3-0 contra Cerro que jugó más de 60 minutos con un hombre de menos. </p><p>En la Tabla Anual, Peñarol se mantuvo con 41 puntos y Nacional es segundo con 34. </p><p>Defensor Sporting, que le ganó en el Campus 2-0 a Deportivo Maldonado, sigue tercero con 31 unidades, quedando a tiro de Nacional. </p><p>En el grupo A del Torneo Intermedio, Defensor Sporting picó en punta junto con Wanderers, Racing, que derrotó de atrás 2-1 a Fénix, y Progreso, que cortó una racha de cinco derrotas y superó 1-0 a River Plate. </p><p> El triunfo tuvo un condimento extra para Progreso porque River Plate se lo empató en la hora y Horacio Salaberry le gritó el gol a los hinchas de Progreso. Por intervención del VAR, el tanto fue bajado del marcador. </p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> GRITALO AHORA A NUESTRA TRIBUNA. ¡¡DALE GRITALO!!</p> &mdash; C. A. Progreso (@ProgresoOficial) <a href="https://twitter.com/ProgresoOficial/status/1799895440013586891?ref_src=twsrc%5Etfw">June 9, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p>En el grupo B, Cerro picó en punta al golear a Nacional y  por diferencia de goles es el único puntero. </p><p>Miramar Misiones, que sorprendió 1-0 al campeón uruguayo Liverpool en Belvedere, también está en la cima. Se trata de dos equipos que pelean el descenso </p><p>La primera fecha se completa el martes cuando jueguen Rampla Juniors vs Boston River en el Palermo, a la hora 15.00. </p><iframe class="border-0" data-td-src-property="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe><div style='height: 30px;'><p>En el descenso, los que están en zona roja son Miramar Misiones con un promedio de 0,875, Fénix con 0.943 y Rampla Juniors con 1,000. </p><p>Los que tienen a tiro son Deportivo Maldonado con 1,094, River Plate con 1,169 y Cerro y Danubio con 1,188. </p>
+<div style='height: 300px;'></div>
+</html>

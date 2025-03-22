@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Peñarol vs Boston River EN VIVO: los aurinegros van por tres puntos trascendentes ante un rival copero'
+description: 'Peñarol vs Boston River EN VIVO: los aurinegros van por tres puntos trascendentes ante un rival copero'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/bd0a11fb86bf97e3cac269c70618fdba/adjuntos/362/imagenes/100/573/0100573907/1000x0/smart/20241201-leo-fernandez-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-26jpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/4c93b8d7a51c802af3cb7139623b9e07/adjuntos/362/imagenes/100/573/0100573907/665x399/smart/20241201-leo-fernandez-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-26jpg.jpg'
+date: 2025-02-15T17:37:00 +2:00:00
+date_es: '15 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/la-sorpresa-que-preparo-diego-aguirre-los-titulares-penarol-que-hoy-enfrentan-boston-river-el-torneo-apertura-n5985303" rel="follow" target="_blank">Peñarol </a></strong> recibe este sábado desde la hora 19.30 a Boston River en el marco de la tercera fecha del Torneo Apertura en el Estadio Campeón del Siglo. Los aurinegros, tal como aconteció en la pasada etapa en la que igualaron 1-1 ante Nacional en el Gran Parque Central, no podrán contar con su público.</p><p>En esta oportunidad, se debe a que sus hinchas y socios fueron suspendidos por un partido debido a los incidentes que produjeron parte de su hinchada en el clásico de la Supercopa Uruguaya.</p><p>Por su parte, el rival, Boston River, se prepara para debutar el próximo miércoles en la fase 2 de la Copa Libertadores de América ante Ñublense de Chile.</p><p><strong>Seguí aquí la previa y los detalles del partido:</strong></p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.uruguay.767475&amp;lang=es_LA" height="1000" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.uruguay.767475&lang=es_LA" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><p></p><p></p><p></p><div style='height: 75px;'></div><img alt="Andrés Matonte " data-td-src-property="https://media.elobservador.com.uy/p/3c7609c0b8d8ee7c045b2b8e9e214db7/adjuntos/362/imagenes/100/571/0100571576/1000x0/smart/andres-matonte.jpeg" height="undefined" id="596706-Libre-1363559979_embed" src="https://media.elobservador.com.uy/p/3c7609c0b8d8ee7c045b2b8e9e214db7/adjuntos/362/imagenes/100/571/0100571576/1000x0/smart/andres-matonte.jpeg" title="Andrés Matonte " width="100%"/><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 15 de febrero  2025  -  21:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

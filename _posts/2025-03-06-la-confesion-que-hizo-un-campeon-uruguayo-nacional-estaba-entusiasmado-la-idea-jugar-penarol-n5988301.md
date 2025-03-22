@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'La confesión que hizo un campeón uruguayo con Nacional: "Estaba entusiasmado con la idea de jugar en Peñarol"'
+description: 'La confesión que hizo un campeón uruguayo con Nacional: "Estaba entusiasmado con la idea de jugar en Peñarol"'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/1a00cbb3342edd03a689acb7d932c9b5/adjuntos/362/imagenes/100/342/0100342054/1000x0/smart/whatsapp-image-2019-03-30-at-174546webp.webp'
+image2: 'https://media.elobservador.com.uy/p/f3644409770907b46b1432b3e175e50e/adjuntos/362/imagenes/100/342/0100342054/316x177/smart/whatsapp-image-2019-03-30-at-174546webp.webp'
+date: 2025-03-06T10:50:00 +2:00:00
+date_es: '6 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Uno de los delanteros más importantes del momento en la Copa Libertadores es el uruguayo Octavio Rivero, quien juega en Barcelona de Guayaquil. Este miércoles el futbolista marcó el segundo gol, de los tres que su equipo le hizo a Corinthians por la tercera fase del torneo continental.</p><p>Rivero, de 33 años, <strong>comenzó su carrera en Central Español</strong> y continuó en Rentistas, O'Higgins de Chile, Vancouver de Canadá, Colo Colo de Chile y Atlas de México.</p><p><strong>En la temporada 2019 regresó a Uruguay para jugar en Nacional.</strong> A mitad de año se fue, tras marcar 5 goles con la casaca tricolor.</p><p>Después siguió en Santos Laguna de México, Unión La Calera y Unión Española de Chile, y volvió a Uruguay para jugar en Racing durante 2023 y Defensor Sporting en 2024.</p><p> Este año, estuvo a punto de firmar en Peñarol, según contó el propio Rivero este jueves en El Espectador: "En 2024 estuve muy cerca de jugar en Peñarol. <strong>Hablé con Diego Aguirre y estaba muy entusiasmado con la idea</strong> pero luego el club se demoró y terminé cerrando con Defensor Sporting. Realmente no se que sucedió y no se cerró lo de Peñarol".</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/ac1303adfe639f06d56354db9314a034/adjuntos/362/imagenes/100/598/0100598943/1000x0/smart/octavio-rivero-dosjpg.jpg" height="undefined" id="618494-Libre-801146381_embed" src="https://media.elobservador.com.uy/p/ac1303adfe639f06d56354db9314a034/adjuntos/362/imagenes/100/598/0100598943/1000x0/smart/octavio-rivero-dosjpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Sobre su pasaje por el equipo tricolor, que empezó dirigiendo Eduardo Domínguez y siguió Álvaro Gutiérrez, expresó: "<strong>La de Nacional fue una etapa complicada </strong>para mí pero tengo un gran recuerdo. Jugué poco y me quede con un sabor amargo porque yo estaba con problemas personales".</p><p>Al final de la temporada Nacional fue campeón uruguayo, venciendo en las finales a Peñarol.</p><p>Respecto a su presente en Ecuador, Rivero expresó: "<strong>Barcelona es un club espectacular</strong>. Siempre nos acompaña mucha gente. De local y de visitante. Llenan todos los estadios, los aeropuertos, los hoteles. Es tremendo".</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 6 de marzo  2025  -  15:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

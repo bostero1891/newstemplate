@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '"Casi me muero, sabés cómo gocé el 5-0 de Botafogo": Alejandro Balbi contó cómo sufrió por la Copa Libertadores de Peñarol'
+description: '"Salí a caminar con la camiseta de Botafogo que me regaló mi amigo Mateo Ponte”, expresó Alejandro Balbi'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/701640f8768a19fa41d1a641723c0907/adjuntos/362/imagenes/100/389/0100389018/1000x0/smart/alejandro-balbi-presidente-nacional.webp'
+image2: 'https://media.elobservador.com.uy/p/3b459da677d93a2b0bead43bc816f9d5/adjuntos/362/imagenes/100/390/0100390616/316x177/smart/-lcm2424-jpgwebp.webp'
+date: 2024-12-13T10:14:00 +2:00:00
+date_es: '2024-12-13  10:14'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Alejandro Balbi, el presidente del Club <a href="https://www.elobservador.com.uy/futbol/el-ex-nacional-que-se-despidio-su-equipo-brasil-es-el-momento-un-nuevo-desafio-n5974960" rel="follow" target="_blank">Nacional</a> de Football que dejará su cargo tras las elecciones de este sábado, reconoció que sufrió por la actuación de Peñarol en la Copa Libertadores 2024,</strong> en la que los carboneros llegaron a semifinales.</p><p>Consultado por si lo afectó el avance de los aurinegros en el torneo, respondió: “Sí, obvio. No te mentiría. <strong>Me muero, no estaría acá si Peñarol llegaba a la final”, dijo</strong> <a href="https://www.elobservador.com.uy/futbol/sabes-lo-que-es-enterrar-un-companero-alejandro-balbi-como-impacto-la-muerte-juan-izquierdo-dos-referentes-nacional-y-opino-la-continuidad-polenta-n5974926" rel="follow" target="_blank">este jueves a De fútbol se habla así de DSports Uruguay</a>.</p><p><strong>“Casi me muero”, agregó, sobre cuando Peñarol pasó a Flamengo en cuartos de final.</strong></p><div style='height: 75px;'></div><img alt="Alejandro Balbi, presidente de Nacional" data-td-src-property="https://media.elobservador.com.uy/p/701640f8768a19fa41d1a641723c0907/adjuntos/362/imagenes/100/389/0100389018/1000x0/smart/alejandro-balbi-presidente-nacional.webp" height="undefined" id="411963-Libre-1230109608_embed" src="https://media.elobservador.com.uy/p/701640f8768a19fa41d1a641723c0907/adjuntos/362/imagenes/100/389/0100389018/1000x0/smart/alejandro-balbi-presidente-nacional.webp" title="Alejandro Balbi, presidente de Nacional" width="100%"/><div style='height: 75px;'></div><p>“¿Qué queres, que te mienta? Que diga no, soy uruguayo, apoyo a los equipos, mis hermanos... Qué mis hermanos, quería que perdieran. Sabés cómo gocé el 5-0 de Botafogo”, señaló.</p><p> Balbi señaló que salió a caminar con una camiseta del club brasileño que eliminó a los aurinegros.</p><p>“Tengo la camiseta de Botafogo y ayer <strong>salí a caminar con la camiseta de Botafogo que me regaló mi amigo Mateo Ponte”, expresó.</strong></p><p>Ante la pregunta de si le habían dicho algo o recibido algún insulto en la calle, respondió: “Viva Botafogo”.</p><p>Además, respondió con ironía cuando le consultaron si era hincha de Botafogo: “Toda la vida, de chiquito, como yo soy medio morocho, me crié en la favela”.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/13 14:30 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

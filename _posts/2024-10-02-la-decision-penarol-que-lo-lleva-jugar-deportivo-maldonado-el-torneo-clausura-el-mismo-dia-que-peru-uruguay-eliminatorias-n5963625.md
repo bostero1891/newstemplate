@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'La determinación de Peñarol que lo lleva a jugar con Deportivo Maldonado por el Torneo Clausura el mismo día que Perú-Uruguay por Eliminatorias'
+description: 'La determinación de Peñarol que lo lleva a jugar con Deportivo Maldonado por el Torneo Clausura el mismo día que Perú-Uruguay por Eliminatorias'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/49ab2dbeebcfb75809beb8533b296c44/adjuntos/362/imagenes/100/486/0100486452/1000x0/smart/-ine0468-jpgwebp.webp'
+date: 2024-10-02T12:03:00:00 +2:00:00
+date_es: '2 de octubre  2024 - 12:35hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/el-comunicado-penarol-la-decision-nacional-aplicar-derecho-admision-tres-funcionarios-el-clasico-del-gran-parque-central-n5963580" rel="follow" target="_blank">Peñarol </a></strong> continúa entrenando con la única baja por lesión de Damián Suárez por lesión para enfrentar el próximo domingo a la hora 16 a Nacional por la sexta fecha del Torneo Clausura en el Gran Parque Central.</p><p>Los aurinegros no tendrán hinchada en este compromiso, como tampoco la tuvo su rival cuando se enfrentaron en el Torneo Apertura en el Estadio Campeón del Siglo e igualaron, en un mal partido, 0-0.</p><p>El lunes a la noche en el 0-0 contra Racing, <strong>Diego Aguirre ordenó el descanso de varios de los titulares </strong>que el pasado jueves habían dejado por el camino al poderoso Flamengo de Brasil de la Copa Libertadores de América y a la que clasificaron a las semifinales luego de 13 años.</p><p>Entre ellos no estuvieron, entre otros, Maximiliano Silvera, Maximiliano Olivera, Leonardo Fernández -quien arrastra cuatro tarjetas amarillas y de ver una más, será suspendido por un encuentro-, Washington Aguerre y Leonardo Sequeira.</p><h2> La decisión de Peñarol por la que jugará antes de Perú-Uruguay por Eliminatorias</h2><p>La Mesa Ejecutiva de la Primera división fijó lo que será la séptima fecha del Torneo Clausura.</p><p><strong>Peñarol jugará el viernes 11 de octubre a la hora 19 en el Estadio Campeón del Siglo ante Deportivo Maldonado.</strong></p><p>Menos de una hora y media después de terminado ese encuentro, <strong>la selección de Uruguay visitará a Perú </strong>para cerrar la primera rueda de las Eliminatorias sudamericanas para el Mundial de Estados Unidos, Canadá y México de 2026.</p><p><strong>¿Por qué coinciden los dos partidos el mismo día? </strong>Según informó una fuente a <em>Referí</em>, <strong>Peñarol tiene ocupado su estadio</strong> el sábado 12, día en que debería jugar ante Deportivo Maldonado, debido a que se corre la <strong>carrera 5k </strong>que organiza el club.</p><p>Debido a ello, fue <strong>el club aurinegro que le pidió a la Mesa Ejecutiva no jugar el sábado y adelantarlo</strong>, por lo que se fijó el viernes, horas antes del encuentro de Uruguay por las Eliminatorias.</p><p>Ese fin de semana Peñarol debía jugar el sábado debido a que el miércoles 15 enfrentará a Danubio por el Clausura.</p>
+<div style='height: 300px;'></div>
+</html>

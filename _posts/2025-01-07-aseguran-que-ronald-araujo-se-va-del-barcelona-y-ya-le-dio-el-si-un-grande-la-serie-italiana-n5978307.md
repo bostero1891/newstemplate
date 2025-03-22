@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Aseguran que Ronald Araujo se va del Barcelona y ya le dio el "sí" a un grande de la Serie A italiana'
+description: '¿Se va? Es fuerte el rumor sobre la posible salida de Ronald Araujo de Barcelona; lo quiere uno de los grandes de Italia'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/b98cfdbc9dbd01ffd1f3d4d245d84c62/adjuntos/362/imagenes/100/571/0100571753/1000x0/smart/ronald-araujojpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/a072111939b78dfa09c1750aa0578fdd/adjuntos/362/imagenes/100/571/0100571753/665x399/smart/ronald-araujojpg.jpg'
+date: 2025-01-07T10:33:00 +2:00:00
+date_es: '7 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><a href="https://www.elobservador.com.uy/futbol-internacional/video-ronald-araujo-volvio-jugar-barcelona-despues-7-meses-como-le-fue-al-zaguero-la-seleccion-uruguay-n5977989" rel="follow" target="_blank">Ronald Araujo</a> volvió al fin de semana a jugar en Barcelona después de siete meses, tras recuperarse de una lesión que sufrió durante la última Copa América, pero <strong>su contrato con los azulgranas termina a mediados de 2026</strong> y todavía está lejos de la renovación.</p><p>De manera que su salida de Barcelona es posible, más teniendo en cuenta el ascenso de Pau Cubarsí e Iñigo Martínez, quienes juegan en su puesto.</p><p>Los medios italianos aseguran este martes que <strong>Araujo le dio el "sí" a Juventus para un posible fichaje</strong>.</p><p>La Gazzetta dello Sport, el sitio deportivo más importante de Italia, adelantó la información de las negociaciones entre el futbolista de la selección uruguaya y la Juve, que intenta llevar las bajas de los lesionados Bremer y Cabal, además de la de Danilo, quien sale del club.</p><h2> Ronald Araujo dio el sí a Juventus</h2><p>"La Juventus recibió el sí del central, al que<strong> le gustaría tener más espacios y volver a jugar de forma continuada</strong> tras estar mucho tiempo de baja por una grave lesión. Ahora habrá que convencer al Barcelona, que lo compró en 2018 procedente del Boston River y con contrato hasta 2026", explica el diario italiano.</p><p class="" data-gtm-element-container="modulo-texto-link" data-mrf-recirculation="links-parrafos">La fórmula que busca la "Vecchia Signora" es la de <strong>una cesión remunerada con una obligación de compra</strong>. </p><p class="" data-gtm-element-container="modulo-texto-link" data-mrf-recirculation="links-parrafos">Debido a que Araujo tiene pasaporte español, no utiliza plaza de futbolista extracomunitario, por lo que Juventus podría también incorporar al eslovaco David Hancko, otro jugador que pretenden.</p><p class="" data-gtm-element-container="modulo-texto-link" data-mrf-recirculation="links-parrafos">Consultado después del partido contra Barbastro sobre su renovación, el uruguayo dijo: "Estamos hablando con el club sobre mi renovación, pero estoy centrado en volver a jugar y en sumar minutos", comentó en la SER.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de enero  2025  -  14:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

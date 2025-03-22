@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Diego Aguirre y su renovación en Peñarol para 2025: "Hay que conversar un poquito"; mirá lo que dijo el entrenador campeón uruguayo'
+description: '“Pasé un año muy feliz, un año increíble”, expresó Diego Aguirre sobre la temporada 2024 en Peñarol'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/e063ef7a6cf8cdfe5064572684b5aa2a/adjuntos/362/imagenes/100/575/0100575163/1000x0/smart/la-foto-familiar-diego-aguirre-y-la-copa-el-festejo-privado-penarol.jpg'
+date: 2024-12-06T10:12:00 +2:00:00
+date_es: '2024-12-06 10:12:00'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El entrenador de <strong>Peñarol, <a href="https://www.elobservador.com.uy/futbol/la-foto-familiar-diego-aguirre-y-la-copa-el-festejo-privado-penarol-el-campeon-del-siglo-n5973665" rel="follow" target="_blank">Diego Aguirre</a>, habló sobre su renovación en el club para la temporada 2025</strong> y señaló que aún no está cerrada, pero “todo indica” que estará al frente del equipo.</p><p><strong>“Vamos a ver, hay que conversar un poquito, pero todo indica que voy a estar en Peñarol para el próximo año”, señaló </strong>a DSports.</p><p>Consultado por si faltaban detalles para sellar su renovación, expresó: <strong>“Hablamos de muchas cosas no solamente de esos detalles”.</strong></p><p> Aguirre también manifestó su alegría por la gran temporada 2024 que se selló con el título del Campeonato Uruguayo luego de una gran Copa Libertadores.</p><p> “Contento por el año que hemos tenido y por la posibilidad de seguir en el club, creo que hay muchas cosas para hacer todavía”, señaló el DT.</p><p>Sobre 2025, expresó que lo ilusionaba “muchísimo” en caso de seguir en Peñarol.</p><p>“Pasé un año muy feliz, pasé un año increíble”, expresó sobre el 2024 que se cierra.</p><h2>Lo que dijo Eduardo Zaidensztat sobre la renovación de Diego Aguirre</h2><p><a href="https://www.elobservador.com.uy/futbol/como-esta-la-negociacion-penarol-leo-fernandez-y-diego-aguirre-lo-que-dijo-zaidensztat-y-su-opinion-la-sancion-conmebol-n5973658" rel="follow" target="_blank">Peñarol trabaja por estas horas en la renovación del entrenador Diego Aguirre</a>, para que siga por los próximos dos años, en una tarea en la que el presidente Ignacio Ruglio ya mantuvo charlas con el DT.</p><p>“La voluntad de todos es en estos tres años estar acompañados con una misma idea que es tener a Diego. Diego también quiere quedarse en Peñarol, cosa que es fundamental”, destacó Eduardo Zaidensztat a Minuto 1 de radio Carve Deportiva este jueves.</p><p>El vice mirasol señaló que<strong> “quedan detalles por resolver”.</strong> “Son cosas que las seguimos conversando con mucha confianza de todas las parte”, agregó.</p><p><strong>Específicamente, indicó que “es un tema económico, de evaluar las condiciones, los premios</strong>, es algo natural en todas las renovación de contrato”.</p>Noticia rastreada 2024/12/06 14:30 CET @bostero.dev
+<div style='height: 300px;'></div>
+</html>

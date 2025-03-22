@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'La selección de Uruguay sub 20 goleó a Bolivia en su penúltimo amistoso antes de viajar al Campeonato Sudamericano'
+description: 'La selección de Uruguay sub 20 goleó a Bolivia en su penúltimo amistoso antes de viajar al Campeonato Sudamericano'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/5914abed373a29e197f7fac7c98167fd/adjuntos/362/imagenes/100/586/0100586124/1000x0/smart/20250109-gonzalo-petit-celebra-su-gol-la-seleccion-uruguay-sub-20-bolivia.jpeg'
+image2: 'https://media.elobservador.com.uy/p/1872dc8612af2c6088175aa55611d487/adjuntos/362/imagenes/100/586/0100586124/316x177/smart/20250109-gonzalo-petit-celebra-su-gol-la-seleccion-uruguay-sub-20-bolivia.jpeg'
+date: 2025-01-09T13:47:00 +2:00:00
+date_es: '9 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La <strong><a href="https://www.elobservador.com.uy/seleccion/ignacio-alonso-hablo-la-resolucion-si-la-seleccion-uruguay-sub-20-viaja-o-no-venezuela-jugar-el-campeonato-sudamericano-n5978777" rel="follow" target="_blank"> selección de Uruguay </a></strong> sub 20 goleó 3-0 a Bolivia este jueves en el Complejo Uruguay Celeste en el penúltimo encuentro preparatorio para el Campeonato Sudamericano de la especialidad que se disputará en Venezuela desde el 23 de enero al 16 de febrero.</p><p>A diferencia de lo que ocurrió el pasado martes, <a href="https://www.elobservador.com.uy/seleccion/la-seleccion-uruguay-sub-20-fabian-coito-no-paso-un-empate-bolivia-un-amistoso-n5978398" rel="follow" target="_blank"> cuando empataron 2-2 y los suplentes celestes cayeron 1-0 ante el mismo rival, </a>esta vez, los dirigidos por Fabián Coito fueron muy superiores y ganaron muy bien.</p><p>El entrenador celeste realizó una variante con respecto a los 11 titulares que jugaron el pasado martes.</p><p>Coito le dio cabida en el equipo a Alejandro Severo en lugar el volante de Peñarol, Gonzalo Barbas.</p><h2> La selección de Uruguay sub 20 goleó a Bolivia en su penúltimo amistoso antes de viajar al Campeonato Sudamericano</h2><p>El equipo uruguayo formó este jueves con Kevin Martínez; Lucas Agazzi, Alfonso Montero, Juan Martin Rodríguez, Patricio Pacífico; Mauro Zalazar, Thiago Helguera, Bruno Calcagno, Alejandro Severo; Joaquín Lavega y Renzo Machado.</p><p>Luego ingresaron González, Albarracín, Barbas, Calione, Peralta, Petit, Ramos, Crucci y Cuello.</p><p>Los goles de la goleada celeste <strong>fueron anotados por Gonzalo Petit, Agustín Albarracín y el restante fue en contra.</strong></p><p>El torneo concederá cuatro plazas para <strong>el Mundial de la categoría que acogerá este año Chile.</strong></p><p>El último partido amistoso de la selección de Uruguay previo a partir a Venezuela el próximo 20 de enero, será ante Gimnasia y Esgrima La Plata de Argentina.</p><p>La selección de Uruguay fue emparejada en el Grupo A <strong>junto a las de Chile, Paraguay, Perú y Venezuela.</strong></p><p>Los celestes tendrán libre en la primera fecha y <strong>debutarán el 25 de enero frente a Chile</strong>. </p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 9 de enero  2025  -  18:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

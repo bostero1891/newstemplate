@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'La canción para Facundo Pellistri de los hinchas de Panathinaikos de Grecia; mirá el video'
+description: 'Con la música de Seven Nation Army de The Whiste Stripes, la hinchada de Panathinaikos cantó “Facundo Pellistri”; mirá el video'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/d639d4e07f6aa69d7dcd2e59e3c83eab/adjuntos/362/imagenes/100/590/0100590059/1000x0/smart/la-cancion-facundo-pellistri-los-hinchas-panathinaikos.jpg'
+image2: 'https://media.elobservador.com.uy/p/8c72ff39a7cedaf2b8da2335c7059344/adjuntos/362/imagenes/100/590/0100590059/316x177/smart/la-cancion-facundo-pellistri-los-hinchas-panathinaikos.jpg'
+date: 2025-01-21T13:11:00 +2:00:00
+date_es: '21 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El extremo de la selección de Uruguay de Marcelo Bielsa, <a href="https://www.elobservador.com.uy/futbol-internacional/facundo-pellistri-estamos-devastados-mira-el-sentido-mensaje-del-uruguayo-su-companero-george-baldock-encontrado-muerto-su-casa-n5964990" rel="follow" target="_blank">Facundo Pellistri</a>, fue ovacionado por los hinchas de Panathinaikos</strong> de Grecia, su equipo, al ser sustituido el pasado domingo en el partido ante AEK de Atenas que ganaron por 1-0.</p><p>El ex Manchester United fue reemplazado a los 85 minutos y los hinchas corearon su nombre.</p><div style='height: 75px;'></div><img alt="La canción para Facundo Pellistri de los hinchas de Panathinaikos " data-td-src-property="https://media.elobservador.com.uy/p/d639d4e07f6aa69d7dcd2e59e3c83eab/adjuntos/362/imagenes/100/590/0100590059/1000x0/smart/la-cancion-facundo-pellistri-los-hinchas-panathinaikos.jpg" height="undefined" id="611412-Libre-1831863110_embed" src="https://media.elobservador.com.uy/p/d639d4e07f6aa69d7dcd2e59e3c83eab/adjuntos/362/imagenes/100/590/0100590059/1000x0/smart/la-cancion-facundo-pellistri-los-hinchas-panathinaikos.jpg" title="La canción para Facundo Pellistri de los hinchas de Panathinaikos " width="100%"/><div style='height: 75px;'></div><p>Con la música de Seven Nation Army de The Whiste Stripes, la hinchada de Panathinaikos cantó “Facundo Pellistri”.</p><p>El uruguayo les agradeció con aplausos cuando dejaba la cancha.</p><p>Pellistri llegó a Panathinaikos a principios de la actual temporada 2024/25 y ya suma 17 partidos por la Super Liga griega, tres por la copa helénica, con un gol, y seis por la Conference League, con dos tantos.</p><div style='height: 75px;'></div><img alt="Facundo Pellistri en Panathinaikos" data-td-src-property="https://media.elobservador.com.uy/p/902259d5b7540b793e026fa5b5de2f6d/adjuntos/362/imagenes/100/534/0100534789/1000x0/smart/facundo-pellistri-panathinaikos.jpeg" height="undefined" id="568319-Libre-360904463_embed" src="https://media.elobservador.com.uy/p/902259d5b7540b793e026fa5b5de2f6d/adjuntos/362/imagenes/100/534/0100534789/1000x0/smart/facundo-pellistri-panathinaikos.jpeg" title="Facundo Pellistri en Panathinaikos" width="100%"/><div style='height: 75px;'></div><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 21 de enero  2025  -  17:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

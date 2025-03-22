@@ -1,0 +1,15 @@
+---
+layout: 'carvedeportiva-Deportes'
+title: 'Flavio PerchmanLa salida de Lucas Sanabria se puede cerrar antes del primer amistoso.'
+category: 'carvedeportiva-Deportes'
+image: 'https://carvedeportiva.uy/wp-content/uploads/2025/01/Perchman.jpg'
+image2: 'https://i1.sndcdn.com/artworks-27iXbx0r6jdSO4Uw-7LvRaQ-t500x500.jpg'
+date: 2025-01-08T00:00:00 +2:00:00
+date_es: '8 enero, 2025'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El vicepresidente del Club Nacional de Fútbol, Flavio Perchman, brindó detalles sobre la estrategia de fichajes del club en el actual período de pases. En declaraciones en Fuera de Juego, abordó tanto las prioridades de incorporaciones como las posibles salidas de jugadores clave.</p><p>"Con la salida de Sanabria vamos a traer dos volantes y un extremo. Araújo y Boggio son dos nombres que podrían llegar, pero estamos manejando otras opciones", afirmó Perchman, dejando entrever los movimientos en proceso para reforzar el equipo. Además, señaló que "la salida de Lucas Sanabria se puede cerrar antes del primer amistoso".</p><p>Respecto a otros jugadores, Perchman habló sobre el caso de Leandro Lozano: "Tiene una cláusula bajísima de salida para lo que entendemos que podría valer. Vamos a tratar de hablar con él para que se quede, pero si viene algo que le puede cambiar la vida, lo vamos a hablar".</p><p>En cuanto a la búsqueda de refuerzos, confirmó que el club prioriza la incorporación de un centrodelantero extranjero: "Hoy estamos buscando un 9 extranjero, no hicimos una propuesta por Juan Ignacio Ramírez". También mencionó su interés en jugadores para la mitad de la cancha: "Tengo en la cabeza 3 o 4 jugadores para la mitad de la cancha y uno de esos nombres es Yonathan Rodríguez".</p><p>Sobre rumores de un posible regreso, Perchman se mostró reservado: "No voy a decir nada sobre el jugador que me llamó para volver. Si se da, los hinchas se enterarán y se darán cuenta".</p><p>El dirigente también expresó su malestar con el impacto del periodismo en las negociaciones: "Muchas veces el periodismo no entiende el daño que se le causa al fútbol. En el caso de Alario nos vimos perjudicados". Además, reconoció un error en comentarios anteriores: "Me equivoqué al decir cuánto ganaba Herazo. Fue una respuesta que no fue correcta. En el espacio de X me preguntaron por qué no se le había buscado una salida y sí se había ido Bentancourt".</p><p>Con estas declaraciones, queda claro que Nacional está en plena actividad para conformar un plantel competitivo de cara a los desafíos de la próxima temporada.</p><p><iframe frameborder="no" height="20" scrolling="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2004837555&amp;color=%23425682&amp;inverse=false&amp;auto_play=false&amp;show_user=true" width="100%"></iframe></p><div class='info_rastreador text-muted'><p class='text-muted mt-3 mb-2'>Nota rastreada 8 enero, 2025 15:33 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

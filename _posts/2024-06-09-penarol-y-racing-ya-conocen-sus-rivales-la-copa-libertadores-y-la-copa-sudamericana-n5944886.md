@@ -1,0 +1,17 @@
+---
+layout: post2
+title: 'Peñarol y Racing ya conocen a sus rivales en la Copa Libertadores y en la Copa Sudamericana'
+description: 'Peñarol y Racing ya conocen a sus rivales en la Copa Libertadores y en la Copa Sudamericana; los aurinegros y los de Sayago jugarán en agosto'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/531475d1b7d47ff55ac98cdde6ba512a/adjuntos/362/imagenes/100/506/0100506124/1000x0/smart/diego-aguirre.jpg'
+date: 2024-06-09T10:15:00 +2:00:00
+date_es: '
+							9 de junio  2024 - 10:15hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/el-jugador-penarol-que-lo-quieren-la-premier-league-britanica-n5944639" rel="follow" target="_blank">Peñarol </a></strong> ya conoce a su rival de los octavos de final de la <a class="agrupador" href="https://www.elobservador.com.uy/tag/copa-libertadores" rel="18532">Copa Libertadores</a> de América. Los aurinegros eran uno de los dos clubes que luego del sorteo realizado el pasado lunes en Asunción del Paraguay de cómo sigue el torneo, no sabían a quién enfrentarían, debido a que faltaba jugarse el partido Gremio ante Estudiantes.</p><p>Este sábado, el equipo platense <strong>le empató 1-1 de visita en Curitiba </strong>-debido a que no se jugó en Porto Alegre por las inundaciones- faltando poco para el final<strong> con un gol del uruguayo Mauro Méndez.</strong></p><p> De esa manera, Gremio quedó en la segunda posición de su grupo por diferencia de goles y así, jugará contra Fluminense en octavos de final, mientras que Estudiantes ya estaba eliminado de las dos copas.</p><h2>El rival de Peñarol en la Copa Libertadores</h2><p>De esta manera, el rival de Peñarol en los octavos de final de la Copa Libertadores de América<strong> será The Strongest.</strong></p><p> Se trata de uno de los dos grandes del fútbol boliviano y <strong>que juega en la altura de 3.600 metros de La Paz.</strong></p><p>Seguramente Peñarol apostará a lograr una victoria lo más amplia posible <strong>en el partido de ida que se disputará en el Estadio Campeón del Siglo,</strong> para viajar a la altura lo más tranquilo posible, ya que jugar allí, siempre es complicado.</p><h2>¿Cuándo juega Peñarol vs The Strongest por Copa Libertadores?</h2><p>Los partidos de ida de los octavos de final de la Copa Libertadores se jugarán <strong>entre el 13 y el 15 de agosto,</strong> luego de que los fije la Confederación Sudamericana de Fútbol (Conmebol).</p><p>Los encuentros de vuelta, se jugarán entre el 20 y el 22 del mismo mes en el Estadio Hernando Siles de La Paz.</p><h2>El rival de <a class="agrupador" href="https://www.elobservador.com.uy/tag/racing" rel="28309">Racing</a> en la <a class="agrupador" href="https://www.elobservador.com.uy/tag/copa-sudamericana" rel="1620">Copa Sudamericana</a></h2><p>Racing clasificó a los dieciseisavos de final de la Copa Sudamericana al ser segundo en su grupo de dicho certamen.</p><p>Luego de la victoria de este sábado <strong>de Internacional de Porto Alegre 1-0 sobre Delfín de Ecuador, </strong>los de Sayago ya saben su rival.</p><p><strong>Racing enfrentará a Huachipato de Chile</strong> que fue el mejor de los terceros de la Copa Libertadores.</p><p>Si pasa al conjunto chileno,<strong> luego deberá jugar contra Racing de Avellaneda de Argentina </strong>que ya espera en octavos de final.</p>
+<div style='height: 300px;'></div>
+</html>

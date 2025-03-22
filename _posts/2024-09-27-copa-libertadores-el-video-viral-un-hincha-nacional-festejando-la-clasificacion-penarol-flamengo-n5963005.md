@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Copa Libertadores: el video viral de un hincha de Nacional festejando la clasificación de Peñarol ante Flamengo'
+description: 'Copa Libertadores: el video viral de un hincha de Nacional festejando la clasificación de Peñarol ante Flamengo'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/e297dcbe3c2eb3dd989649eb762bcaf7/adjuntos/362/imagenes/100/548/0100548104/1000x0/smart/gaston-ramirezjpg.jpg'
+date: 2024-09-27T00:00:00:00 +2:00:00
+date_es: '27 de septiembre  2024 - 17:04hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong><a href="https://www.elobservador.com.uy/copa-libertadores/copa-libertadores-la-diferencia-abismal-del-presupuesto-penarol-el-flamengo-al-cual-del-torneo-n5962935" rel="follow" target="_blank">Peñarol</a></strong> empató 0-0 ante Flamengo este jueves en el Estadio Campeón del Siglo y de esa manera, clasificó a las semifinales de la Copa Libertadores de América luego de 13 años. Los carboneros habían ganado 1-0 la semana pasada en Maracaná y eso fue determinante para la clasificación.</p><p>Los aurinegros supieron manejar el encuentro revancha con la diferencia que habían sacado en la ida, jugando un encuentro inteligente, y con muy buenos rendimientos individuales, sobre todo, en lo defensivo, tanto en la zaga, como en el mediocampo.</p><p>El equipo de Diego Aguirre consiguió lo que buscaba y lo hizo nada menos que ante el rival más poderoso del fútbol de Sudamérica,<a href="https://www.elobservador.com.uy/copa-libertadores/copa-libertadores-la-diferencia-abismal-del-presupuesto-penarol-el-flamengo-al-cual-del-torneo-n5962935" rel="follow" target="_blank"> que tiene un presupuesto gigantesco al lado del aurinegro, </a><strong>de unas siete veces más.</strong></p><p> <a href="https://www.elobservador.com.uy/copa-libertadores/conmebol-confirmo-dia-y-hora-las-semifinales-la-copa-libertadores-penarol-y-botafogo-n5962980" rel="follow" target="_blank">Peñarol jugará ante Botafogo en Río de Janeiro en la ida el próximo miércoles 23 de octubre a la hora 21.30, en tanto que la revancha será en el Estadio Campeón del Siglo el miércoles 30 de ese mes,</a> a la misma hora, según lo que confirmó este viernes la Confederación Sudamericana de Fútbol (Conmebol).</p><h2> El video viral del hincha de Nacional que festejó la clasificación de Peñarol ante Flamengo por Copa Libertadores</h2><p>Este viernes también se conoció un video viral que se dio en una cantina uruguaya.</p><p>Allí, distintos parroquianos miraban atentamente los minutos finales del partido entre Peñarol y Flamengo.</p><p><strong>Había muchos hinchas de Peñarol que imploraban al juez que terminara el partido.</strong></p><p>Pero junto a ellos, también se encontraba <strong>un hincha de Nacional con una camiseta tricolor con el número 10</strong> en la espalda.</p><p>Cuando terminó el partido, el hincha de Nacional festejó la clasificación de Peñarol junto a sus amigos carboneros abrazándose con alguno de ellos.</p>
+<div style='height: 300px;'></div>
+</html>

@@ -1,0 +1,35 @@
+{
+  "name": "penarolpress",
+  "version": "1.0.0",
+  "description": "A site template using jekyll and bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-download": "^0.0.1",
+    "gulp-exec": "^5.0.0",
+    "gulp-gh-pages": "^0.5.4",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-if": "^3.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-replace": "^1.1.4",
+    "gulp-uglify": "^3.0.2",
+    "gulp-watch": "^4.3.11",
+    "gulp-webp": "^4.0.1",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^5.0.1"
+  },
+  "resolutions": {
+    "graceful-fs": "^4.2.11"
+  },
+  "scripts": {
+    "preinstall": "npx npm-force-resolutions"
+  }
+}

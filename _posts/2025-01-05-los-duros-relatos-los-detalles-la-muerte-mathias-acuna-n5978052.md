@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Los duros relatos sobre los detalles de la muerte de Mathías Acuña'
+description: 'Los duros relatos sobre los detalles de la muerte de Mathías Acuña'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/823d1f41079e386f66f56567fb75c267/adjuntos/362/imagenes/100/321/0100321201/1000x0/smart/0021865962webp.webp'
+image2: 'https://media.elobservador.com.uy/p/26e20501a1580981d102686e16df798f/adjuntos/362/imagenes/100/321/0100321201/316x177/smart/0021865962webp.webp'
+date: 2025-01-05T13:56:00 +2:00:00
+date_es: '5 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El exfutbolista uruguayo<strong><a href="https://www.elobservador.com.uy/futbol/se-suicido-ecuador-el-futbolista-uruguayo-mathias-acuna-que-habia-renovado-el-mushuc-runa-n5977993" rel="follow" target="_blank"> Mathías Acuña</a></strong>, de 32 años, se suicidó este sábado luego de haber vuelto desde Uruguay a Ecuador para continuar en su club, Mushuc Runa, y comenzar la pretemporada con el resto de sus compañeros, luego de haber pasado las fiestas de fin de año en Montevideo.</p><p>Como informó <em>Referí</em>, el exjugador<strong> fue encontrado muerto en la habitación de un hotel de la ciudad de Ambato, </strong>y había explicado <a href="https://www.elobservador.com.uy/futbol/el-futbolista-mathias-acuna-revelo-la-razon-la-que-le-colocaron-una-tobillera-electronica-n5976461" rel="follow noopener" target="_blank">la razón por la que le habían colocado una tobillera electrónica</a>.</p><p>Romario Acuña, como le decían, había informado que se la colocaron por una "medida cautelar" determinada por la Justicia <strong>debido a una denuncia que recibió de su expareja por violencia de género.</strong></p><p> "La jueza me explica que lo hacen por medida cautelar, no por ser culpable", reveló el exjugador de El Tanque Sisley, Central Español, Villa Española, Fénix, Liverpool, Wanderers, Larisa de Grecia, Atenas, Rentistas, Boston River y PAS Lamia de Grecia.</p><h2> Los duros relatos sobre los detalles de la muerte de Mathías Acuña</h2><p><a href="https://www.mundodeportivo.com/futbol/america/20250105/1002381028/policia-da-escalofriantes-detalles-muerte-mathias-acuna.html" rel="follow" target="_blank">Según informa desde España el diario deportivo Mundo Deportivo, </a>la Policía ecuatoriana dio detalles de la muerte del exfutbolista uruguayo.</p><p>"La Policía Nacional dio detalles del caso, que se alertó por medio del ECU911. En el lugar de los hechos, se contactó con personal del hotel y conocieron las circunstancias del hallazgo del jugador. 'Fue encontrado suspendido en un ropero de la habitación Nº 403, utilizando una sábana', expusieron los trabajadores del establecimiento a la Policía", informa el medio español.</p><p class="" data-gtm-element-container="modulo-texto-link">Además, también informa que "se intentó descolgar al futbolista para brindarle ayuda y que además el paramédico de la ambulancia del ECU911 realizó maniobras de reanimación sin éxito. Él mismo confirmó que Acuña ya no presentaba signos vitales".</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 5 de enero  2025  -  18:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

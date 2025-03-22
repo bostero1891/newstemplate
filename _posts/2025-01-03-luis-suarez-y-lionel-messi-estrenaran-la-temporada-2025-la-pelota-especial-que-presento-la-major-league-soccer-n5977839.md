@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Luis Suárez y Lionel Messi estrenarán en la temporada 2025 la pelota especial que presentó la Major League Soccer'
+description: 'Luis Suárez y Lionel Messi jugarán en 2025 con una pelota especial, que presentó la Major League Soccer: mirá las fotos'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/2b3158e7c0c53fa40a0cbd50a3d9a77b/adjuntos/362/imagenes/100/550/0100550352/1000x0/smart/columbus-ohio-october-02-lionel-messi-10-and-luis-suarez-9-of-inter-miami-cf-celebrate-goal-during-the-second-half-against-the-columbus-crew-at-lowercom-field-on-october-02-2024-in-columbus-ohio-jason-mowrygetty-imagesafp-jason-mowry-getty.jpg'
+image2: 'https://media.elobservador.com.uy/p/4b2fe13717e90bec27983e7823d0b656/adjuntos/362/imagenes/100/550/0100550352/316x177/smart/columbus-ohio-october-02-lionel-messi-10-and-luis-suarez-9-of-inter-miami-cf-celebrate-goal-during-the-second-half-against-the-columbus-crew-at-lowercom-field-on-october-02-2024-in-columbus-ohio-jason-mowrygetty-imagesafp-jason-mowry-getty.jpg'
+date: 2025-01-03T13:35:00 +2:00:00
+date_es: '2025-01-03  13:35'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La Major League Soccer (MLS) y adidas, presentaron el Balón Oficial de MLS 2025, <strong>celebrando 30 años de historia de la liga</strong>. La pelota, con la que jugarán Lionel Messi y Luis Suárez, además de todos los jugadores de la MLS, incluye los colores en el primer balón oficial y su logo, poniendo énfasis en los tonos azul y verde.</p><p>En otro reconocimiento a la historia, <strong>el diseño incorpora los tres estilos de paneles más populares de adidas</strong>, e incluye pequeños detalles de todos los 18 balones de MLS que adidas ha hecho.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Inspirado en nuestra historia. Hecho para lo que viene. <br/><br/> Presentamos el Balón Oficial de MLS para la temporada 2025: <a href="https://t.co/cYu0DgxGde">https://t.co/cYu0DgxGde</a> <a href="https://t.co/ILrQYY3Ozz">pic.twitter.com/ILrQYY3Ozz</a></p> &mdash; MLS Español (@MLSes) <a href="https://twitter.com/MLSes/status/1875214954661650911?ref_src=twsrc%5Etfw">January 3, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>Inter Miami protagonizará por segunda temporada consecutiva el encuentro inaugural de la liga de Estados Unidos, el sábado 22 de febrero recibiendo a New York City en el Chase Stadium.</p><p>Será la primera prueba oficial para el técnico Javier Mascherano, tras reemplazar en el banco del Inter Miami a su compatriota Gerardo Martino.</p><p> <strong>“Como un guiño más a la rica historia de la liga, el diseño del 2025 abarca los 3 estilos más populares de paneles Adidas e incluye pequeños detalles de los 18 balones Adidas MLS fabricados”</strong>, se añaden a los componentes del nuevo esférico que tendrán en el fútbol estadounidense.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2025/01/04 21:47 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

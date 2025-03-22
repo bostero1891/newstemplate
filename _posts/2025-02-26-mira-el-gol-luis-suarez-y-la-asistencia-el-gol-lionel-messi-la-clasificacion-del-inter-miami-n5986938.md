@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Mirá el gol de Luis Suárez y la asistencia para el gol de Lionel Messi, en la clasificación del Inter Miami'
+description: 'Inter Miami le ganó 3-1 al Sporting Kansas City por la Copa de Campeones Concacaf'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/1cdcb9d1a055710b302978d146cec349/adjuntos/362/imagenes/100/602/0100602389/1000x0/smart/suarez-messi-interjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/2b24c866a1bd61e28577985a64a8c4c9/adjuntos/362/imagenes/100/602/0100602389/316x177/smart/suarez-messi-interjpg.jpg'
+date: 2025-02-26T07:41:00 +2:00:00
+date_es: '26 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El <strong>Inter Miami </strong>solventó este martes, con un golazo de<strong> Lionel Messi tras asistencia de <a href="https://www.elobservador.com.uy/futbol-internacional/hacete-un-gol-gordito-luis-suarez-neymar-despues-del-fantastico-gol-tiro-libre-el-santos-n5986561" rel="follow" target="_blank">Luis Suárez</a></strong> y otro gol del Pistolero, la vuelta de la primera ronda de la Copa de Campeones de Concacaf al derrotar por 3-1 al Sporting Kansas City, superarlo con un global de 4-1 y citarse en los octavos de final de la competencia con el Cavalier FC de Jamaica.</p><p>Messi ya había marcado en la ida un gol espléndido y en la vuelta volvió a hacer diana con un tanto fantástico en el minuto 19. Su compatriota Tadeo Allende y Luis Suárez anotaron justo antes del descanso. Memo Rodríguez selló el gol del honor para los visitantes ya en la segunda mitad.</p><p><strong>Así fue el gol de Messi con asistencia de Suárez</strong></p><p>Frente al extremo frío en el que se disputó la ida en Kansas City con temperaturas durísimas en torno a -15 grados centígrados, <strong>la vuelta en Florida se jugó en unas condiciones mucho más apacibles</strong> alrededor de los 20 grados.</p><p> Inter Miami, que el sábado arrancó su temporada en la MLS con un empate en casa por 2-2 ante el New York City, busca este año mejorar su participación en la Copa de Campeones de la Concacaf, un torneo en el que en 2024 cayó en los cuartos de final frente al Monterrey.</p><p>Tadeo Allende a los 46' concretó una buena combinación por la banda izquierda entre Messi y Jordi Alba, y solo dos minutos después, <strong>Suárez sacó petróleo de un terrible error defensivo</strong> del Sporting Kansas City y colocó el 3-0.</p><p><strong>Así fue el gol de Luis Suárez</strong></p><p>En la reanudación se gustó el Inter Miami, que<strong> manejó el juego a su antojo </strong>y que contó con numerosas ocasiones para hacer más amplia la goleada. Quizá si no lo hizo fue porque no tenía ningún tipo de urgencia en el marcador.</p><p>En cambio, el Sporting Kansas City recortó la desventaja en el 63 gracias a Rodríguez, que acababa de entrar como recambio y que se benefició de que su disparo lejano rebotó en Falcón y despistó a Óscar Ustari.</p><p>Cinco minutos después, <strong>Mascherano retiró a Messi y el Inter Miami certificó su pase a octavos</strong>. </p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 26 de febrero  2025  -  11:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

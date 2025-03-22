@@ -1,0 +1,17 @@
+---
+layout: post2
+title: 'Jayson Granger publicó un nuevo comunicado después de declarar por la amenaza de muerte a Santiago Pepo Vidal'
+description: 'El basquetbolista de Peñarol, Jayson Granger, publicó este sábado un nuevo mensaje tras declarar ante la Policía por el incidente que protagonizó contra Aguada'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/6fbec0c30ff222ac4dfac1f5b0c20c4b/adjuntos/362/imagenes/100/496/0100496970/20240521-jayson-granger-penarol-foto-basketcapuy.jpg'
+date: 2024-06-08T13:00:00 +2:00:00
+date_es: '
+							8 de junio  2024 - 13:00hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El basquetbolista de <a class="agrupador" href="https://www.elobservador.com.uy/club-atletico-penarol-a42904" rel="42904">Peñarol</a>, <strong><a class="agrupador" href="https://www.elobservador.com.uy/tag/jayson-granger" rel="47469">Jayson Granger</a></strong>, publicó este sábado un nuevo comunicado en sus redes sociales, después de declarar en la Policía, citado por las amenazas de muerte a <a class="agrupador" href="https://www.elobservador.com.uy/tag/santiago-pepo-vidal" rel="68695"> Santiago Pepo Vidal</a>, jugador de <a class="agrupador" href="https://www.elobservador.com.uy/tag/aguada" rel="7383">Aguada</a>. Ambos equipos se enfrentaron el jueves en la segunda final de la Liga Uruguaya de <a class="agrupador" href="https://www.elobservador.com.uy/tag/basquetbol" rel="6708">básquetbol</a>.</p><p>Al final de ese partido que ganó Aguada y que puso las finales 2-0 a favor del aguatero, <a href="https://www.elobservador.com.uy/basquetbol/jayson-granger-amenazo-muerte-santiago-vidal-otro-final-caliente-aguada-vs-penarol-n5944524" rel="follow" target="_blank">Granger le hizo gestos de pegarle un balazo y de cortarle el cuello a su rival</a>.</p><p>Antes de ir a declarar, Granger publicó un mensaje pidiendo disculpas a los aficionados y a su familia, dando a entender que había sufrido ataques racistas: "Me gustaría pedir disculpas por cómo perdí los nervios en el partido ayer, <strong>no estoy acostumbrado a lidiar con el racismo y ciertas situaciones que no deberían de darse adentro de una cancha de basketball</strong>, es algo que nunca viví en mis 20 años como profesional. A pesar de todo, no justifica mis faltas de respeto y mi salida de tono. <a href="https://www.elobservador.com.uy/basquetbol/jayson-granger-pidio-disculpas-su-familia-y-dijo-que-no-esta-acostumbrado-lidiar-el-racismo-n5944606" rel="follow" target="_blank">Pido disculpas a los aficionados y a mi familia</a>".</p><p>Este sábado, el jugador aurinegro publicó un nuevo mensaje en X: "En muchas canchas recibí insultos racistas <strong>pero mi reacción en el partido pasado no fue apropiada y puede ser mal interpretada.</strong> Pido disculpas una vez más a todos los afectados y que el lunes sea una fiesta deportiva y en paz".</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="zxx"> <a href="https://t.co/hGyKEvHe9c">pic.twitter.com/hGyKEvHe9c</a></p> &mdash; Jayson granger (@jaygranger11) <a href="https://twitter.com/jaygranger11/status/1799462946164392162?ref_src=twsrc%5Etfw">June 8, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p>La tercera final de la Liga Uruguaya de básquetbol se jugará el lunes 10 a las 21:15 en el Palacio Peñarol.</p>
+<div style='height: 300px;'></div>
+</html>

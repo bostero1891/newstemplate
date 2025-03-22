@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Ronald Araujo, su continuidad en Barcelona y los rumores de Juventus: mirá lo que dijo Joan Laporta, presidente del club catalán'
+description: '“Le apreciamos mucho a nivel profesional, pero sobre todo a nivel personal”, dijo el presidente del FC Barcelona, Joan Laporta, sobre Ronald Araujo'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/f7e862dd65c2fe30df99a206661449e1/adjuntos/362/imagenes/100/580/0100580974/1000x0/smart/ronald-araujojpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/04c0b6c727cd9d9126d813ef573becaf/adjuntos/362/imagenes/100/586/0100586916/316x177/smart/20251212-fbl-ksa-esp-real-madrid-barcelona-barcelonas-uruguayan-defender-4-ronald-araujo-reacts-during-the-spanish-super-cup-final-football-match-between-real-madrid-and-barcelona-at-the-king-abdullah-sport-city-in-jeddah-on-january-12-2025-ha.jpg'
+date: 2025-01-14T09:37:00 +2:00:00
+date_es: '14 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El presidente del FC Barcelona, <strong>Joan Laporta, ha admitido este martes que el defensa uruguayo <a href="https://www.elobservador.com.uy/futbol-internacional/en-medio-los-fuertes-rumores-salida-ronald-araujo-del-barcelona-el-tecnico-hansi-flick-hizo-un-pedido-muy-especial-n5979111" rel="follow" target="_blank">Ronald Araujo</a> está en conversaciones con la dirección deportiva del club</strong> para tratar su futuro y se ha mostrado convencido de que se encontrará una solución "satisfactoria" para todas las partes.</p><p>En una rueda de prensa celebrada en la Ciudad Deportiva Joan Gamper para tratar la actualidad de la entidad, el máximo mandatario del Barça ha desvelado que existen conversaciones entre el director deportivo, Anderson Luis de Souza 'Deco', y el futbolista, <strong>cuyo contrato termina el 30 de junio de 2026</strong>.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/f7e862dd65c2fe30df99a206661449e1/adjuntos/362/imagenes/100/580/0100580974/1000x0/smart/ronald-araujojpg.jpg" height="undefined" id="604004-Libre-1435045595_embed" src="https://media.elobservador.com.uy/p/f7e862dd65c2fe30df99a206661449e1/adjuntos/362/imagenes/100/580/0100580974/1000x0/smart/ronald-araujojpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>"Queremos que los jugadores que juegan en el primer plantel continúen. (Araujo) Tiene contrato en vigor, pero está hablando con la dirección deportiva. <strong>Encontraremos una solución. Le apreciamos mucho a nivel profesional, pero sobre todo a nivel personal", ha explicado Laporta</strong>.</p><p>Y, en este sentido, ha añadido: <strong>"Hay unas circunstancias, que no quiero detallar, pero hay margen para encontrar una solución que sea satisfactoria para todos".</strong></p><p> Laporta ha realizado estas declaraciones en un momento en el que, según distintas informaciones,<strong> el central ha recibido el interés de equipos como el Juventus</strong> para incorporarlo en el actual mercado de invierno europeo.</p><p>EFE</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 14 de enero  2025  -  13:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

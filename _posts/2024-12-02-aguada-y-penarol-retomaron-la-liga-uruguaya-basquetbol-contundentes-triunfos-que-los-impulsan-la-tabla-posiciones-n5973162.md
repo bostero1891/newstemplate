@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Aguada y Peñarol retomaron la Liga Uruguaya de Básquetbol con contundentes triunfos que los impulsan en la tabla de posiciones'
+description: 'Peñarol derrotó a Urunday Universitario como local y Aguada superó de visitante a Hebraica Macabi'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/ee921dee82d1578e0ffc4b6fcf9080b7/adjuntos/362/imagenes/100/574/0100574104/1000x0/smart/20241202-gerard-devaughn-y-brandon-robinson-urunday-universitario-penarol-liga-uruguaya-basquetbol-2024-2025-foto-basketcapuy.jpg'
+date: 2024-12-02T23:30:00:00 +2:00:00
+date_es: '2024-12-02 23:30:00'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>Comenzó este lunes la séptima fecha de la Liga Uruguaya de Básquetbol con la disputa de tres partidos donde <strong><a href="https://www.elobservador.com.uy/futbol/la-historia-detras-del-penarol-campeon-como-armo-el-equipo-diego-aguirre-y-como-lo-maneja-la-interna-n5973098" rel="follow" target="_blank">Peñarol</a></strong> y Aguada lograron resonantes victorias al tiempo que también ganó Trouville.</p><p>El torneo estuvo parados dos semanas por la participación de Uruguay en una ventana de Eliminatorias de la AmeriCup y luego por la participación de Nacional y Defensor Sporting en el Final 4 de la Liga Sudamericana donde los tricolores lograron una histórica consagración continental.  </p><p>Como local en el Palacio Peñarol, el aurinegro goleó 94-67 a Urunday Universitario. </p><p>Ignacio Xavier fue el goleador con 20 puntos, Luciano Parodi firmó un doble-doble de 12 tantos y 10 asistencias, mientras que Kenneth Horton debutó con 14 anotaciones, 7 rebotes y 3 asistencias. </p><p> Mirá <a href="https://fibalivestats.dcd.shared.geniussports.com/u/FUBB/2556816/bs.html#ASFSK" rel="follow" target="_blank">acá</a> las estadísticas completas del partido. </p><p>En cancha de Unión Atlética, Aguada le ganó con holgura a Hebraica Macabi por 102-83 con 28 puntos y 13 rebotes de Frank Hassell, exmacabeo. </p><p>Donald Sims metió 20 y Emmitt Hot 18 siendo Juan Santiso el mejor goleador nacional con 11 anotaciones. </p><p>Mirá <a href="https://fibalivestats.dcd.shared.geniussports.com/u/FUBB/2556798/bs.html#ASFSK" rel="follow" target="_blank">acá</a> las estadísticas completas del partido. </p><p>Trouville le ganó de local 83-77 al colista Welcome con 23 puntos, 7 rebotes y 3 asistencias de Santiago Fernández. </p><p>Mirá <a href="https://fibalivestats.dcd.shared.geniussports.com/u/FUBB/2556806/bs.html#ASFSK" rel="follow" target="_blank">acá</a> las estadísticas completas del partido. </p><p>* Sufrieron sanción de quita de dos puntos por incidentes de sus hinchas en la temporada pasada.  </p><p>Este martes jugarán Biguá y Cordón en Villa Biarritz desde la hora 21.15. </p><p>Sin que termine la séptima fecha y con partidos pendientes de la primera (Hebraica Macabi vs Nacional), la segunda (Urunday Universitario vs Defensor Sporting) y la quinta (Trouville vs Peñarol y Defensor Sporting vs Nacional), el jueves comenzará la octava fecha con Malvín vs Aguada, Trouville vs Urupan y Welcome vs Defensor Sporting. </p>
+Noticia rastreada 2024/12/03 10:30 @bostero.dev
+<div style='height: 300px;'></div>
+</html>

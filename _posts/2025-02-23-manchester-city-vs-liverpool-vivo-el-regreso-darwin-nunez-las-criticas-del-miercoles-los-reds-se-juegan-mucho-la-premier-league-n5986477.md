@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Manchester City vs Liverpool EN VIVO: en el regreso de Darwin Núñez tras las críticas del miércoles, los reds se juegan mucho en la Premier League'
+description: 'Manchester City vs Liverpool EN VIVO: en el regreso de Darwin Núñez tras las críticas del miércoles, los reds se juegan mucho en la Premier League'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/7417220622b1ef0e6daca263d2b0db0a/adjuntos/362/imagenes/100/582/0100582260/1000x0/smart/20241226-liverpool-united-kingdom-26122024-darwin-nunez-of-liverpool-in-action-during-the-english-premier-league-soccer-match-between-liverpool-fc-and-leicester-city-fc-in-liverpool-britain-26-december-2024-reino-unido-efeepaadam-vaughan.jpg'
+image2: 'https://media.elobservador.com.uy/p/f9858c4e6d2a5f679d05f3b9529bde09/adjuntos/362/imagenes/100/582/0100582260/316x177/smart/20241226-liverpool-united-kingdom-26122024-darwin-nunez-of-liverpool-in-action-during-the-english-premier-league-soccer-match-between-liverpool-fc-and-leicester-city-fc-in-liverpool-britain-26-december-2024-reino-unido-efeepaadam-vaughan.jpg'
+date: 2025-02-23T13:15:00 +2:00:00
+date_es: '23 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Liverpool visita este domingo a Manchester City en un partido de los más esperados en la Premier League, debido a muchos factores, entre otros, que el equipo de <strong><a href="https://www.elobservador.com.uy/futbol-internacional/el-posteo-darwin-nunez-medio-las-criticas-que-sufrio-sus-goles-errados-liverpool-y-la-foto-dibu-martinez-n5986337" rel="follow" target="_blank">Darwin Núñez</a></strong> marcha puntero con ocho puntos de diferencia sobre el segundo, Arsenal.</p><p>En el equipo de Arne Slot, <a href="https://www.elobservador.com.uy/futbol-internacional/mira-el-increible-gol-que-se-perdio-darwin-nunez-el-empate-2-2-liverpool-y-aston-villa-dibu-martinez-y-el-que-fue-muy-criticado-las-redes-n5985951" rel="follow" target="_blank">Darwin Núñez vuelve a ser suplente luego de lo que ocurrió el pasado miércoles cuando erró dos goles imposibles contra Dibu Martínez.</a></p><p> Liverpool se enfrenta a un rival muy complicado que viene de quedar por el camino en la Champions League, eliminado por Real Madrid de Federico Valverde.</p><p><strong>Seguí aquí la previa y los detalles del partido:</strong></p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.premierleague.744780&amp;lang=es_LA" height="1000" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.premierleague.744780&lang=es_LA" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 23 de febrero  2025  -  17:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

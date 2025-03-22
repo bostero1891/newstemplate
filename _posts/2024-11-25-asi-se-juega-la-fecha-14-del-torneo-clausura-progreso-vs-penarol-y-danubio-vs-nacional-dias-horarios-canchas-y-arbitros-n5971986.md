@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Así se juega la fecha 14 del Torneo Clausura, que incluye Progreso vs Peñarol y Danubio vs Nacional: días, horarios, canchas y árbitros'
+description: 'Así se juega la fecha 14 del Torneo Clausura con Progreso vs Peñarol y Danubio vs Nacional: días, horarios, canchas y árbitros'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/75497cda48f598b602e22ff648ebea15/adjuntos/362/imagenes/100/566/0100566192/20241113-nioclas-lopez-diente-lopez-fenix-nacional-torneo-clausura-2024-foto-leonardo-carreno.jpeg'
+date: 2024-11-25T16:05:00:00 +2:00:00
+date_es: '25 de noviembre  2024 - 16:05hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>La<strong> fecha 14</strong> del <strong>Torneo Clausura </strong>se jugará entre el martes 26 y miércoles 27 de noviembre con la posibilidad de definir la Tabla Anual y uno o dos descensos más (ya perdió la categoría Depor Maldonado).</p><p>Se jugarán cuatro partidos el martes y cuatro el miércoles, y todos los encuentros se podrán ver en todos los cables a través de la transmisión de <strong>Vtv Plus</strong> y por streaming en <strong>Disney+</strong>.</p><p>Entre los partidos destacados, por lo que tienen en juego en la Tabla Anual y en el Torneo Clausura, <strong>Peñarol visita a Progreso</strong> en el Estadio Centenario y <strong>Nacional a Danubio</strong> que oficiará de local en el Parque Viera.</p><p>En esta fecha, los aurinegros ganarán la Anual incluso perdiendo, pero para ello deberán esperar el resultado de los tricolores.</p><p> <strong>Si gana Peñarol</strong> en esta fecha, Nacional no les quitará el primer lugar en la tabla del año.</p><p><strong>Si empatan o pierde Peñarol</strong> y Nacional empata o pierde, el equipo de Diego Aguirre también será primero.</p><p>Así se juega la fecha 14:</p><h2>Así están las tablas de posiciones del Torneo Clausura y la Anual</h2><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=descenso" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=descenso" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe><div style='height: 30px;'><h2>Así está la tabla de goleadores del Torneo Clausura</h2><p>El líder de la clasificación de artilleros del Torneo Clausura es <strong>Nicolás "Diente" López</strong>, de Nacional.</p><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=goleadores" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=goleadores" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe><div style='height: 30px;'><p></p>
+<div style='height: 300px;'></div>
+</html>

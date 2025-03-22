@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'El futbolista de Nacional que entrena a la par de su pareja, una modelo e influencer brasileña, para mejorar su condición física'
+description: 'El futbolista de Nacional que entrena a la par de su pareja, una modelo e influencer brasileña, para mejorar su condición física'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/2c786b6dd1cd8a9246e25e497a240a83/adjuntos/362/imagenes/100/606/0100606315/1000x0/smart/juliana-peixotojpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/a8665ec4c62d914e4944fbf5128cc0b5/adjuntos/362/imagenes/100/606/0100606315/316x177/smart/juliana-peixotojpg.jpg'
+date: 2025-03-07T13:11:00 +2:00:00
+date_es: '7 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Desde la quinta fecha del Apertura, el técnico de <strong><a href="https://www.elobservador.com.uy/futbol/renovacion-nicolas-diente-lopez-nacional-en-que-esta-la-negociacion-luego-del-anuncio-que-hizo-flavio-perchman-esta-semana-n5988513" rel="follow" target="_blank">Nacional</a>,</strong> Martín Lasarte, tiene a todo el plantel a disposición. Después de un mes de competencia, este domingo contra River Plate, el entrenador podrá elegir entre todos los integrantes para armar la oncena titular. Salvo, obviamente, <strong>el delantero Gonzalo Carneiro</strong>, que aún está en proceso de recuperación y se espera que esté listo para el segundo semestre del año.</p><p>Hasta el momento, <strong>solo cuatro jugadores disputaron los 360 minutos del Apertura</strong>. Ellos son el arquero Luis Mejía, el capitán Sebastián Coates, el colombiano Julián Millán y el argentino Gabriel Báez. </p><p>También participaron en los cuatro partidos, pero con menos minutos, Christian Oliva y Jeremía Recoba.</p><p>Después hay jugadores que se integraron al plantel con falta de ritmo futbolístico y físico, <strong>como los casos del venezolano Rómulo Otero y el chileno Eduardo Vargas</strong>.</p><p> En el caso de éste último, se destacó desde el club el compromiso profesional del delantero de la selección chilena, ya que además de su entrenamiento diario en la Ciudad Deportiva Los Céspedes, cumple rutinas de forma personal.</p><p>A veces concurre a un gimnasio y en otras ocasiones lo hace en su casa,<strong> junto a su esposa Juliana Peixoto</strong>, tal como lo muestra ella en sus historias de Instagram.</p><h2>¿Quién es Julian Peixoto, pareja de Eduardo Vargas?</h2><p>La actual esposa de Eduardo Vargas, es una modelo brasileña.</p><p>Es bastante activa en redes sociales, especialmente en su cuenta de Instagram donde tiene más de 86 mil seguidores y comparte cada uno de sus trabajos. A<strong>demás, es estudiante de medicina, según se puede ver en su perfil.</strong></p><p>Hace algún tiempo, la propia Daniela Colett (ex pareja de Vargas, también brasileña) habló sobre la relación que mantenía con la actual pareja de Vargas. <strong>"Y me gusta que esté con esa chica porque es buena con mis hijos"</strong>, comentó</p><p><strong>"Yo quiero que sea feliz, que haga su vida"</strong>, aseveró la brasileña.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de marzo  2025  -  17:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Video: la alegría del hijo de un jugador de Peñarol al encontrar la figurita de su papá para el álbum de la Copa Libertadores'
+description: 'Video: la alegría del hijo de un jugador de Peñarol al encontrar la figurita de su papá para el álbum de la Copa Libertadores de América'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/025fdb0e5ae2f1c06c6164988421ad38/adjuntos/362/imagenes/100/513/0100513100/1000x0/smart/20240625-el-hijo-leo-coelho-celebra-haber-encontrado-la-figurita-su-papa-el-album-la-copa-libertadores.jpg'
+date: 2024-06-25T14:09:00:00 +2:00:00
+date_es: '25 de junio  2024 - 14:09hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>Los jugadores de<strong><a href="https://www.elobservador.com.uy/futbol/video-los-jugadores-penarol-definieron-el-golazo-leonardo-fernandez-paranormal-al-pie-enfermo-n5947861" rel="follow" target="_blank"> Peñarol</a></strong> disfrutan de unos días libres en el inicio de esta semana, teniendo en cuenta que no habrá actividad ni sábado ni domingo próximos por el <a class="agrupador" href="https://www.elobservador.com.uy/tag/torneo-intermedio" rel="59888">Torneo Intermedio</a>, debido a que se llevarán a cabo las elecciones internas de los partidos políticos.</p><p>Los dirigidos por <a class="agrupador" href="https://www.elobservador.com.uy/tag/diego-aguirre" rel="47374">Diego Aguirre</a> <strong>vienen de vencer 2-0 con dos golazos de Franco González y de Leonardo Fernández,</strong> este de tiro libre, a Progreso en el Estadio Centenario por la tercera fecha.</p><p>Era imperioso que los aurinegros ganaran debido a que en el inicio de este Intermedio, habían perdido el invicto del Campeonato Uruguayo al caer en el Parque Viera 2-0 contra Wanderers, y luego igualar 1-1 frente a Racing.</p><h2>El festejo del hijo de un jugador de Peñarol por la figurita de su papá</h2><p>Justamente este martes, en el que Peñarol disfruta de una de sus jornadas libres ordenadas por el cuerpo técnico que encabeza Diego Aguirre, el hijo de un futbolista aurinegro disfrutó con su papá.</p><p> El zaguero brasileño <a class="agrupador" href="https://www.elobservador.com.uy/tag/leo-coelho" rel="67751">Léo Coelho</a> subió un video a su cuenta de Instagram en la que muestra que su hijo encontró la figurita con su nombre del álbum de la Copa Libertadores de América 2024.</p><p><strong>La cara del niño lo dice todo,</strong> porque se asombró luego de haber abierto varios sobres.</p><p>A su vez, su papá, <strong>Léo Coelho, se encargó luego de pegarla en el álbum.</strong></p><p><strong> Aquí se puede ver la sorpresa del hijo de Léo Coelho al encontrar la figurita de su papá:</strong></p><iframe allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" data-td-src-property="https://geo.dailymotion.com/player/xrvv4.html?video=x90xnt8" frameborder="0" height="100%" src="https://geo.dailymotion.com/player/xrvv4.html?video=x90xnt8" style="width:100%;height:100%;position:absolute;left:0;top:0;overflow:hidden;" width="100%"></iframe><div style='height: 30px;'><p></p>
+<div style='height: 300px;'></div>
+</html>

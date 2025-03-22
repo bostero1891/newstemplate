@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '"Te extraño": Juan Izquierdo, fallecido en 2024, presente en el recuerdo navideño de un ex jugador de Nacional'
+description: 'El futbolista, que compartió el grupo con Izquierdo, lo recordó durante las fiestas navideñas'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/90ac3b2635f17c74c56342c1ddc0fc9d/adjuntos/362/imagenes/100/581/0100581881/1000x0/smart/fagundezjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/66dca3e26390796d43ba786afe100d7c/adjuntos/362/imagenes/100/581/0100581881/316x177/smart/fagundezjpg.jpg'
+date: 2024-12-25T10:13:00 +2:00:00
+date_es: '2024-12-25  10:13'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El plantel de Nacional sufrió un golpe anímico tremendo durante 2024.</strong> El fallecimiento del zaguero Juan Izquierdo, quien se descompensó durante un partido contra San Pablo por la Copa Libertadores y <a href="https://www.elobservador.com.uy/murio-juan-izquierdo-todas-las-reacciones-el-tragico-fallecimiento-del-jugador-nacional-n5958147#:~:text=El%20futbolista%20de%20Nacional%20Juan,provoc%C3%B3%20una%20cr%C3%ADtica%20situaci%C3%B3n%20neurol%C3%B3gica." rel="follow" target="_blank">murió unos días después</a>, el 28 de agosto. Una pérdida que sintieron quienes en ese momento integraban el equipo tricolor, como también quienes ya no estaban pero habían compartido con Izquierdo.</p><p>Prueba de ello es que el futbolista <strong>Franco Fagúndez</strong>, quien se encuentra jugando en México, recordó en su mensaje navideño a su ex compañero. En sus historias de Instagram publicó una foto abrazados durante un partido y el siguiente mensaje: "Feliz navidad para vos hermano, donde quieras que estés siempre iluminando nuestros caminos. Hoy brindo por vos, te extraño".</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/ebb2d2858ca5a20b2d6a59e1ed662cb1/adjuntos/362/imagenes/100/581/0100581879/1000x0/smart/fagundezjpg.jpg" height="undefined" id="604721-Libre-1430828309_embed" src="https://media.elobservador.com.uy/p/ebb2d2858ca5a20b2d6a59e1ed662cb1/adjuntos/362/imagenes/100/581/0100581879/1000x0/smart/fagundezjpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Fagúndez también publicó una foto con su familia: "Feliz navidad para todos, de parte d ela familia Fagúndez Pereira. Primera navidad con los amores de mi vida".</p><p>El volante, de 24 años, llegó para la temporada 2023/2024 al Santos Laguna. El primer año disputó 11 partidos y convirtió un gol en la liga mexicana. En la presente temporada ha jugado 13 encuentros, con dos goles marcados.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/61a3fae0a2a054b815b8f22f915398bb/adjuntos/362/imagenes/100/581/0100581883/1000x0/smart/fagundezzjpg.jpg" height="undefined" id="604725-Libre-221410894_embed" src="https://media.elobservador.com.uy/p/61a3fae0a2a054b815b8f22f915398bb/adjuntos/362/imagenes/100/581/0100581883/1000x0/smart/fagundezzjpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/26 15:47 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

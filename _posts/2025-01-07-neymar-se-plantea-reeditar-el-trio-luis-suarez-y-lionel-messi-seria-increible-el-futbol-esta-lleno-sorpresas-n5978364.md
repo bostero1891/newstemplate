@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Neymar se plantea reeditar el trío con Luis Suárez y Lionel Messi: "Sería increíble; el fútbol está lleno de sorpresas"'
+description: 'Neymar se plantea reeditar el trío con Luis Suárez y Lionel Messi: "Sería increíble; el fútbol está lleno de sorpresas"'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/8b2436b01e29e6113509e4aaaf052c00/adjuntos/362/imagenes/100/498/0100498464/1000x0/smart/suarezjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/12a7659fec3b80cd053f7a447c5bcc37/adjuntos/362/imagenes/100/498/0100498464/665x399/smart/suarezjpg.jpg'
+date: 2025-01-07T14:31:00 +2:00:00
+date_es: '7 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/hinchas-penarol-le-pusieron-la-camiseta-aurinegra-la-estatua-luis-suarez-salto-mira-el-video-n5977745" rel="follow" target="_blank">Luis Suárez</a></strong>, Lionel Messi y Neymar, el trío de la MSN que triunfó en Barcelona entre 2014 y 2017, podría reintegrarse en 2025. La posibilidad fue barajada por el propio delantero brasileño con declaraciones que sorprendieron en las últimas horas.</p><p>En entrevista con CNN Deportes, el jugador de Al-Hilal de Arabia Saudita afirmó que <strong>“sería interesante revivir este trío” en Inter Miami, el actual club de sus excompañeros, y que “el fútbol está lleno de sorpresas”. </strong></p><p> “Evidentemente, volver a jugar con Messi y Suárez sería increíble”, afirmó. “Ellos son mis amigos. Todavía hablamos. Sería interesante revivir este trío. Soy feliz en Al-Hilal, soy feliz en Arabia Saudita, pero quién sabe. El fútbol está lleno de sorpresas”, añadió.</p><p>Neymar tiene contrato con el club saudí hasta el 30 de junio de 2025. Recientemente, según el Wall Street Journal, <strong>el delantero compró un terreno valorado en US$ 26 millones en la región de Bal Harbour, en Miami, dando más señales de una transferencia al fútbol estadounidense. </strong></p><h2> El presente de Neymar y las posibilidades de juntarse nuevamente en un club con Luis Suárez y Lionel Messi</h2><p>Además de Suárez y Messi, el club también cuenta con otros dos excompañeros de su época azulgrana: el lateral izquierdo Jordi Alba y el volante Sergio Busquets. Dijo que ni siquiera se consideró la posibilidad de un reencuentro cuando se fue de Paris Saint-Germain hacia Arabia Saudita.</p><p>“Cuando salió la noticia de que dejaba Paris Saint-Germain, la ventana de transferencias estaba cerrada en Estados Unidos, así que no tenía esa opción. El proyecto que me ofrecieron en Arabia Saudita fue muy bueno, no solo para mí, sino también para mi familia, entonces ir a ese país fue la mejor opción”, sostuvo Neymar.</p><p>En total, el trío jugó junto durante tres temporadas,<strong> ganando seis títulos -uno de ellos la Liga de Campeones de 2015-</strong> y siendo responsables de 364 goles marcados en el periodo (153 de Messi, 121 de Suárez y 90 de Neymar).</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de enero  2025  -  18:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

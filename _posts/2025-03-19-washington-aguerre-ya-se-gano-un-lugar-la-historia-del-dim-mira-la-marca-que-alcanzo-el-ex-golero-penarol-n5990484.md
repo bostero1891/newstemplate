@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Washington Aguerre ya se ganó un lugar en la historia del DIM: mirá la marca que alcanzó el ex golero de Peñarol'
+description: 'Washington Aguerre se fue de Peñarol y es una de las figuras del Independiente Medellín; mirá la marca que ya consiguió'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/6939da9ab04dedc48b0af66157041f81/adjuntos/362/imagenes/100/610/0100610470/1000x0/smart/aguerrejpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/fa5681179ea09f9bb6b5e22c82b8c242/adjuntos/362/imagenes/100/610/0100610470/316x177/smart/aguerrejpg.jpg'
+date: 2025-03-19T15:34:00 +2:00:00
+date_es: '19 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El golero uruguayo <strong>Washington Aguerre</strong> ya es uno de los jugadores más reconocidos del actual plantel del Independiente Medellín. El exjugador de Peñarol, campeón uruguayo en 2024, tuvo un arranque de campeonato excepcional en el DIM.</p><p>En 9 fechas disputadas del torneo (de las que él jugó seis), <strong><a href="https://www.elobservador.com.uy/futbol-internacional/mira-el-increible-gol-que-le-hicieron-washington-aguerre-su-debut-el-futbol-colombiano-n5984844" rel="follow" target="_blank">apenas recibió un gol</a></strong>. Fue en su debut contra Unión Magadalena, cuando le marcó el uruguayo Eric Krame a los 22 minutos.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/b90de892e7e37820953dd97453bc227c/adjuntos/362/imagenes/100/598/0100598119/gol-aguerremp4.jpg" height="550" id="617785-Libre-1519660853_embed" src="https://media.elobservador.com.uy/p/b90de892e7e37820953dd97453bc227c/adjuntos/362/imagenes/100/598/0100598119/gol-aguerremp4.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Luego de ese partido,<strong> Aguerre mantuvo el invicto en los cinco siguientes</strong>: 1-0 a Millonarios, 3-0 a Llaneros, 1-0 a Deportivo Pasto, 0-0 ante La Equidad y 0-0 con Depotivo Cali.</p><p><strong>El golero suma 518 minutos sin recibir goles </strong>y se metió en el <strong>top tres </strong>de goleros menos vencidos de ese equipo colombiano. Primero se encuentra David González, quien permaneció 675 minutos invicto y segundo Marco Tulio Duque, con 648.</p><h2> El domingo, partidazo: Medellín contra Atlético Nacional</h2><p>El próximo partido del DIM, que se encuentra en la primera posición con 19 puntos, es el domingo 23, de visitante contra Atlético Nacional, que se ubica segundo con 17 puntos.</p><p>"A la gente que esté tranquila, que nosotros venimos trabajando bien y <strong>le vamos a dar esa alegría a la gente que tanto se merece y al club también, de ser campeones</strong>. Tengo mucha fe en lo personal y también en lo grupal. Estoy tranquilo con el trabajo que vengo haciendo, siempre aportando de la mejor manera para darle una alegría, si Dios quiere, el próximo fin de semana, que seguramente va a ser nuestro", dijo Aguerre, tras dos empates consecutivos.</p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 19 de marzo  2025  -  19:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

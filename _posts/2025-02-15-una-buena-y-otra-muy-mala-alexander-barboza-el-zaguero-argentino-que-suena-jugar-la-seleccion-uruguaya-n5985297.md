@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Una buena y otra muy mala para Alexander Barboza, el zaguero argentino que sueña con jugar en la selección uruguaya'
+description: 'Alexander Barboza, que el año pasado enfrentó a Peñarol en la Copa Libertadores, fue protagonista de una gresca en el  partido contra Flamengo'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/b7dfdffd2175bd19541ac2f9053707c1/adjuntos/362/imagenes/100/599/0100599021/1000x0/smart/barboza-alexanderjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/8181c2106a91d4333ff5bb66e9759b9f/adjuntos/362/imagenes/100/599/0100599021/316x177/smart/barboza-alexanderjpg.jpg'
+date: 2025-02-15T15:19:00 +2:00:00
+date_es: '15 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El zaguero argentino de padre uruguayo, <a href="https://www.elobservador.com.uy/seleccion/alexander-barboza-el-zaguero-argentino-botafogo-que-suena-jugar-la-seleccion-uruguay-que-dijeron-la-celeste-el-futbolista-n5969216" rel="follow" target="_blank">Alexander Barboza</a>, recibió una buena noticia y otra muy mala durante la semana. <strong>El jugador de Botafogo, cuyo padre es uruguayo</strong>, fue el principal protagonista de una pelea entre jugadores de su equipo y Flamengo al final del clásico de Río de Janeiro que se jugó el miércoles pasado en el Maracaná por el campeonato Carioca. Barboza, que fue expulsado, perdió un diente en la gresca.</p><p><strong>A raíz de ese incidente, el comité disciplinario del fútbol brasileño lo suspendió por un mes.</strong></p><p> Luego del partido que terminó con victoria 1-0 de Flamengo, Barboza escribió en sus redes: "Cada uno sabe lo que hace, los motivos y las consecuencias. Defender el escudo que represento de cualquier forma es lo que me ayudó en mi carrera profesional a ser quien soy y alcanzar las cosas que conseguí, y quien desprestigia no merece mi respeto de forma alguna. Asimismo, la violencia nunca será la mejor manera de resolver las cosas".</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/85364b04738cae3c61160b312046a4f3/adjuntos/362/imagenes/100/599/0100599020/1000x0/smart/barbozajpg.jpg" height="undefined" id="618567-Libre-824113699_embed" src="https://media.elobservador.com.uy/p/85364b04738cae3c61160b312046a4f3/adjuntos/362/imagenes/100/599/0100599020/1000x0/smart/barbozajpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Barboza, de 29 años, nació en Buenos Aires y el año pasado cuando enfrentó a Peñarol por la Copa Libertadores, dijo a la prensa que le gustaría jugar en la selección de Uruguay, el país de su padre.</p><p> Al mismo tiempo que se conoció la noticia de la suspensión, medios brasileños señalan que <strong>el futbolista está a punto de conseguir la ciudadanía</strong>, por lo que quedaría disponible para una convocatoria de Marcelo Bielsa.</p><p>Además de Barboza, también fueron suspendidos por 30 días los jugadores Alex Telles de Boafogo y Cleiton de Flamengo.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 15 de febrero  2025  -  19:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

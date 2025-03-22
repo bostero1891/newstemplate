@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Progreso fijó los precios ante Peñarol para el debut del Torneo Apertura y le cede tres tribunas del Estadio Centenario a los aurinegros'
+description: 'Progreso fijó los precios ante Peñarol para el debut del Torneo Apertura y le cede tres tribunas del Estadio Centenario a los aurinegros'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/40cf9f9d67f848c7aa1e285f51ac114b/adjuntos/362/imagenes/100/571/0100571710/1000x0/smart/20241126-jaime-baez-penarol-facundo-silvera-progreso.jpg'
+image2: 'https://media.elobservador.com.uy/p/5cb809e68d7d165ed71e11b2dfa65f13/adjuntos/362/imagenes/100/571/0100571710/316x177/smart/20241126-jaime-baez-penarol-facundo-silvera-progreso.jpg'
+date: 2025-01-29T14:39:00 +2:00:00
+date_es: '29 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/juan-pedro-damiani-hablo-la-no-renovacion-washington-aguerre-su-posible-regreso-la-auf-y-comparo-flavio-perchman-un-actor-hollywood-n5982214" rel="follow" target="_blank">Peñarol </a></strong> debutará este sábado a la hora 20 en el Estadio Centenario por la primera fecha del Torneo Apertura del Campeonato Uruguayo ante Progreso, que oficiará allí de local para este compromiso. Los aurinegros llegan golpeados anímicamente tras haber perdido dos clásicos en seis días ante su eterno rival.</p><p>Los carboneros quieren comenzar a cambiar la pisada de un año 2025 que comenzó muy mal, ya que en su pretemporada, de cuatro partidos jugados, perdieron tres y empataron uno,<strong> por lo que no conoció la victoria.</strong></p><p> Como informó <em>Referí</em>, <a href="https://www.elobservador.com.uy/futbol/en-el-debut-del-torneo-apertura-progreso-diego-aguirre-le-dara-la-titularidad-un-jugador-que-lo-sedujo-su-juego-penarol-n5982195" rel="follow" target="_blank">Diego Aguirre ya pensó en una variante importante de mitad de cancha hacia arriba.</a></p><p> <strong>Jugará Diego García, </strong>una de las nuevas incorporaciones, como titular.</p><p> A su vez, se encuentran suspendidos por haber sido expulsados en el clásico del domingo, Javier Cabrera y Rodrigo Pérez.</p><p>En su lugar, si bien Aguirre aún no lo confirmó siquiera puertas adentro, <strong>probó al juvenil campeón del mundo con la selección de Uruguay sub 20, Ignacio Sosa.</strong></p><h2>Progreso fijó los precios ante Peñarol para el debut del Torneo Apertura </h2><p>Progreso fijó este miércoles los precios para el partido del sábado ante Peñarol en el Estadio Centenario.</p><p>Los precios son los siguientes: <strong>Tribuna Ámsterdam (Peñarol) generales $ 490 y socios $ 420, Tribuna Olímpica (Peñarol) $ 680 y $ 580 y Tribuna América Puerta 3 (Peñarol) $ 900 y $ 700.</strong></p><p>Por su parte, los hinchas de Progreso irán a la <strong>Tribuna América puerta 24 a un precio de $ 250, en tanto que los socios deben canjear su boleto. Los menores de hasta 12 años ingresan gratis</strong> y la Tribuna Colombes no está habilitada.</p><p>Las entradas pueden adquirirse <strong>a través de RedTickets.</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 29 de enero  2025  -  18:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

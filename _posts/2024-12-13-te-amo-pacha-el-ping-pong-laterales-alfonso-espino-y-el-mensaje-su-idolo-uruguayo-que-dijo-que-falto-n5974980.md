@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '"Te amo Pacha": el ping pong de laterales a Alfonso Espino y el mensaje de su "ídolo" uruguayo que dijo que faltó'
+description: 'Roberto Carlos fue el mejor lateral para Pacha Espino, pero tras el ping pong le hizo una mención al periodista sobre un uruguayo que es su ídolo'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/60bc239f8583c5e40938f98ed2b5eddb/adjuntos/362/imagenes/100/578/0100578276/1000x0/smart/el-ping-pong-laterales-alfonso-espino.jpg'
+image2: 'https://media.elobservador.com.uy/p/294e04b5c772d51f8026e702e561781a/adjuntos/362/imagenes/100/578/0100578276/316x177/smart/el-ping-pong-laterales-alfonso-espino.jpg'
+date: 2024-12-13T10:47:00 +2:00:00
+date_es: '2024-12-13  10:47'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/la-revelacion-del-pacha-espino-su-deseo-volver-nacional-su-relacion-federico-valverde-y-como-es-enfrentar-real-madrid-y-sus-estrellas-n5974763" rel="follow" target="_blank">Alfonso Espino</a>, el lateral izquierdo uruguayo que juega en Rayo Vallecano de LaLiga de España</strong>, participó de un ping pong en el que opinó sobre los mejores futbolistas en su posición.</p><p>El ex Nacional se divirtió dando sus opiniones, eligiendo a Marcelo, a Maldini y luego a Roberto Carlos por sobre todos.</p><div style='height: 75px;'></div><img alt="El ping pong de laterales a Alfonso Espino" data-td-src-property="https://media.elobservador.com.uy/p/60bc239f8583c5e40938f98ed2b5eddb/adjuntos/362/imagenes/100/578/0100578276/1000x0/smart/el-ping-pong-laterales-alfonso-espino.jpg" height="undefined" id="601808-Libre-1797782780_embed" src="https://media.elobservador.com.uy/p/60bc239f8583c5e40938f98ed2b5eddb/adjuntos/362/imagenes/100/578/0100578276/1000x0/smart/el-ping-pong-laterales-alfonso-espino.jpg" title="El ping pong de laterales a Alfonso Espino" width="100%"/><div style='height: 75px;'></div><p>El brasileño fue el mejor para Pacha Espino, pero tras el ping pong le hizo una mención al periodista.</p><p><strong>“Te faltó uno, el Pelado Cáceres, Martín Cáceres, es mi ídolo”, comentó</strong> el oriundo de San Jacinto.</p><h2> La respuesta del Pelado Cáceres</h2><p>El Pelado Martín Cáceres vio el ping pong y lo compartió en sus redes.</p><p>Además, le dejó un mensaje al Espino: <strong>“Te amo Pacha”, escribió el exjugador de la selección de Uruguay.</strong></p><div style='height: 75px;'></div><img alt="El mensaje de Martín Cáceres a Pacha Espino" data-td-src-property="https://media.elobservador.com.uy/p/166af9d3c3930d5f79cca736ca8ae494/adjuntos/362/imagenes/100/578/0100578273/1000x0/smart/el-mensaje-martin-caceres-pacha-espino.jpg" height="undefined" id="601806-Libre-1284011509_embed" src="https://media.elobservador.com.uy/p/166af9d3c3930d5f79cca736ca8ae494/adjuntos/362/imagenes/100/578/0100578273/1000x0/smart/el-mensaje-martin-caceres-pacha-espino.jpg" title="El mensaje de Martín Cáceres a Pacha Espino" width="100%"/><div style='height: 75px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/13 15:00 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

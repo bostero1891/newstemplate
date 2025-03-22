@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'El ex Peñarol Nahuel Acosta tiene nuevo club y fue presentado con sus mejores jugadas, goles y magias; mirá el video'
+description: 'Nahuel Acosta viajó este fin de semana a su nuevo destino, en la que será su primera experiencia internacional'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/a5abc0d05d925f23f8ccd85f074bff0e/adjuntos/362/imagenes/100/589/0100589496/1000x0/smart/nahuel-acosta-su-nuevo-equipo.jfif'
+image2: 'https://media.elobservador.com.uy/p/32c278fc0c677c963b6773ecdb00e22b/adjuntos/362/imagenes/100/589/0100589497/316x177/smart/ghl0qsdwoaaonvf3jpg.jpg'
+date: 2025-01-20T09:43:00 +2:00:00
+date_es: '20 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El exjugador de <a href="https://www.elobservador.com.uy/futbol/penarol-presento-formalmente-gremio-un-pase-prestamo-matias-arezo-pero-hay-factores-que-le-juegan-contra-n5980436" rel="follow" target="_blank">Peñarol</a>, Nahuel Acosta, fue presentado en su nuevo club</strong>, al que se sumó en este fin de semana para comenzar sus entrenamientos de cara a la temporada 2025.</p><p><strong>El atacante jugará en Blooming de Bolivia, el “gigante cruceño”.</strong></p><div style='height: 75px;'></div><img alt="Nahuel Acosta en su nuevo equipo" data-td-src-property="https://media.elobservador.com.uy/p/a5abc0d05d925f23f8ccd85f074bff0e/adjuntos/362/imagenes/100/589/0100589496/1000x0/smart/nahuel-acosta-su-nuevo-equipo.jfif" height="undefined" id="610985-Libre-361047974_embed" src="https://media.elobservador.com.uy/p/a5abc0d05d925f23f8ccd85f074bff0e/adjuntos/362/imagenes/100/589/0100589496/1000x0/smart/nahuel-acosta-su-nuevo-equipo.jfif" title="Nahuel Acosta en su nuevo equipo" width="100%"/><div style='height: 75px;'></div><p>Tras ser campeón uruguayo con Peñarol, Acosta viajó este fin de semana a su nuevo destino, en la que será su primera experiencia internacional.</p><p>El delantero de 25 años debutó en Primera en Rentistas, en 2019, y luego jugó en Sud América en 2021, nuevamente en Rentistas en 2022, y luego en Albio, Cerro y los carboneros.</p><div style='height: 75px;'></div><img alt="Nahuel Acosta en Blooming junto a Martín Alaniz y Santiago Etchebarne" data-td-src-property="https://media.elobservador.com.uy/p/f33028d579294a34dbf3825cb3b10583/adjuntos/362/imagenes/100/589/0100589495/1000x0/smart/nahuel-acosta-blooming-junto-martin-alaniz-y-santiago-etchebarne.jpeg" height="undefined" id="610984-Libre-1814172920_embed" src="https://media.elobservador.com.uy/p/f33028d579294a34dbf3825cb3b10583/adjuntos/362/imagenes/100/589/0100589495/1000x0/smart/nahuel-acosta-blooming-junto-martin-alaniz-y-santiago-etchebarne.jpeg" title="Nahuel Acosta en Blooming junto a Martín Alaniz y Santiago Etchebarne" width="100%"/><div style='height: 75px;'></div><p>Tras firmar su contrato, Acosta se sumó a Blooming, donde será compañero de varios uruguayos: Martín Alaniz, que llegó en el actual período de pases, Jonathan Lacerda, Santiago Etchebarne, otro fichaje, Fernando Arismendi, y Franco Luca Posse.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 20 de enero  2025  -  14:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

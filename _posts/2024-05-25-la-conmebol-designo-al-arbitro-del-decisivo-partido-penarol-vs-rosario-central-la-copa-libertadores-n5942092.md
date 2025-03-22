@@ -1,0 +1,18 @@
+---
+layout: post2
+title: 'La Conmebol designó a un árbitro de mal recuerdo en Uruguay para el decisivo partido Peñarol vs Rosario Central por la Copa Libertadores'
+description: 'Además del encuentro de Peñarol, también fueron designados los árbitros para los partidos que jugarán Nacional y Liverpool por la Copa Libertadores'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/9174fc13125a9ecddf5131a9b3abc2b5/adjuntos/362/imagenes/100/385/0100385788/1000x0/smart/piero-maza-jpgwebp.webp'
+date: 2024-05-25T12:43:00 +2:00:00
+date_es: '
+							25 de mayo  2024 - 12:43hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+[<article class="content-free-false article-body article-body--first-paragraph" data-td-script-src="https://www.elobservador.com.uy/js-custom/vendor/jquery/jquery-3.6.0.min-min-version-1716696421.js">
+<p>Conmebol designó a los árbitros que se encargarán de la última fecha de la fase de grupos de la <a class="agrupador" href="https://www.elobservador.com.uy/tag/copa-libertadores" rel="18532">Copa Libertadores</a> y de la Copa Sudamericana. <a href="https://www.elobservador.com.uy/copa-libertadores/copa-libertadores-el-tecnico-rosario-central-hablo-el-tenso-clima-del-partido-contra-penarol-n5942085" rel="follow" target="_blank">El encargado del decisivo partido entre <strong>Peñarol</strong> y Rosario Central</a>, que se juega el martes 28 a las 19 horas en el Campeón del Siglo es el chileno Piero Maza.</p></article>, <article class="article-body content-protected-false article-body--second-paragraph"> <p>Mientras que el juez para el encuentro entre Libertad y <a class="agrupador" href="https://www.elobservador.com.uy/nacional-a47436" rel="47436">Nacional</a> en Asunción, fue designado el brasileño Wilton Sampaio, y el partido entre Independiente del Valle y <a class="agrupador" href="https://www.elobservador.com.uy/tag/liverpool" rel="54">Liverpool</a> en Ecuador será dirigido por el colombiano Carlos Ortega.</p></article>, <article class="article-body content-protected-false article-body--second-paragraph"> <h2>Designaciones de árbitros en Copa Libertadores</h2> <p><strong>Peñarol vs Rosario Central (martes 28 a las 19 hs)</strong></p> </article>, <article class="article-body content-protected-false article-body--second-paragraph"><p> El árbitro será el chileno Piero Maza, <a href="https://www.elobservador.com.uy/nota/la-mano-de-james-rodriguez-en-el-segundo-gol-de-colombia-la-gran-polemica-del-arbitraje-de-piero-maza-202310122262" rel="follow" target="_blank">de polémico desempeño el año pasado en el partido entre Colombia y Uruguay</a> por las Eliminatorias.</p></article>, <article class="article-body content-protected-false article-body--third-paragraph"><p> Los líneas son sus compatriotas José Retamal y Alejandro Molina.</p> <p>En el VAR estarán Juan Lara y Gabriel Ureta.</p> <p><strong>Libertad vs Nacional (jueves 30 a las 21 hs)</strong></p> <p>Será dirigido por el brasileño Wilton Sampaio, asistido en el campo por Rodrigo Correa y Guilherme Camilo.</p> <p>En el VAr estarán Rodolpho Toski y Pablo Goncaves.</p> <p><strong>Independiente del Valle vs Liverpool (jueves 30 a las 19 hs)</strong></p> <p>El colombiano Carlos Ortega será el árbitro central, mientras que en las líneas estarán Miguel Roldán y Cristian Aguirre.</p> <p>El VAR estará a cargo de Yadir Acuña y Heider Castro.</p> <p>El encuentro entre <strong>Corinthians vs Racing</strong> por la Copa Sudamericana el martes 28 a las 19 horas, será dirigido por el peruano Roberto Pérez, acompañado por Stephen Atoche y Leonar Soto, y desde el VAR por los colombianos Nicolás Gallo y Mauricio Pérez.</p></article>]
+<div style='height: 300px;'></div>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Así se juega la tercera fecha del Torneo Intermedio: Nacional y Peñarol juegan de visitantes'
+description: 'Todos los detalles de la tercera fecha del torneo Intermedio, que se juega entre sábado y domingo; Peñarol y Nacional juegan de visitantes'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/a8d5f9387428eaa52b455d1b685c0c59/adjuntos/362/imagenes/100/511/0100511615/1707252066711webp.webp'
+date: 2024-06-21T13:13:00:00 +2:00:00
+date_es: '21 de junio  2024 - 13:13hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>Con cuatro partidos el sábado y cuatro el domingo, se juega este fin de semana la tercera fecha del Torneo Intermedio, en la que tanto Peñarol como Nacional juegan de visitante. La diferencia es que el aurinegro jugará en el Centenario y el tricolor viaja a Melo.</p><p>Peñarol enfrenta a Progreso y va por su primera victoria, mientras que Nacional juega contra Cerro Largo con el debut de Martín Lasarte en la conducción técnica.</p><h2>Así se juega la tercera fecha del torneo Intermedio</h2><p><strong>Sábado 22</strong></p><p> <strong>Cerro-Danubio<br/></strong>Hora: 10<br/>Estadio Tróccoli<br/>Árbitro: Daniel Rodríguez<br/>VAR: Javier Burgos</p><p> <strong>Deportivo Maldonado-Fénix<br/></strong>Hora: 12:30<br/>Estadio Burgueño<br/>Árbitro: Federico Arman<br/>VAR: Esteban Ostojich</p><p><strong>Racing-Defensor Sp<br/></strong> Hora: 15<br/>Parque Roberto<br/>Árbitro: Mathías de Armas<br/>VAR: Diego Riveiro</p><p><strong>Progreso-<a class="agrupador" href="https://www.elobservador.com.uy/club-atletico-penarol-a42904" rel="42904">Peñarol</a><br/></strong> Hora: 18<br/>Estadio Centenario<br/>Árbitro: Santiago Motta<br/>VAR: Daniel Rodríguez</p><p><strong>Domingo 23</strong></p><p><strong> Liverpool-Boston River<br/></strong>Hora: 10<br/>Estadio Belvedere<br/>Árbitro: Leandro Lasso<br/>VAR:Andrés Cunha</p><p><strong>Rampla Jrs-Miramar<br/></strong> Hora: 12:30<br/>Parque Paladino<br/>Árbitro: Javier Burgos<br/>VAR: Mathías de Armas</p><p><strong>Cerro Largo-<a class="agrupador" href="https://www.elobservador.com.uy/tag/nacional" rel="538">Nacional</a><br/></strong> Hora: 15<br/>Estadio Ubilla<br/>Árbitro: Hernán Heras<br/>VAR: Jonathan Fuentes</p><p><strong>Wanderers-River Plate<br/></strong> Hora: 17:30<br/>Parque Viera<br/>Árbitro: Esteban Ostojich<br/>VAR: Andrés Cunha</p><h2>Posiciones del torneo Intermedio</h2><iframe class="border-0" data-td-src-property="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://elobservador-datafactory.s3.us-east-1.amazonaws.com/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe><div style='height: 30px;'>
+<div style='height: 300px;'></div>
+</html>

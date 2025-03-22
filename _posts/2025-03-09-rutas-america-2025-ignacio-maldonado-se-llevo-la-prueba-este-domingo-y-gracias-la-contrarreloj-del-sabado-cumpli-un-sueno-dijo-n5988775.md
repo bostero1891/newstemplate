@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Rutas de América 2025: Ignacio Maldonado se llevó la prueba este domingo y gracias a la contrarreloj del sábado: "Cumplí un sueño", dijo'
+description: 'Notable repunte sobre el final: Rutas de América 2025: Ignacio Maldonado se llevó la prueba este domingo y gracias a la contrarreloj del sábado: "Cumplí un sueño", dijo'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/7e60d1cc3b36524339dccc72f39fabc7/adjuntos/362/imagenes/100/606/0100606807/1000x0/smart/20250309-ignacio-maldonado-gano-rutas-america-2025.jpg'
+image2: 'https://media.elobservador.com.uy/p/2e262cc99aa641a3dac108fb11cfe7fd/adjuntos/362/imagenes/100/606/0100606807/665x399/smart/20250309-ignacio-maldonado-gano-rutas-america-2025.jpg'
+date: 2025-03-09T14:09:00 +2:00:00
+date_es: '9 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El ciclista Ignacio Maldonado, radicado desde hace años en Florida, consiguió en las primeras horas de la tarde de este domingo ganar la prueba de<strong> <a href="https://www.elobservador.com.uy/polideportivo/rutas-america-asconeguy-gano-la-manana-el-lider-pincho-y-la-contrarreloj-la-gano-nacho-maldonado-mira-como-llegan-los-candidatos-al-final-montevideo-este-domingo-n5988728" rel="follow" target="_blank">Rutas de América</a></strong> 2025, más allá de que la última etapa que llegó a Montevideo la obtuvo el competidor Leonel Rodríguez.</p><p>Maldonado, quien corrió para el Club Ciclista Punta del Este se quedó con el podio de lo que fue la 53ª edición de esta prueba.</p><p><strong>El nuevo ganador <a href="https://www.elobservador.com.uy/polideportivo/rutas-america-asconeguy-gano-la-manana-el-lider-pincho-y-la-contrarreloj-la-gano-nacho-maldonado-mira-como-llegan-los-candidatos-al-final-montevideo-este-domingo-n5988728" rel="follow" target="_blank">había conseguido la malla líder el sábado por la tarde tras una gran contrarreloj.</a></strong></p><p> El vencedor de la última etapa fue Leonel Rodríguez del Club Cerro Largo, seguido de Sergio Fredes del Armonía Cycles de Fray Bentos, mientras que Maldonado fue tercero.</p><h2> Rutas de América 2025: Ignacio Maldonado se llevó la prueba este domingo y gracias a la contrarreloj del sábado: "Cumplí un sueño", dijo</h2><p>Ignacio Maldonado habló luego de haber conseguido el título en Rutas de América 2025.</p><p><strong>“Estoy muy emocionado, las palabras sobran”, </strong>sostuvo al ser entrevistado por Radio Nacional.</p><p>Y añadió: “Solo mis compañeros, mi familia, la gente que me rodea, sabe lo que trabajé para llegar a este título <strong>y cumplir mi sueño de ganar Rutas”.</strong></p><p><strong> “Fue una guerra en la ruta para sostener la malla líder en la última etapa, </strong>mis compañeros estuvieron para defenderla, me encontraba con buenas sensaciones, piernas, pude sobrellevar los ataques y en los metros finales sabía que iba rumbo a la gloria y quedaba disfrutarlo, poner huevo y festejar”, explicó.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 9 de marzo  2025  -  18:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

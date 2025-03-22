@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'La AUF realizó una importante aclaración para los hinchas de Argentina que concurran el viernes al Estadio Centenario'
+description: 'La AUF emitió un comunicado importante para los hinchas de Argentina que concurran al partido frente a Uruguay'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/365e870f3b9324e033a4c2874d400cb8/adjuntos/362/imagenes/100/315/0100315710/1000x0/smart/0019976749webp.webp'
+image2: 'https://media.elobservador.com.uy/p/8571978ed31526c7ff898f6df4b046d9/adjuntos/362/imagenes/100/315/0100315710/316x177/smart/0019976749webp.webp'
+date: 2025-03-19T13:44:00 +2:00:00
+date_es: '19 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Las selecciones de <a href="https://www.elobservador.com.uy/seleccion/uruguay-vs-argentina-eliminatorias-montevideo-dia-hora-entradas-y-donde-verlo-n5989699" rel="follow" target="_blank">Uruguay y Argentina</a> se enfrentan <strong>este viernes 21 a las 20:30 horas</strong> en el Estadio Centenario por la fecha 13 de las Eliminatorias para el Mundial 2026. El último campeón del mundo lidera la tabla de posiciones con 25 puntos, seguido de los celestes con 20.</p><p>Las 55.000 entradas que se pusieron a la venta para el clásico del Río de la Plata <a href="https://www.elobservador.com.uy/explota-el-estadio-centenario-el-partido-uruguay-vs-argentina-se-jugara-record-entradas-vendidas-n5989837" rel="follow" target="_blank">se agotaron el sábado 15 de marzo</a>, incluidas las dos zonas especiales creadas para este partido en los taludes Colombes y Ámsterdam, solo para hinchas uruguayos.</p><p>Asimismo, la Asociación Uruguaya de Fútbol (AUF) lanzó un comunicado dirigido a los argentinos que tienen entradas para el encuentro de este viernes, y también a hinchas uruguayos.</p><h2>Comunicado de la AUF</h2><p>El mismo dice lo siguiente: "La AUF informa a los hinchas de la selección Argentina que asistirán al partido Uruguay vs Argentina el próximo 21 de marzo en el Estadio Centenario que <strong>solo podrán ingresar con entradas para la zona destinada a la afición visitante (tribuna América, puerta 24)".</strong></p><p> Agrega que "los aficionados argentinos que adquirieron entradas en zonas reservadas para la hinchada uruguaya<strong> no podrán acceder al estadio</strong> y no se les reubicará en el sector visitante".</p><p>Por otra parte, "<strong>tampoco estará permitido el ingreso de hinchas con camisetas partidarias</strong> de clubes a las tribunas destinadas para uruguayos".</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/b2681fb66485d7f607b41e4aad532f2c/adjuntos/362/imagenes/100/610/0100610421/1000x0/smart/comunicado-jpgjpeg.jpeg" height="undefined" id="627721-Libre-977426974_embed" src="https://media.elobservador.com.uy/p/b2681fb66485d7f607b41e4aad532f2c/adjuntos/362/imagenes/100/610/0100610421/1000x0/smart/comunicado-jpgjpeg.jpeg" title="" width="100%"/><div style='height: 75px;'></div><p></p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 19 de marzo  2025  -  18:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

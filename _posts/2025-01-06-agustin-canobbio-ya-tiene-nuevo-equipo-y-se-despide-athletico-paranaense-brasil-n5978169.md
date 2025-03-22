@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Agustín Canobbio ya tiene nuevo equipo y se despide de Athletico Paranaense de Brasil'
+description: 'Agustín Canobbio ya tiene nuevo equipo y se despide de Athletico Paranaense de Brasil'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/7513ef5825a913a0ed374f8f831a519b/adjuntos/362/imagenes/100/391/0100391338/1000x0/smart/432573673-18422011090046905-7280721299812061020-n-1-jpgwebp.webp'
+image2: 'https://media.elobservador.com.uy/p/b54fe603f35b3cc75e4df4b6d4707620/adjuntos/362/imagenes/100/391/0100391338/316x177/smart/432573673-18422011090046905-7280721299812061020-n-1-jpgwebp.webp'
+date: 2025-01-06T14:06:00 +2:00:00
+date_es: '6 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El delantero uruguayo <strong><a href="https://www.elobservador.com.uy/futbol-internacional/agustin-canobbio-es-transferido-un-grande-europa-y-penarol-recibe-una-importante-cantidad-dinero-mira-cuanto-ingresara-las-arcas-aurinegras-n5976255" rel="follow" target="_blank">Agustín Canobbio</a></strong> dejará de ser jugador de Athletico Paranaense de Brasil, ya que en las últimas horas se informó que su ficha será adquirida por un nuevo club. El extremo estaba esperando poder salir de esta institución que acaba de descender a la Serie B de ese país.</p><p>Junto a él también descendió el uruguayo Gonzalo Mastriani, quien tuvo una notable Copa Sudamericana el año pasado, siendo uno de los principales goleadores de la misma, pero en la última fecha, su club no pudo con los resultados de la temporada y terminó perdiendo la categoría.</p><p><strong>También 2024 fue un mal año para Canobbio, quien quedó relegado de la selección de Uruguay luego de lo que fue su entredicho con el técnico celeste, Marcelo Bielsa,</strong> en plena Copa América de Estados Unidos.</p><h2>Agustín Canobbio ya tiene nuevo equipo y se despide de Athletico Paranaense de Brasil</h2><p>Pese a que el exfutbolista <a href="https://www.elobservador.com.uy/futbol-internacional/agustin-canobbio-es-transferido-un-grande-europa-y-penarol-recibe-una-importante-cantidad-dinero-mira-cuanto-ingresara-las-arcas-aurinegras-n5976255" rel="follow" target="_blank">Gonzalo Sorondo, quien es su representante a través del grupo Faro Sports (lo que antes era el grupo de Francisco Casal), sostuvo hace un par de semanas que tenía todo arreglado para que Canobbio jugara en Milan de Italia,</a><strong> esa posibilidad se fue cayendo a pedazos.</strong></p><p> Finalmente, la prensa brasileña informó este lunes que el extremo uruguayo continuará su carrera en otro club de Brasil.</p><p><strong>Canobbio jugará en Fluminense de Río de Janeiro, </strong>club en el que actualmente está David Terans, quien continúa cercano a volver a Peñarol, aunque lo definirá en estos días.</p><p><strong>A Peñarol le corresponde un 25% de la transferencia cuando esta se haga,</strong> aunque un 10% le corresponde al intermediario.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 6 de enero  2025  -  18:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

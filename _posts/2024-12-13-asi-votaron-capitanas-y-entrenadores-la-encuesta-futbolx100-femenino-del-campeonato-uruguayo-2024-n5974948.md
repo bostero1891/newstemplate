@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Así votaron capitanas y entrenadores en la encuesta Fútbolx100 Femenino del Campeonato Uruguayo 2024'
+description: 'Las capitanas y los entrenadores de los equipo de Primera división del fútbol uruguayo, eligen a las mejores del año en la encuesta Fútbolx100 Femenino'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e63a83f5a34a728a3ba00b72abac3de7/adjuntos/362/imagenes/100/568/0100568095/1000x0/smart/20241117-josefina-villanueva-clasico-del-futbol-femenino.jpg'
+image2: 'https://media.elobservador.com.uy/p/ed4344ad18c6d1dc0664e3397a7d0a69/adjuntos/362/imagenes/100/568/0100568095/316x177/smart/20241117-josefina-villanueva-clasico-del-futbol-femenino.jpg'
+date: 2024-12-13T09:01:00 +2:00:00
+date_es: '2024-12-13  09:01'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La elección de la mejor jugadora, golera, entrenadora/o y revelación en la encuesta <em><a href="https://www.elobservador.com.uy/nota/que-es-la-encuesta-futbolx100-que-organiza-el-observador-y-a-quienes-distingue--202112232413"><strong>Fútbolx100</strong></a><strong> Femenino</strong></em> del Campeonato Uruguayo 2024, que anualmente organiza<em> Referí</em>, se realizó a través de la votación de las capitanas y entrenadores/as de todos los clubes que tomaron parte en el torneo de Primera División. <a href="https://www.elobservador.com.uy/futbol/futbolx100-femenino-sofia-oxandabarat-nacional-fue-elegida-como-la-mejor-futbolista-uruguay-2024-n5974938" rel="follow" target="_blank">Sofía Oxandabarat, de Nacional, fue elegida mejor futbolista del año</a>.</p><p><strong>Josefina Villanueva</strong>, de Nacional, mejor golera; <strong>Clara Guell</strong>, de Peñarol, revelación del año; y <strong>Marcel Rauss</strong>, campeón uruguayo con Nacional, el mejor entrenador.</p><h2>¿Cómo se eligen a las mejores en Fútbolx100 Femenino?</h2><p>Debido a que no existe un centenar de periodistas para elegir a las mejores como sucede con <em>Fútbolx100</em> masculino, <em>Referí </em>eligió el sistema que utiliza FIFA con capitanas y entrenadoras para sus elecciones.</p><p>En este caso, <strong>cada uno de ellos eligieron a tres jugadoras, por orden</strong>, y se les asignó cinco, tres y un punto respectivamente.</p><p> Además, votaron al mejor entrenador/entrenadora y cada voto sumó un punto.</p><p>Estos fueron los votos de capitanas y entrenadoras:</p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="scribd_iframe_embed" data-aspect-ratio="0.7080062794348508" data-auto-height="true" data-td-src-property="https://www.scribd.com/embeds/804287415/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-TweOP9XDXC2q8JJGDVCm" frameborder="0" height="600" scrolling="no" src="https://www.scribd.com/embeds/804287415/content?start_page=1&view_mode=scroll&access_key=key-TweOP9XDXC2q8JJGDVCm" tabindex="0" title="FX100 FEM 2024 ok" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/13 13:15 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

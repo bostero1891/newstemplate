@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'La formación de Peñarol para ir en busca de la Tabla Anual contra Progreso este martes'
+description: 'La formación de Peñarol para ir en busca de la Tabla Anual contra Progreso este martes'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/4dd4033fa5aa12f99dd0c3686d90f0f6/adjuntos/362/imagenes/100/571/0100571083/20240922-rodrigo-perez-cerro-vs-penarol-torneo-clausura.jpg'
+date: 2024-11-25T15:24:00:00 +2:00:00
+date_es: '25 de noviembre  2024 - 15:24hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El entrenador de <strong><a href="https://www.elobservador.com.uy/futbol/progreso-vs-penarol-dia-hora-donde-juegan-y-donde-comprar-entradas-n5971964" rel="follow" target="_blank">Peñarol</a></strong> Diego Aguirre ya tiene definida la formación con la que enfrentará a Progreso este martes a la hora 21.00 en partido correspondiente a la 14ª y penúltima fecha del Torneo Clausura. Si los aurinegros ganan, seguirán en la cima del certamen pero también se asegurarán ganar la Tabla Anual, que es clave para la definición del Campeonato Uruguayo.</p><p>Peñarol tiene suspendido a Damián García, quien ante Defensor Sporting, en la 13ª fecha, acumuló su quinta tarjeta amarilla.</p><p>El entrenador Aguirre reconoció disimuladamente que esa quinta amarilla, mostrada por Gustavo Tejera por demorar la ejecución de un tiro libre, fue consensuada entre el DT y el jugador.</p><p>El lugar de García será ocupado por Rodrigo Pérez, un contención al que Aguirre trajo pensando en la temporada 2025 pero que rápidamente se insertó en el equipo y se ganó su lugar en cancha.</p><p> Salvo ese cambio cantado, Aguirre evaluará este martes en horas de la mañana a Eduardo Darias, jugador clave en el esquema del entrenador, pero que arrastra problemas de rodilla y que hasta lo llevaron a hacer un tratamiento paliativo en Argentina.</p><p>En caso de que Darias no esté para jugar, su lugar será ocupado por Gastón Ramírez.</p><p>Otra duda que se revelará sobre la hora del partido es quiénes serán los laterales ya que en los últimos partidos han rotado: Pedro Milans y Damián Suárez; Maximiliano Olivera y Lucas Hernández.</p><p>Si vuelve a rotar, jugará quiénes arrancaron contra Wanderers, es decir, Milans y Olivera, quienes han sido los titulares en la temporada.</p><p>Pero no hay que olvidar que el fin de semana, el manya vuelve a jugar, contra Fénix en el Campeón del Siglo, en un partido donde puede tener a mano la chance de ganar el Campeonato Uruguayo sin pasar por finales que serían eventuales y ante Nacional, si es que el bolso gana el Torneo Clausura.</p><p>De esta forma, el equipo iría con: Washington Aguerre, Pedro Milans, Javier Méndez, Guzmán Rodríguez, Maximiliano Olivera; Rodrigo Pérez, Eduardo Darias; Leonardo Sequeira, Leonardo Fernández, Jaime Báez; Maximiliano Silvera.</p><p>Javier Cabrera sigue evolucionando de un esguince de rodilla que lo tiene un mes y 11 días fuera de las canchas y se espera que pueda llegar al banco de los suplentes.</p>
+<div style='height: 300px;'></div>
+</html>

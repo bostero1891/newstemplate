@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Así será el operativo de seguridad para el clásico Nacional vs Peñarol en el Gran Parque Central por el Clausura'
+description: 'Así será el operativo de seguridad para el clásico Nacional vs Peñarol en el Gran Parque Central por el Torneo Clausura'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/3ff3f925045ba243bc5b6b69cdaa41be/adjuntos/362/imagenes/100/334/0100334467/1000x0/smart/0022288450webp.webp'
+date: 2024-10-04T15:01:00:00 +2:00:00
+date_es: '4 de octubre  2024 - 15:10hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El clásico <strong>Nacional vs Peñarol</strong> que el <strong>domingo </strong>jugarán a partir de la <strong>hora 16 en el Gran Parque Central</strong>, por la sexta fecha del Torneo Clausura, tendrá un amplio operativo de seguridad.</p><p>El partido se jugará exclusivamente con hinchas de Nacional, que ya agotaron las entradas.</p><p>El operativo en torno al Gran Parque Central tendrá las siguientes características:</p><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/045964561b307257472aafe741dd1fa8/adjuntos/362/imagenes/100/551/0100551040/1000x0/smart/operativo-seguridad-nacional-vs-penaroljpeg.jpeg" height="undefined" id="581100-Libre-1454576743_embed" src="https://media.elobservador.com.uy/p/045964561b307257472aafe741dd1fa8/adjuntos/362/imagenes/100/551/0100551040/1000x0/smart/operativo-seguridad-nacional-vs-penaroljpeg.jpeg" title="" width="100%"/><div style='height: 30px;'><h2>Un pedido especial de Nacional a sus hinchas previo al clásico</h2><p>En su página web, Nacional pidió a sus hincha, que son los únicos que podrán acceder al estadio tricolor: "<strong>Es fundamental que todos seamos <em>Hinchas del Respeto</em> y tengamos una conducta responsable y ajustada a las normas y recomendaciones de seguridad</strong>".</p><p> Los artículos <strong>prohibidos </strong>para ingresar al Gran Parque Central:</p><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/92e10b2855fb8f05dae9f3282bcc385a/adjuntos/362/imagenes/100/551/0100551039/1000x0/smart/lo-que-no-se-puede-llevar-clasico-nacional-vs-penaroljpeg.jpeg" height="undefined" id="581099-Libre-560973252_embed" src="https://media.elobservador.com.uy/p/92e10b2855fb8f05dae9f3282bcc385a/adjuntos/362/imagenes/100/551/0100551039/1000x0/smart/lo-que-no-se-puede-llevar-clasico-nacional-vs-penaroljpeg.jpeg" title="" width="100%"/><div style='height: 30px;'><p>Artículos <strong>permitidos</strong>:</p><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/51be9c1070b396bbfaed767a42072488/adjuntos/362/imagenes/100/551/0100551041/1000x0/smart/que-se-puede-llegar-clasico-nacional-vs-penaroljpeg.jpeg" height="undefined" id="581101-Libre-1128688856_embed" src="https://media.elobservador.com.uy/p/51be9c1070b396bbfaed767a42072488/adjuntos/362/imagenes/100/551/0100551041/1000x0/smart/que-se-puede-llegar-clasico-nacional-vs-penaroljpeg.jpeg" title="" width="100%"/><div style='height: 30px;'><p></p>
+<div style='height: 300px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Nuevos incidentes en un amistoso de verano: hinchas de Independiente se enfrentaron en el Franzini y el Parque Rodó; mirá los videos'
+description: 'También hubo incidentes en las afueras del Franzini y debió intervenir la policía; mirá los videos'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/82876550d81f7a230da13d66cf1e8f43/adjuntos/362/imagenes/100/589/0100589443/1000x0/smart/nuevos-incidentes-un-amistoso-verano-hinchas-independiente-se-enfrentaron-el-franzini.jpg'
+image2: 'https://media.elobservador.com.uy/p/ac67c98130f50bd56851eccfda315265/adjuntos/362/imagenes/100/589/0100589443/316x177/smart/nuevos-incidentes-un-amistoso-verano-hinchas-independiente-se-enfrentaron-el-franzini.jpg'
+date: 2025-01-20T08:51:00 +2:00:00
+date_es: '20 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Un <a href="https://www.elobservador.com.uy/futbol/hinchas-colo-colo-y-huracan-se-enfrentaron-un-nuevo-cruce-el-marco-los-partidos-verano-montevideo-n5979857" rel="follow" target="_blank">nuevo incidente</a> en un partido amistoso de verano, en el marco de la Serie Río de la Plata 2025</strong>, se registró el pasado sábado en el Parque Franzini, nuevamente en esa zona del Parque Rodó de Montevideo, donde jugó el local Defensor Sporting ante Independiente de Avellaneda.</p><p>Antes del encuentro hubo corridas y enfrentamientos entre dos facciones de la barra del equipo argentino.</p><p>Así se pudo ver en videos filmados desde dentro del estadio violeta.</p><p>Además, también hubo incidentes en las afueras del Franzini, donde se pudo ver que <strong>debió intervenir la policía.</strong></p><p>En las imágenes se escucharon estruendos y disparos de bala de goma.</p><p>Se trata de un nuevo hecho de violencia que se da en el marco de los amistosos de verano que se juegan en Montevideo.</p><div style='height: 75px;'></div><img alt="Nuevos incidentes en un amistoso de verano: hinchas de Independiente se enfrentaron en el Franzini" data-td-src-property="https://media.elobservador.com.uy/p/82876550d81f7a230da13d66cf1e8f43/adjuntos/362/imagenes/100/589/0100589443/1000x0/smart/nuevos-incidentes-un-amistoso-verano-hinchas-independiente-se-enfrentaron-el-franzini.jpg" height="undefined" id="610951-Libre-1703396634_embed" src="https://media.elobservador.com.uy/p/82876550d81f7a230da13d66cf1e8f43/adjuntos/362/imagenes/100/589/0100589443/1000x0/smart/nuevos-incidentes-un-amistoso-verano-hinchas-independiente-se-enfrentaron-el-franzini.jpg" title="Nuevos incidentes en un amistoso de verano: hinchas de Independiente se enfrentaron en el Franzini" width="100%"/><div style='height: 75px;'></div><p>Anteriormente, <a href="https://www.elobservador.com.uy/futbol/hinchas-colo-colo-y-huracan-se-enfrentaron-un-nuevo-cruce-el-marco-los-partidos-verano-montevideo-n5979857" rel="follow" target="_blank">hinchas de Colo Colo de Chile tuvieron un enfrentamiento ante seguidores de Universidad Católica de Chile, y luego también los de Colo Colo ante parciales de Huracán argentino</a>.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 20 de enero  2025  -  13:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

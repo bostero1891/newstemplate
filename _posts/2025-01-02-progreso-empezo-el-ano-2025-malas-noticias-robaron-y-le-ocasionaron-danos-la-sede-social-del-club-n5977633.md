@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Progreso empezó el año 2025 con malas noticias: robaron y le ocasionaron daños en la sede social del club'
+description: 'Progreso empezó el año 2025 con malas noticias: robaron y le ocasionaron daños en la sede social del club'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e844c8d2833caeb76fcd97620ba7d758/adjuntos/362/imagenes/100/583/0100583911/1000x0/smart/progresojpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/33c9840994fdc304d6a7fe0ca4b2a3c9/adjuntos/362/imagenes/100/583/0100583911/316x177/smart/progresojpg.jpg'
+date: 2025-01-02T13:21:00 +2:00:00
+date_es: '2025-01-02  13:21'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>No fue un buen comienzo de año para el club Progreso, ya que según informó la institución en sus redes sociales, este jueves por la  madrugada le robaron y le ocasionaron daños en la sede. De acuerdo a lo que se informó a <em>Referí</em>, <strong>se robaron computadoras con datos internos de la institución y documentos</strong>.</p><p>"Lamentablemente en la madrugada de hoy robaron nuestra Sede. Todavía se está relevando los artículos faltantes, en estos momentos podemos informar que el daño más grande fue el destrozo en un sector de la Sede, el hurto de materiales de trabajo administrativos y alguna herramienta electrónica con datos importantes", anunció Progreso en sus cuentas de Instagrama y X.</p><p>Agregó que "ya estamos trabajando para arreglar los daños sufridos y recuperar nuestras pertenencias. El club es de su gente y estamos seguros que como siempre estarán colaborando para evitar este tipo de situaciones en nuestra casa".</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Lamentablemente en la madrugada de hoy robaron nuestra Sede. Todavía se está relevando los artículos faltantes, en estos momentos podemos informar que el daño más grande fue el destrozo en un sector de la Sede, el hurto de materiales de trabajo administrativos (SIGUE) <a href="https://t.co/PJkeXkVDzB">pic.twitter.com/PJkeXkVDzB</a></p> &mdash; C. A. Progreso (@ProgresoOficial) <a href="https://twitter.com/ProgresoOficial/status/1874820929517412448?ref_src=twsrc%5Etfw">January 2, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>Desde el pasado 17 de noviembre el club es presidido por <strong>Rodrigo Barrenechea</strong>, tras ser votado por 110 socios en las elecciones. Reemplazó a Javier Alberro.</p><p> Finalizado el Campeonato Uruguayo 2024, en el que Progreso terminó 11° en la Tabla Anual, <strong>fue reemplazado el cuerpo técnico encabezado por Carlos Canobbio.</strong></p><p>Asumió como DT Javier Méndez, acompañado de Jorge Díaz, Denis Manzzi y Danilo Tomás.</p><p>Asimismo, dos históricos del club fueron nombrados como coordinador y entrenador en juveniles: Próspero Silva y Erardo Cóccaro, respectivamente.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2025/01/03 11:16 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

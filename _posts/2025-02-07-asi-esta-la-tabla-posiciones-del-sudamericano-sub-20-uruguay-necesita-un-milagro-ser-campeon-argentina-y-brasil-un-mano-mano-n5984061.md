@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Así está la tabla de posiciones del Sudamericano sub 20: Uruguay necesita un milagro para ser campeón; Argentina y Brasil en un mano a mano'
+description: 'Así está la tabla de posiciones del Sudamericano sub 20: Uruguay necesita un milagro para ser campeón; Argentina y Brasil quedaron en un mano a mano'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/ee7cf18f0bb1602dee59841805ed48ca/adjuntos/362/imagenes/100/596/0100596391/1000x0/smart/claudio-echeverri-y-alfonso-montero-argentina-vs-uruguay-el-sudamericano-sub-20jpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/1ef840d13fee496f85cc517121015f22/adjuntos/362/imagenes/100/596/0100596391/316x177/smart/claudio-echeverri-y-alfonso-montero-argentina-vs-uruguay-el-sudamericano-sub-20jpg.jpg'
+date: 2025-02-07T21:36:00 +2:00:00
+date_es: '7 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La derrota que la <strong>selección de <a href="https://www.elobservador.com.uy/seleccion/uruguay-vs-argentina-vivo-el-sudamericano-sub-20-los-goles-lavega-y-crucci-empujan-los-celestes-n5984026" rel="follow" target="_blank">Uruguay</a></strong> sufrió este viernes ante <strong>Argentina </strong>en la segunda fecha del hexagonal final del <strong>Sudamericano sub 20 </strong>de Venezuela dejó a los celestes casi sin chances de pelear por el título en este torneo.</p><p><strong>Argentina y Brasil llegaron a seis puntos</strong> en dos partidos y quedaron en un mano a mano para aspirar al título del torneo de Conmebol.</p><p><strong>Uruguay está último</strong> en la tabla de la ronda final, sin puntos acumulados.</p><p>Ahora <strong>Uruguay necesita un milagro para ser campeón</strong>, porque ya no depende de sí mismo y precisa que Argentina y Brasil pierdan dos partidos de los tres que le restan disputar en el torneo.</p><p> La celeste buscó hasta el final el triunfo, con tres goles en el segundo tiempo, pero no le alcanzó para superar a Argentina que marcó cuatro.</p><p>La selección de Fabián Coito jugará el <strong>lunes ante Chile</strong>, el jueves ante Argentina y cerrará su participación frente a Colombia el domingo 16.</p><p>El gran objetivo de Uruguay ahora pasa por <strong>clasificar al Mundial sub 20 al que avanzan los cuatro primeros o hasta el quinto</strong>, si Chile termina entre los cuatro.</p><p>Así está la tabla de posiciones el Sudamericano sub 20:</p><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.sudamericanosub20&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.sudamericanosub20&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de febrero  2025  -  01:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

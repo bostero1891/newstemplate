@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '¿Cómo le fue a Jorge Bava, flamante entrenador de Nacional, contra Peñarol, como jugador y como DT?'
+description: 'Nacional apostó por Jorge Bava como entrenador apenas consumado el triunfo electoral de Vairo-Perchman'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/e7b038f6c033b045d0fd82280caf720b/adjuntos/362/imagenes/100/388/0100388705/1000x0/smart/whatsapp-image-2023-11-05-at-20-21-35-jpegwebp.webp'
+image2: 'https://media.elobservador.com.uy/p/db9791ae25b86f9870f79473f2487619/adjuntos/362/imagenes/100/388/0100388705/665x399/smart/whatsapp-image-2023-11-05-at-20-21-35-jpegwebp.webp'
+date: 2024-12-15T11:48:00 +2:00:00
+date_es: '2024-12-15  11:48'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Jorge Bava será el entrenador de <strong><a href="https://www.elobservador.com.uy/futbol/elecciones-nacional-vivo-jose-decurnex-javier-gomensoro-y-ricardo-vairo-carrera-la-presidencia-tricolor-n5975112" rel="follow" target="_blank">Nacional</a></strong> para la temporada 2025 en lugar de Martín Lasarte. El triunfo electoral de la fórmula Ricardo Vairo-Flavio Perchman generó un inmediato golpe de timón EN la conducción deportiva del club y con la apuesta por el joven entrenador, el bolso saldrá a darle pelea al momento de dulce del Peñarol de Diego Aguirre.</p><p>Bava, que se formó en las juveniles de Peñarol, labró su carrera profesional en Progreso, Juventud y llegó a Nacional en 2002. Pasó a Bella Vista en 2003 y retornó a los tricolores en 2023 para quedarse hasta 2006 comenzando allí su trayectoria internacional que lo llevó por el arco de Libertad, Atlas, Rosario Central, Atlético Bucaramanga, Chicago Fire y Guaraní. </p><p>Entre 2012 y 2015 volvió a Nacional y también tuvo tres pasajes por Liverpool donde una vez arrancado el Torneo Apertura 2021 hizo una rápida transición de golero a entrenador. </p><p>Con 43 años, Bava lleva apenas tres años como entrenador, pero el maravilloso trabajo que hizo a largo plazo en Liverpool lo llevaron a tener rápidamente una experiencia internacional, en León de México. </p><p>Con Liverpool, Bava debutó con un cuarto puesto en el Apertura 2021, fue 13º en flojísima campaña en el Clausura 2021 y cerró séptimo ese Campeonato Uruguayo. </p><p>En 2022 fue campeón del Apertura, terminó eliminado en primera fase de la Copa Sudamericana, jugó la final del Torneo Intermedio 2022 contra Nacional y perdió, fue cuarto en el Clausura 2022 y perdió la final del Uruguayo contra el Nacional de Luis Suárez. </p><p>En 2023 fue quinto en el Apertura, , no pasó el grupo en la Copa Libertadores, ganó el Clausura y en la definición del Uruguayo con Peñarol perdió la semifinal, pero en las finales ganó con autoridad: 2-0 en Belvedere y 1-0 en el Campeón del Siglo. </p><p>Liverpool se proclamó así campeón uruguayo por primera vez en su historia. </p><p>Bava fue sondeado entonces por Nacional, pero finalmente terminó en México. </p><p>Contra Peñarol, como golero y referente de Nacional, Bava jugó 16 clásicos de los que ganó 5, empató 5 y perdió 6. </p><p></p><p></p><p></p><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/15 16:00 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

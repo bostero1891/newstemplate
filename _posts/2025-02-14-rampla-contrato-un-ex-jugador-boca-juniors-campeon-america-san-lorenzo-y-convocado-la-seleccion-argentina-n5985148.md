@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Rampla contrató a un ex jugador de Boca Juniors, campeón de América con San Lorenzo y convocado a la selección argentina'
+description: 'Rampla Juniors se apronta para la Segunda división profesional y contrató a un futbolista de gran trayectoria'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/bcf15d0d9532045df702c46bf577107b/adjuntos/362/imagenes/100/357/0100357597/1000x0/smart/000_9a49bawebp.webp'
+image2: 'https://media.elobservador.com.uy/p/dda556d867d84a03f910b48b37dcd213/adjuntos/362/imagenes/100/357/0100357597/316x177/smart/000_9a49bawebp.webp'
+date: 2025-02-14T14:18:00 +2:00:00
+date_es: '14 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Desde que la empresa del empresario <a href="https://www.elobservador.com.uy/futbol/quien-es-foster-gillett-el-empresario-que-se-hara-cargo-la-sad-rampla-juniors-la-votacion-la-asamblea-rojiverde-n5976260" rel="follow" target="_blank">Foster Gillett</a> desembarcó en Rampla Juniors,<strong> soplan vientos de cambio en el equipo picapiedra</strong>. La nueva Sociedad Anónima Deportiva (SAD) del fútbol uruguayo recibió una cantidad cercana al millón de dólares para pagar deudas y comenzar la temporada 2025 en la Segunda división.</p><p>Gillett es un empresario estadounidense que ha invertido en varios clubes de fútbol, entre ellos Estudiantes de La Plata, River, Vélez y Liga Deportiva Universitaria de Quito. </p><p>Días atrás el CEO de la empresa para Latinoamerica, Guillermo Tofoni, adelantó que en el futuro <a href="https://www.elobservador.com.uy/futbol/rampla-va-comprar-jugadores-penarol-y-nacional-la-promesa-que-hizo-un-ceo-foster-gillett-la-nueva-sad-picapiedra-n5983289" rel="follow" target="_blank">el club va a comprar jugadores a Peñarol y a Nacional. </a></p><p> Mientras tanto, el plantel se está armando y <strong>este viernes llegó a Uruguay el futbolista argentino Julio Buffarini</strong>, quien publicó el desembarco en sus redes sociales.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/a41dc29ab6ad266d350ae75527f59898/adjuntos/362/imagenes/100/598/0100598715/1000x0/smart/buffarinijpg.jpg" height="undefined" id="618318-Libre-195058997_embed" src="https://media.elobservador.com.uy/p/a41dc29ab6ad266d350ae75527f59898/adjuntos/362/imagenes/100/598/0100598715/1000x0/smart/buffarinijpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Buffarini, de 36 años, es un futbolista que juega de lateral, de larga y exitosa trayectoria.</p><p><strong>Fue campeón de la Copa Libertadores 2014 con San Lorenzo</strong>, jugó en Boca Juniors hasta 2021 y defendió además a San Pablo de Brasil, Huesca y Cartagena de España, y la temporada pasada lo hizo en Independiente.</p><p>También fue varias veces <strong>convocado a la selección argentina</strong> cuando dirigían Alejandro Sabella, Gerardo Martino y Edgardo Bauza.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 14 de febrero  2025  -  18:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

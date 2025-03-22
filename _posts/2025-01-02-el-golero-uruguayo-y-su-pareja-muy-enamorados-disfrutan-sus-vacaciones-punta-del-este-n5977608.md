@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'El histórico golero de la selección de Uruguay y su pareja disfrutan de sus vacaciones en Punta del Este, a la espera de una decisión importante'
+description: 'El histórico golero de la selección de Uruguay y su pareja disfrutan de sus vacaciones en Punta del Este, a la espera de una decisión importante'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/0a7660a8099fe87fb962436ad8ae546e/adjuntos/362/imagenes/100/583/0100583877/1000x0/smart/musleraajpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/ee2e7eb2cee58bb8cdd3708527df6132/adjuntos/362/imagenes/100/583/0100583877/316x177/smart/musleraajpg.jpg'
+date: 2025-01-02T11:00:00 +2:00:00
+date_es: '2025-01-02  11:00'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Varios de los futbolistas uruguayos que durante 2024 defendieron equipos del exterior, viajaron a Uruguay para pasar las fiestas de fin de año en el país. Algunos eligieron Punta del Este para disfrutar en familia. Uno de ellos es el golero del Galatasaray, <strong>Fernando Muslera</strong>.</p><p>El golero de 38 años, capitán del equipo turco,<strong> se encuentra en el balneario esteño junto a su esposa Patricia Callero y sus hijos</strong>.</p><p>Ambos publicaron en sus cuentas de Instagram fotografías y videos, muy bien producidos, con mensajes de amor.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/8e57b4f898a968d1abfaf8c708722586/adjuntos/362/imagenes/100/583/0100583879/1000x0/smart/muslerajpg.jpg" height="undefined" id="606372-Libre-1683142385_embed" src="https://media.elobservador.com.uy/p/8e57b4f898a968d1abfaf8c708722586/adjuntos/362/imagenes/100/583/0100583879/1000x0/smart/muslerajpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>"Flaco, vos sos hermoso, y te mereces todo. Amarte es mi necesidad, mi necesidad. De ti me gustan cosas, la verdad, todo. Quitarte esa inseguridad, es mi necesidad. Es darte un par de besitos. Es bailar contigo un afrito. Es decir que loquita me tienes. Es decir a qué huele. Huele rico al bailar. Es perfecta al despertarse. Ay, procuraré seducirte mucho sin parar", escribió Callero junto a una foto abrazada al jugador.</p><p> Muslera le respondió en inglés, <strong>"Endless love" (Amor sin fin)</strong>, el título de una canción de Diana Ross y Lionel Richie.</p><h2>El futuro futbolístico de Fernando Muslera</h2><p>En cuanto a lo futbolístico, <strong>el arquero tiene contrato hasta el 30 de junio de 2025 con el club turco</strong>. Según informan en aquel país, el jugador y <strong>el club se reunirán en marzo </strong>para hablar sobre la prolongación de un año más.</p><p>El exarquero de la selección uruguaya se incorporó en 2011 a Galatasaray, tras iniciarse en Wanderers y pasar por Nacional y Lazio.</p><p><strong>El opinión del técnico Okan Buruk será importante para la decisión final sobre la continuidad de Muslera</strong>, aunque también se informó en Turquía que el futbolista desea regresar a Uruguay, desde donde Peñarol ha manifestado interés en contratarlo cuando termine su vinculación en Turquía.</p><p></p><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2025/01/03 11:16 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

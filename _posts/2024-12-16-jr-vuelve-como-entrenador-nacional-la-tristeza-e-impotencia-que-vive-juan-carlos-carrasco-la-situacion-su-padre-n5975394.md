@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '¿JR vuelve como entrenador de Nacional? La tristeza e impotencia que vive Juan Carlos Carrasco por la situación de su padre'
+description: '¿JR vuelve como entrenador de Nacional? La tristeza e impotencia que vive Juan Carlos Carrasco por la situación de su padre'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/9e4fd4d5b7c61bfe76e4203b566b805a/adjuntos/362/imagenes/100/486/0100486469/1000x0/smart/whatsapp-image-2020-11-08-at-173417webp.webp'
+image2: 'https://media.elobservador.com.uy/p/491bd139959861c7273cd0ebf4d8d4bf/adjuntos/362/imagenes/100/486/0100486469/665x399/smart/whatsapp-image-2020-11-08-at-173417webp.webp'
+date: 2024-12-16T18:37:00 +2:00:00
+date_es: '2024-12-16  18:37'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>En momentos en que <strong><a href="https://www.elobservador.com.uy/futbol/elecciones-nacional-cuantos-votos-diferencia-hubo-vairo-y-decurnex-mira-los-numeros-finales-la-votacion-historica-n5975268" rel="follow" target="_blank">Nacional</a></strong> define quién será su entrenador para la temporada 2025, luego que la nueva comisión directiva que preside<strong> Ricardo Vairo</strong> decidió <strong>no renovar a Martín Lasarte </strong>y <a href="https://www.elobservador.com.uy/futbol/jorge-bava-no-soluciona-el-diferendo-diente-lopez-se-baja-como-entrenador-nacional-y-perchman-va-su-tercer-candidato-n5975387" rel="follow" target="_blank">se cayó la posibilidad de la llegada de Jorge Bava y Pablo Repetto</a>, Juan Carlos Carrasco, hijo de Juan Ramón Carrasco, expresó la tristeza que tiene porque no le dan a su padre la oportunidad de volver al club.</p><p>Consultado en Sport 890 sobre cómo vive JR este momento, Juan Carlos expresó: "Todos saben lo que quiere a Nacional, lo que ama al club, al punto que nosotros como hijos tenemos que ser muy cuidadosos cuando hablamos de una situación muy particular. Nosotros lo vivimos sin tanto sentimientos como él en cuanto a tantos rechazos y que siempre es cuestionado, sin embargo otros entrenadores que no tuvieron la oportunidad de trabajar como él, que fue campeón, potenció jugadores y todo lo que plasmó y demostró, en Nacional no son tan cuestionados como él".</p><p>Reconoció que le da "cierta impotencia", pero "sabemos que estamos en el ambiente del fútbol y son las reglas de juego".</p><p>Tampoco ocultó su tristeza por lo que vive su padre y entiende que es un gran momento para que JR Carrasco regrese a Los Céspedes como entrenador.</p><p> "<strong>Me deja triste porque está deseando tener la oportunidad</strong>. Y tiene toda la capacidad para volver a demostrar el nivel de entrenador para poner a Nacional en lo más alto. Me da esa<strong> tristeza e impotencia</strong> de que no le den la chance y la oportunidad sabiendo que va a dejar la vida por el club".</p><p><a href="https://www.elobservador.com.uy/futbol/juan-carlos-carrasco-insulto-al-juez-hernan-heras-fue-expulsado-al-final-quiso-saludarlo-y-denuncio-que-le-dijo-payaso-n5950643" rel="follow" target="_blank">Juan Carlos trabajó este año en Juventud de Las Piedras</a> en la Segunda División Profesional.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/16 22:45 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Contra Liverpool y por el Torneo Apertura, Peñarol rompió una estadística de nueve años en el Estadio Campeón del Siglo y obtuvo su peor resultado'
+description: 'Un momento complicado para el mirasol: Contra Liverpool y por el Torneo Apertura, Peñarol rompió una estadística de nueve años en el Estadio Campeón del Siglo y obtuvo su peor resultado'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/4ebd6c56d838cd83c40f80826ae0bbf2/adjuntos/362/imagenes/100/610/0100610998/1000x0/smart/20250321-maximiliano-silvera-penarol-liverpool-el-torneo-apertura.jpeg'
+image2: 'https://media.elobservador.com.uy/p/e433a999bb38cb20853bef21ca4aca3f/adjuntos/362/imagenes/100/610/0100610998/316x177/smart/20250321-maximiliano-silvera-penarol-liverpool-el-torneo-apertura.jpeg'
+date: 2025-03-21T08:39:00 +2:00:00
+date_es: '21 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/el-video-los-hinchas-penarol-que-se-fueron-del-estadio-campeon-del-siglo-media-hora-antes-del-final-el-tercer-gol-liverpool-el-torneo-apertura-n5990744" rel="follow" target="_blank">Peñarol </a></strong> perdió su tercer partido consecutivo en el Torneo Apertura este jueves en el Estadio Campeón del Siglo en un partido en el que jugó muy mal, sobre todo, en el segundo tiempo, y fue vapuleado por el líder Liverpool que no lo perdonó y le ganó por goleada 3-0.</p><p><a href="https://www.elobservador.com.uy/futbol/el-video-los-hinchas-penarol-que-se-fueron-del-estadio-campeon-del-siglo-media-hora-antes-del-final-el-tercer-gol-liverpool-el-torneo-apertura-n5990744" rel="follow" target="_blank">Los carboneros no pudieron con un rival que supo marcar muy bien atrás y que doblegó a un conjunto de Diego Aguirre que perdió la confianza en sí mismo.</a></p><p> <strong>Los dirigidos por Diego Aguirre solo consiguieron seis de los 21 puntos </strong>que han jugado hasta el momento en un año en el que no les sale nada.</p><h2>Contra Liverpool y por el Torneo Apertura, Peñarol rompió una estadística de nueve años en el Estadio Campeón del Siglo</h2><p>Desde que se inauguró el Estadio Campeón del Siglo el 28 de marzo de 2016, los aurinegros supieron ser locales y ejercer esa presión sobre el rival en varios partidos.</p><p> Sin embargo, ante Liverpool volvió a perder y por un lado, <strong>es el club que más veces le ganó en ese estadio: cinco veces.</strong></p><p>Pero más allá de ello, <strong>esta es la peor goleada que recibió Peñarol en el Estadio Campeón del Siglo en el ámbito local en estos nueve años.</strong></p><p><strong> Las otras dos veces que había sido goleado en los 193 partidos que lleva disputados allí, fueron en el ámbito internacional: 4-1 contra Athletico Paranaense por la Copa Sudamericana 2018, y 3-0 contra Defensa y Justicia por la Copa Sudamericana 2023,</strong> pero nunca había caído de esa forma por el ex Campeonato Uruguayo, ahora Liga AUF Uruguaya.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 21 de marzo  2025  -  12:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

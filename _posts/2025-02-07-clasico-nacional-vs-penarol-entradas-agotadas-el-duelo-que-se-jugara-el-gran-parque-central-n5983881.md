@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Clásico Nacional vs Peñarol: entradas agotadas para el duelo que se jugará en el Gran Parque Central'
+description: 'El clásico Nacional vs Peñarol del próximo domingo tendrá solamente hinchas tricolores en el Gran Parque Central'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/d7db47c3dd9356ddd499770050e6369d/adjuntos/362/imagenes/100/552/0100552790/1000x0/smart/20241006-hinchas-hinchada-nacional-clasico-torneo-clausura-2024-nacional-vs-penarol-49jpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/b4eb0022d9878bd476bb849ec199dc72/adjuntos/362/imagenes/100/552/0100552790/665x399/smart/20241006-hinchas-hinchada-nacional-clasico-torneo-clausura-2024-nacional-vs-penarol-49jpg.jpg'
+date: 2025-02-07T08:36:00 +2:00:00
+date_es: '7 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El Club Nacional de Football anunció este viernes por la mañana, a la hora 07:49, que se agotaron </strong><a href="https://www.elobservador.com.uy/futbol/vuelan-las-entradas-el-clasico-nacional-vs-penarol-se-agotaron-dos-tribunas-del-gran-parque-central-n5983680" rel="follow" target="_blank">las entradas para el clásico Nacional vs Peñarol</a> del próximo domingo a las 19:30 en el Gran Parque Central por la segunda fecha del Torneo Apertura 2025.</p><p>Los tricolores habían habilitado la última franja de ventas, para los hinchas generales, este viernes a la hora 00:00, y en casi ocho horas se vendieron los boletos que estaban disponibles.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/104258a402f8f16c4c6c0bcdda782d23/adjuntos/362/imagenes/100/551/0100551495/1000x0/smart/20241006-asi-luce-el-gran-parque-central-minutos-antes-del-clasico-nacional-y-penarol.jpg" height="undefined" id="581494-Libre-1269340781_embed" src="https://media.elobservador.com.uy/p/104258a402f8f16c4c6c0bcdda782d23/adjuntos/362/imagenes/100/551/0100551495/1000x0/smart/20241006-asi-luce-el-gran-parque-central-minutos-antes-del-clasico-nacional-y-penarol.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>Este jueves los últimos sectores que quedaban era Scarone y Abdón Porte, luego de que se agotaran la José María Delgado, el coco y la Atilio García.</p><p>El clásico del domingo tendrá solamente hinchas de Nacional, por lo que todo el Gran Parque Central será tricolor.</p><p> El estadio de los albos tiene capacidad para unos 37.000 espectadores.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> <br/><br/> Nos vemos el domingo en casa <a href="https://t.co/ANXMdmtZAu">pic.twitter.com/ANXMdmtZAu</a></p> &mdash; Nacional (@Nacional) <a href="https://twitter.com/Nacional/status/1887815892974596385?ref_src=twsrc%5Etfw">February 7, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de febrero  2025  -  12:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

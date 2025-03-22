@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: '"Cuando la mente no está clara, por lo menos hay que correr": la bronca de Martín Lasarte luego del sufrido triunfo de Nacional ante Boston River'
+description: 'El técnico cuestionó a sus jugadores después del partido de este sábado frente a Boston River'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/6874e882374e37ba1e4ce62bbdcde1fd/adjuntos/362/imagenes/100/596/0100596866/nacional-penarol-clasico-gran-parque-central-torneo-apertura-martin-lasartejpeg.jpeg'
+image2: 'https://media.elobservador.com.uy/p/395bd606924c4be7d9ff6d2a674bb7a2/adjuntos/362/imagenes/100/596/0100596881/nacional-penarol-clasico-gran-parque-central-torneo-apertura-martin-lasartejpeg.jpeg'
+date: 2025-02-22T19:12:00 +2:00:00
+date_es: '22 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><a href="https://www.elobservador.com.uy/futbol/boston-river-vs-nacional-vivo-la-cuarta-fecha-del-torneo-apertura-n5986431" rel="follow" target="_blank">Nacional</a> le ganó 3-2 a Boston River en el Campeones Olímpicos después de sufrir mucho, por la cuarta fecha del Apertura. El gol del triunfo lo consiguió cuando faltaban 10 minutos para el final a través de un tiro penal ejecutado por el chileno Eduardo Vargas.<strong> El técnico Martín Lasarte no quedó conforme con el rendimiento del equipo </strong>y así lo dejó ver en la conferencia de prensa al final del juego.</p><p>"En las cuestiones rudimentarias, básicas que tiene el fútbol, no podes fallar y en algún momento concedimos y no podemos conceder. Boston con muchos suplentes nos hizo un partido bárbaro, nos demandó un gran esfuerzo físico, porque <strong>cuando la mente no está clara, por lo menos hay que correr</strong>", cuestionó el entrenador.</p><div style='height: 75px;'></div><img alt="Diego Herazo" data-td-src-property="https://media.elobservador.com.uy/p/b3757d5b623cb088a2f0facc55978548/adjuntos/362/imagenes/100/601/0100601332/1000x0/smart/diego-herazo.jpg" height="undefined" id="620595-Libre-1198378615_embed" src="https://media.elobservador.com.uy/p/b3757d5b623cb088a2f0facc55978548/adjuntos/362/imagenes/100/601/0100601332/1000x0/smart/diego-herazo.jpg" title="Diego Herazo" width="100%"/><div style='height: 75px;'></div><p>El equipo rojiverde salió este sábado a la cancha con 11 cambios respecto al equipo que entre semana le ganó 1-0 a Ñublense por la Copa Libertadores.</p><p>"<strong>No nos puede pasar</strong>, por suerte pudimos revertir el tema y conseguir los 3 puntos", subrayó el DT tricolor.</p><p> Dijo que el día que Nacional perdió contra City Torque, por la primera fecha, "fue diferente, veníamos de ganar dos clásicos", mientras que antes del juego contra Boston, "la sensación que teníamos era buenísima, <strong>habíamos entrenado muy bien</strong>, pero en algunos aspectos no lo pudimos repetir".</p><p>Señaló que "en la semana se había trabajo determinadas cosas y hoy cuando la oportunidad se dio, no ocurrió".</p><p>Lasarte indicó que "es el cuarto partido, tenemos mucha cosa para mejorar".</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 22 de febrero  2025  -  23:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

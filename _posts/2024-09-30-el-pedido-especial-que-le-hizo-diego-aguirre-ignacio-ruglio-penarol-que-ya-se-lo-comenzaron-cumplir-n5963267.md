@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'El pedido especial que le hizo Diego Aguirre a Ignacio Ruglio en Peñarol, que ya se lo comenzaron a cumplir'
+description: 'El pedido especial que le hizo Diego Aguirre a Ignacio Ruglio en Peñarol, que ya se lo comenzaron a cumplir'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/2c912dcdf3048abd05e285d77b9cebc3/adjuntos/362/imagenes/100/481/0100481602/1000x0/smart/diego-aguirre-e-ignacio-ruglio.webp'
+date: 2024-09-30T00:00:00:00 +2:00:00
+date_es: '30 de septiembre  2024 - 12:28hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong><a href="https://www.elobservador.com.uy/futbol-internacional/el-exjugador-penarol-que-se-retiro-y-que-vuelve-al-futbol-jugar-argentina-n5963151" rel="follow" target="_blank">Peñarol </a></strong> se apronta para jugar este lunes desde la hora 20 por la quinta fecha del Torneo Clausura ante Racing, en el partido que cerrará la misma en el Estadio Campeón del Siglo. Los aurinegros buscarán una nueva victoria con un equipo mixto, para seguir con diferencia en la punta de la Tabla Anual.</p><p>Cabe recordar que este domingo, <a href="https://www.elobservador.com.uy/futbol/progreso-vs-nacional-vivo-el-equipo-tricolor-busca-puntos-desesperados-no-perder-pie-la-tabla-anual-n5963163" rel="follow" target="_blank">Nacional le ganó por goleada, 3-0 a Progreso</a> y se puso, con un partido de más, a 4 puntos de los carboneros.</p><p>Peñarol viene de eliminar a Flamengo de la Copa Libertadores de América tras el 0-0 del pasado jueves y de esa manera, clasificó a las semifinales luego de 13 años, en las que enfrentará a Botafogo de Brasil.</p><p>En ese contexto,<strong> el técnico Diego Aguirre le dará descanso a algunos futbolistas este lunes, </strong>por lo que pondrá un conjunto titular mixto entre algunos titulares y suplentes.</p><h2> El pedido especial que le hizo Diego Aguirre a Ignacio Ruglio en Peñarol y que ya se lo comenzaron a cumplir</h2><p><strong>Peñarol cobrará US$ 2.300.000 extras por el hecho de haber clasificado a las semifinales</strong> de la Copa Libertadores de América.</p><p>A su vez, entre los premios y las recaudaciones a lo largo del año en el máximo torneo continental de clubes, <strong>ha cobrado US$ 12.000.000 brutos,</strong> a los que, obviamente hay que quitarle todos los gastos de distintos tópicos.</p><p>El vicepresidente Eduardo Zaidensztat, confirmó este domingo un pedido que le hizo Diego Aguirre a Ignacio Ruglio y al resto de los dirigentes.</p><p>"Diego nos pidió que con el dinero que vamos ganando por la participación en la Copa Libertadores, <strong>arregláramos las dos canchas de Los Aromos y ya comenzamos a hacerlo", </strong>informó Zaidensztat en el programa Polideportivo de canal 12.</p><p>A su vez, agregó: "Ya comenzaron a trabajar las máquinas en las dos canchas para remover toda la tierra. <strong>Se colocará un sistema nuevo de riego y también de drenaje, además de un césped totalmente nuevo".</strong></p>
+<div style='height: 300px;'></div>
+</html>

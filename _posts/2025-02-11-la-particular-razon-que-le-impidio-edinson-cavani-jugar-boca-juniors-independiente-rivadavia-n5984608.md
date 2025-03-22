@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'La particular razón que le impidió a Edinson Cavani jugar con Boca Juniors ante Independiente Rivadavia'
+description: 'Boca Juniors juega con Independiente Rivadavia en La Bombonera por la quinta fecha de la Liga Profesional Argentina: Marcelo Saracchi y Miguel Merentiel titulares'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/7f83d33571a9b9b0df574f335cacfbf0/adjuntos/362/imagenes/100/509/0100509272/1000x0/smart/20240616-el-festejo-del-gol-edinson-cavani-boca-juniors.jpg'
+image2: 'https://media.elobservador.com.uy/p/2ed3d86d60920f9efe03033b7aad5536/adjuntos/362/imagenes/100/509/0100509272/316x177/smart/20240616-el-festejo-del-gol-edinson-cavani-boca-juniors.jpg'
+date: 2025-02-11T20:37:00 +2:00:00
+date_es: '11 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Boca Juniors enfrenta a Independiente Rivadavia en La Bombonera</strong> en partido correspondiente a la quinta fecha de la Liga Profesional Argentina. <a href="https://www.elobservador.com.uy/futbol-internacional/el-video-el-que-los-hinchas-rivales-y-tambien-boca-juniors-tildaron-edinson-cavani-fantasma-y-lloron-n5984169" rel="follow" target="_blank">Edinson Cavani</a> no es de la partida. </p><p><strong>Marcelo Saracchi y Miguel Merentiel </strong>arrancaron de <strong>titulares </strong>en el equipo de Fernando Gago. </p><p><strong>Edinson Cavani</strong>, que estaba entre los convocados, se <strong>quedó afuera</strong> del banco de suplentes por una particular razón. </p><p> El centrodelantero uruguayo padeció <strong>un dolor en la espalda</strong> y desde la sanidad prefirieron no arriesgarlo para que jugara. </p><h2>Las estadísticas completas del partido</h2><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.primeraa.761307&amp;lang=es_LA" height="1000" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/modules/futbol/gamecast/gamecast.html?channel=deportes.futbol.primeraa.761307&lang=es_LA" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><h2>Tabla de posiciones de la Liga Profesional Argentina</h2><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.primeraa&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.primeraa&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 11 de febrero  2025  -  00:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

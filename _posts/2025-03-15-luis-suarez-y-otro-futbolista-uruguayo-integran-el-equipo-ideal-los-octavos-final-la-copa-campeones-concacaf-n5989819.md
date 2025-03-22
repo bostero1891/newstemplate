@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Luis Suárez y otro futbolista uruguayo integran el equipo ideal de los octavos de final de la Copa de Campeones Concacaf'
+description: 'Tras la disputa de los octavos de final, fueron elegidos los mejores 11 jugadores de esa fase en la Copa de Campeones de Concacaf'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/0b389b96f6582c166a593c15e5a58a72/adjuntos/362/imagenes/100/608/0100608923/1000x0/smart/luis-suarezjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/cd58bcee49acd587ffb5f23775068dc2/adjuntos/362/imagenes/100/608/0100608923/316x177/smart/luis-suarezjpg.jpg'
+date: 2025-03-15T11:17:00 +2:00:00
+date_es: '15 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Tras la finalización de los octavos de final de la Copa de Campeones de la Concacaf 2025, celebrados del 4 al 13 de marzo, se definieron los enfrentamientos y el calendario de los cuartos de final. Las cuatro series de ida y vuelta entre los ocho ganadores de octavos de final (Los Angeles FC, LA Galaxy, Inter Miami (Estados Unidos), Cruz Azul, Tigres, América, Pumas (México) y Vancouver Whitecaps FC (Canadá)), se jugarán en la primera quincena de abril. También se eligió a los 11 mejores jugadores, entre ellos <a href="https://www.elobservador.com.uy/futbol-internacional/inter-miami-luis-suarez-y-lionel-messi-el-equipo-va-la-venganza-contra-el-atlanta-united-su-verdugo-la-temporada-pasada-n5989811" rel="follow" target="_blank">Luis Suárez</a>.</p><p><strong>Los partidos son los siguientes:</strong></p><p> <strong>QF1: </strong> Inter Miami FC vs Los Angeles FC </p><p><strong>QF2:</strong> Pumas UNAM vs Vancouver Whitecaps FC </p><p> <strong>QF3:</strong> Cruz Azul vs Club América </p><p><strong>QF4: </strong> Tigres UANL vs LA Galaxy  </p><h2>El equipo ideal de la Concacaf</h2><p>Además, terminada la serie de octavos, <strong>Concacaf eligió el equipo ideal</strong>, en el que se encuentran dos futbolistas uruguayos: Luis Suárez, de Inter Miami, y Brian Rodríguez, del América de México.</p><p>La oncena elegida es la siguiente: el francés Hugo Lloris, de Los Angeles FC; Edier Ocampo, de Vancouver; Jesús Angulo, de Tigres, Willer Ditta, Cruz Azul, Julián Aude, Los Angeles FC; Álvaro Fidalgo, del América, Adalberto Carraquilla, de Pumas; <strong>Brian Rodríguez, de América</strong>, Juan Brunetta, de Tigres; <strong>Luis Suárez, de Inter Miami</strong>, y Denis Bouanga, de Los Angeles FC.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="en"> The Best XI of the Round of 16 is here! <a href="https://t.co/KAuk7jbyil">pic.twitter.com/KAuk7jbyil</a></p> &mdash; Concacaf Champions Cup (@TheChampions) <a href="https://twitter.com/TheChampions/status/1900688388367286411?ref_src=twsrc%5Etfw">March 14, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><p></p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 15 de marzo  2025  -  15:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

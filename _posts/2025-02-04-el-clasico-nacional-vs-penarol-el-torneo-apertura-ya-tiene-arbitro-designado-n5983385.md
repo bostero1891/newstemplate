@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'El clásico entre Nacional vs Peñarol por el Torneo Apertura ya tiene árbitro designado'
+description: 'El clásico entre Nacional vs Peñarol por el Torneo Apertura ya tiene árbitro designado'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/cdba8cc747be9de511c6258f3e318208/adjuntos/362/imagenes/100/591/0100591938/1000x0/smart/20250126-eduardo-darias-y-jeremia-recoba-nacional-penarol-supercopa-uruguaya-2025-foto-ines-guimaraens-2jpeg.jpeg'
+image2: 'https://media.elobservador.com.uy/p/bbfd99d17121dc5a9e4bb6dc03e4011d/adjuntos/362/imagenes/100/591/0100591938/316x177/smart/20250126-eduardo-darias-y-jeremia-recoba-nacional-penarol-supercopa-uruguaya-2025-foto-ines-guimaraens-2jpeg.jpeg'
+date: 2025-02-04T19:23:00 +2:00:00
+date_es: '4 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Nacional y Peñarol se enfrentarán este domingo a la hora 19.30 en el Gran Parque Central en<strong><a href="https://www.elobservador.com.uy/futbol/la-sorpresa-que-se-llevaron-los-futbolistas-penarol-el-entrenamiento-la-manana-este-martes-mientras-piensan-el-clasico-nacional-el-torneo-apertura-n5983334" rel="follow" target="_blank"> el clásico </a></strong> por la segunda fecha del Torneo Apertura. Los tricolores llegan tras perder en el debut 1-0 ante Montevideo City Torque, mientras su rival, venció 3-1 a Progreso.</p><p>No obstante, en materia de encuentros entre ambos, los dirigidos por Martín Lasarte enlazan tres victorias consecutivas.</p><p>Además, han llegado a la racha de ocho clásicos sin perder contra el eterno rival.</p><p>Por otra parte, <a href="https://www.elobservador.com.uy/futbol/nacional-definio-la-venta-entradas-el-clasico-penarol-el-gran-parque-central-mira-todos-los-detalles-n5983303" rel="follow" target="_blank">Nacional puso a la venta las entradas desde este martes,</a> como informó <em>Referí</em>.</p><h2> El clásico entre Nacional vs Peñarol por el Torneo Apertura ya tiene árbitro designado</h2><p>En la jornada de este martes a la tarde, el Colegio de Árbitros dio a conocer los jueces que estarán a cargo del clásico del domingo entre Nacional y Peñarol en el Gran Parque Central.</p><div style='height: 75px;'></div><img alt="Esteban Ostojich" data-td-src-property="https://media.elobservador.com.uy/p/0073ba1cfccae33bb7afb2c40fa394c1/adjuntos/362/imagenes/100/546/0100546425/1000x0/smart/20240923-esteban-ostojich-arbitro-cerro-vs-penarol-torneo-clausura.jpg" height="undefined" id="577665-Libre-1404317804_embed" src="https://media.elobservador.com.uy/p/0073ba1cfccae33bb7afb2c40fa394c1/adjuntos/362/imagenes/100/546/0100546425/1000x0/smart/20240923-esteban-ostojich-arbitro-cerro-vs-penarol-torneo-clausura.jpg" title="Esteban Ostojich" width="100%"/><div style='height: 75px;'></div><p><strong> Esteban Ostojich dirigirá un nuevo clásico </strong>y lo acompañarán Martín Soppi y Nicolás Piaggio como asistentes, en tanto que Kevin Fontes será el cuarto árbitro).</p><p>A ellos se le sumarán <strong>Antonio García (VAR) y Anahí Fernández (AVAR).</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 4 de febrero  2025  -  23:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

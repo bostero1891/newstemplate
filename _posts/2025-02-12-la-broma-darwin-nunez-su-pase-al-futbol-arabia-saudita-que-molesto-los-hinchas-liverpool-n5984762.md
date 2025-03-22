@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'La broma de Darwin Núñez con su pase al fútbol de Arabia Saudita que molestó a los hinchas de Liverpool'
+description: 'Durante una entrevista compartida con su amigo Luis Díaz, Núñez habló que quiere irse a Arabia y generó malestar en Liverpool'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/4ea1a4a5d778f070e9fb9a3d55139cdc/adjuntos/362/imagenes/100/586/0100586770/1000x0/smart/darwin-nunezjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/df30aad3532e2e7c2ea24dbbc90ac93a/adjuntos/362/imagenes/100/586/0100586770/316x177/smart/darwin-nunezjpg.jpg'
+date: 2025-02-12T14:48:00 +2:00:00
+date_es: '12 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La productividad de <a href="https://www.elobservador.com.uy/futbol-internacional/everton-vs-liverpool-dia-hora-y-donde-ver-darwin-nunez-la-premier-league-el-clasico-la-ciudad-n5984397" rel="follow" target="_blank">Darwin Núñez</a> en Liverpool, en la presente temporada, es escasa. <strong>Apenas marcó seis goles y no siempre es titular para el técnico Arne Slot.</strong> Esto ha generado rumores sobre una posible salida del delantero uruguayo. Liverpool enfrenta este miércoles a Everton por la Premier League.</p><p>Durante una entrevista Darwin Núñez y su compañero de equipo Luis Díaz hablaron en una entrevista sobre su colección de autos. Después de nombrar sus automóviles, el colombiano se burló de Núñez, que dijo: <strong>"Necesito más dinero"</strong>, antes de mirar a la cámara y guiñar un ojo.</p><h2>"Arabia Saudita, ring"</h2><p>El presentador sugirió entonces que Núñez le dijera a Díaz que le pasara el balón más seguido, para que pudiera aumentar su cantidad de goles. Poniéndose la mano sobre la boca, Núñez se volvió hacia el presentador y bromeó: <strong>"Arabia Saudita. Vamos, Arabia Saudita. Ring ring"</strong>.</p><p>El entrevistador le contó a Díaz sobre la broma de Núñez, quien echó la cabeza hacia atrás mientras se reía y comenzó a aplaudir. "Sí, vamos", agregó el extremo.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="en"> Darwin Nunez joking with Luis Diaz about Saudi money, thoughts reds? <a href="https://t.co/bHYtkHxKcZ">pic.twitter.com/bHYtkHxKcZ</a></p> &mdash; The Anfield Talk (@TheAnfieldTalk) <a href="https://twitter.com/TheAnfieldTalk/status/1889348697546166466?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>El vídeo provocó reacciones encontradas entre los aficionados del Liverpool en X, la mayoría en contra de las palabras del delantero uruguayo.</p><p>De acuerdo a la prensa británica, <strong>Al-Nassr puso fin a su interés por Núñez el 31 de enero al fichar al delantero del Aston Villa, Jhon Durán. </strong>Los recientes comentarios de Slot sobre el jugador de 25 años sugieren que todavía tiene fe en él, a pesar de su falta de goles en la parte crucial de la temporada.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 12 de febrero  2025  -  19:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Peñarol es el club uruguayo que lidera el ranking IFFHS; mirá en qué posición se encuentran Nacional y el resto de los mejores clubes de este país'
+description: 'Sigue siendo el mejor del fútbol de Uruguay: Peñarol es el club uruguayo que lidera el ranking IFFHS; mirá en qué posición se encuentran Nacional y el resto de los mejores clubes de este país'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/6f833453b62da985184bc0614792bd7f/adjuntos/362/imagenes/100/573/0100573870/1000x0/smart/20241201-diego-aguirre-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-46jpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/1630b38de3215f041819f19cb6692479/adjuntos/362/imagenes/100/573/0100573870/316x177/smart/20241201-diego-aguirre-penarol-fenix-torneo-clausura-penarol-campeon-uruguayo-2024-foto-ines-guimaraens-46jpg.jpg'
+date: 2025-03-14T12:59:00 +2:00:00
+date_es: '14 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La organización privada alemana conocida como <strong>la Federación Internacional de Historia y Estadística de Fútbol (IFFHS, por su sigla en inglés), </strong>dio a conocer en las últimas horas el ranking de los mejores clubes del mundo en la actualidad.</p><p><a href="https://www.iffhs.com/posts/4245" rel="follow" target="_blank">El mismo sigue siendo encabezado por Real Madrid de España, </a>que el año pasado también era el mejor en la lista de 500 clubes que confeccionó.</p><p>El podio respecto al año pasado se mantuvo y segundo aparece Bayer Leverkusen de Alemania, en tanto que Atalanta de Italia es el tercero.</p><p>Un puesto más abajo aparece Liverpool de Inglaterra, club en el que juega el uruguayo Darwin Núñez.</p><p> El mejor club sudamericano ocupa el puesto 10 y es Botafogo, el campeón de la Copa Libertadores de América 2024.</p><h2>Peñarol es el club uruguayo que lidera el ranking IFFHS; mirá en qué posición se encuentran Nacional y el resto de los mejores clubes de este país</h2><p>Al igual que sucedió en 2024, Peñarol de Diego Aguirre es el club uruguayo mejor posicionado en el ranking de la IFFHS.</p><p><strong>Los carboneros, que tuvieron un gran año en 2024 al llegar a las semifinales de la Copa Libertadores de América y consiguieron el título de campeones uruguayos, ocupan el puesto 53 en el mundo, uno por debajo del año anterior.</strong></p><p>Nacional es la segunda institución uruguaya mejor colocada en dicho ranking.</p><p><strong>Los tricolores bajaron ocho puestos y en este 2025 se encuentran en el lugar 80, 27 por debajo de su eterno rival.</strong></p><p>El tercer club uruguayo mejor ubicado en el actual ranking de la IFFHS es Racing, en el lugar 176.</p><p><strong>Lo siguen Defensor Sporting, que trepó seis lugares, en el 213, Danubio que subió ocho puestos al 231, Boston River, de ,los que más ascendió 82 posiciones y está 341, Liverpool que subió 50 lugares al 358 y Cerro Largo, 576, el que más ascendió respecto del año pasado, 86 lugares al 490.</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 14 de marzo  2025  -  17:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

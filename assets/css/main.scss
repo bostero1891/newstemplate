@@ -42,6 +42,28 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'BurkbangBigCondensedBold';
+    src: url('{{ site.url | relative_url }}/assets/css/fonts/burbankbigcondensedbold.woff2') format('woff2'),
+         url('{{ site.url | relative_url }}/assets/css/fonts/burbankbigcondensedbold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+.stroke-text {
+    -webkit-text-stroke: 0.007rem #1a1a1a;
+    text-stroke: 0.007rem #1a1a1a;
+    color: #ffffd2;
+    font-size: 57px;
+    font-family: 'BurkbangBigCondensedBold';
+}
+
+.burk {
+    font-family: 'BurkbangBigCondensedBold';
+}
+
+
 .custom {
     font-family: 'kustom_cultureregular';
 }

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'El papelón de Liverpool con Darwin Núñez, que fue eliminado de la FA Cup con el último de la Segunda división que en 139 años nunca jugó en Primera'
+description: 'El papelón de Liverpool con Darwin Núñez, que fue eliminado de la FA Cup con el último de la Segunda división que en 139 años nunca jugó en Primera'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/6dfd7337c49315de8d509fc026a3217b/adjuntos/362/imagenes/100/380/0100380792/1000x0/smart/darwin-nunez.webp'
+image2: 'https://media.elobservador.com.uy/p/0e719f124d98658b5a52fb9d470d953d/adjuntos/362/imagenes/100/380/0100380792/316x177/smart/darwin-nunez.webp'
+date: 2025-02-09T14:02:00 +2:00:00
+date_es: '9 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Con la presencia del uruguayo <strong><a href="https://www.elobservador.com.uy/futbol-internacional/la-poderosa-liga-que-esta-atras-darwin-nunez-y-liverpool-entiende-que-mitad-ano-puede-salir-inglaterra-n5984129" rel="follow" target="_blank">Darwin Núñez</a></strong>, quien comenzó el partido como suplente, Liverpool perdió este domingo de visitante 1-0 ante Plymouth Argyle y de esa manera, quedó eliminado de la FA Cup cuando recién se jugaba la cuarta ronda de la misma, en lo que fue tildado como un papelón.</p><p>Es que los reds del técnico holandés Arne Slot, vienen punteros en la Premier League, clasificaron a la final de la Copa de la Liga inglesa y terminaron la fase de serie como punteros exclusivos en la Champions League.</p><p>Del lado de enfrente, <strong>el rival marcha último en el puesto 24 de la Championship inglesa,</strong> es decir, la Segunda división de ese país. Además, <strong>en sus 139 años de historia, nunca jugó en Primera.</strong></p><p> Si bien le faltaron este domingo algunos titulares como el capitán <strong>Virgil Van Dyjk atrás, Mohamed Salah y Cody Gakpo</strong> en ofensiva, hubo varios que sí jugaron.</p><p> Entre ellos, <strong>Luis Díaz y Diogo Jota en ofensiva, junto a Federico Chiesa.</strong></p><h2>El papelón de Liverpool con Darwin Núñez, que fue eliminado de la FA Cup con el último de la Segunda división</h2><p>En los primeros minutos del segundo tiempo, una infantil reacción de Harvey Elliott, levantando las dos manos en su área, le dio el penal para el 1-0 a su rival.</p><p><strong>Esto hizo que a los 58 minutos, Slot colocara en la cancha a Darwin Núñez</strong> quien de allí en adelante, entró muy poco en juego.</p><p>Es que el rival se metió atrás, hizo tiempo, pero marcó muy bien.</p><p>Por más que el árbitro dio 9 minutos de adición, <strong>Liverpool no pudo hacer nada para revertir el resultado</strong> y, sorpresivamente, quedó eliminado de la FA Cup inglesa, el torneo más antiguo del mundo que disputan todas las distintas divisionales del fútbol de ese país.</p><p>Solo en el último minuto de la adición, el arquero <strong>Conor Hazard le sacó un cabezazo a boca de jarro a Darwin Núñez, en lo que fue la atajada del partido.</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 9 de febrero  2025  -  18:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

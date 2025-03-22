@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Conmebol confirmó los días y horarios de los partidos de Nacional en el grupo F de la Copa Libertadores'
+description: 'Mirá los días y los horarios en que Nacional jugará sus partidos de fase de grupos por la Copa Libertadores 2025'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/c125eaa197b41906efbcc183cf2cad1c/adjuntos/362/imagenes/100/556/0100556789/1000x0/smart/nicolas-lopez.jpg'
+image2: 'https://media.elobservador.com.uy/p/b3b9f3854afd6938aa9157ef3097bd2f/adjuntos/362/imagenes/100/556/0100556789/316x177/smart/nicolas-lopez.jpg'
+date: 2025-03-18T20:37:00 +2:00:00
+date_es: '18 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/la-complicada-lesion-diego-herazo-nacional-y-la-resolucion-que-tomo-conjunto-el-club-n5990243" rel="follow" target="_blank">Nacional</a></strong> ya sabe los <strong>días y los horarios</strong> en que jugará sus tres partidos por la fase de <strong>grupos </strong>de la <strong>Copa Libertadores. </strong></p><p>Los tricolores son <strong>cabeza de serie</strong> del <strong>grupo F</strong> y comparten la llave con <a href="https://www.elobservador.com.uy/copa-libertadores/sorteo-copa-libertadores-y-copa-sudamericana-vivo-el-azar-define-el-futuro-los-uruguayos-n5990110" rel="follow" target="_blank">Inter de Porto Alegre, Atlético de Nacional y Bahía</a>. </p><p>Se trata de uno de los <strong>grupos más parejos</strong> del máximo certamen continental. </p><p>Mirá en estas tres notas cómo llegan los rivales de Nacional a la Copa:</p><p> <a href="https://www.elobservador.com.uy/copa-libertadores/como-llega-internacional-porto-alegre-enfrentar-nacional-tres-extricolores-y-un-dt-que-destaco-la-tradicion-los-albos-n5990270" rel="follow" target="_blank">Inter de Porto Alegre</a>. </p><p><a href="https://www.elobservador.com.uy/copa-libertadores/como-llega-atletico-nacional-medellin-enfrentar-nacional-un-extricolor-un-ex-penarol-y-un-dt-preparado-todo-n5990273" rel="follow" target="_blank">Atlético Nacional de Medellín</a>. </p><p><a href="https://www.elobservador.com.uy/copa-libertadores/como-llega-bahia-enfrentar-nacional-el-equipo-del-city-tres-uruguayos-un-dt-historico-copa-libertadores-y-un-grupo-bastante-complicado-n5990280" rel="follow" target="_blank">Bahía de Brasil</a>. </p><h2>Los horarios de los partidos de Nacional en la Copa Libertadores</h2><p><strong>Miércoles 2 de abril, a la hora 23.00 ante Atlético Nacional </strong>en Medellín. </p><p><strong>Miércoles 9 de abril, a las 19.00 ante Bahía </strong>en el Gran Parque Central. </p><p><strong>Martes 22 de abril, a las 21.30 contra Inter </strong>en el Beira Río de Porto Alegre. </p><p><strong>Miércoles 7 de mayo, a las 19.00 frente a Bahía</strong> en el Arena Fonte Nova de Salvador. </p><p><strong>Jueves 15 de mayo, a las 19.00 contra Inter</strong> en el Gran Parque Central. </p><p><strong>Miércoles 28 de mayo, a las 19.00 frente a Atlético Nacional</strong> en el Gran Parque Central. </p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 18 de marzo  2025  -  00:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

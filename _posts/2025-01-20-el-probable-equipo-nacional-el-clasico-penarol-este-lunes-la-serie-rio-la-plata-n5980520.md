@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'El probable equipo de Nacional para el clásico ante Peñarol de este lunes por la Serie Río de la Plata'
+description: 'El clásico de este lunes será previo al Nacional vs Peñarol del próximo domingo 26 de enero, por la final de la Supercopa Uruguaya'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/f70127b624c55d51ac4ff7a2634f3ed0/adjuntos/362/imagenes/100/576/0100576212/1000x0/smart/martin-lasarte-nacional-vs-defensor-sporting-copa-auf-uruguay-3jpeg.jpeg'
+image2: 'https://media.elobservador.com.uy/p/2d3e7b021e7eea87ce1d096a5468abeb/adjuntos/362/imagenes/100/576/0100576212/316x177/smart/martin-lasarte-nacional-vs-defensor-sporting-copa-auf-uruguay-3jpeg.jpeg'
+date: 2025-01-20T11:30:00 +2:00:00
+date_es: '20 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/penarol-va-quebrar-la-racha-y-nacional-la-advertencia-que-flavio-perchman-le-mando-martin-lasarte-se-viene-el-primer-clasico-del-ano-n5980438" rel="follow" target="_blank">Nacional</a> se mide ante Peñarol en el clásico de este lunes a las 21:00 horas en el Estadio Centenario</strong>, en el partido por la Serie Río de la Plata 2025, el torneo amistoso de verano.</p><p>Los tricolores llegan al duelo tras los dos primeros encuentros del año, con derrota 1-0 ante San Lorenzo de Almagro y con caída 2-0 ante Olimpia de Paraguay, sin marcar goles hasta el momento.</p><p>El clásico será previo al Nacional vs Peñarol del próximo domingo 26 de enero, por la final de la Supercopa Uruguaya, primer partido oficial de la temporada que tendrá un título en juego.</p><h2>El probable equipo de Nacional</h2><p>El entrenador Martín Lasarte tendrá en cancha este lunes a jugadores que siguen de la pasada temporada y también a fichajes y regresos.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/b06234984c3c6b239b3a18ef666c90f2/adjuntos/362/imagenes/100/587/0100587425/1000x0/smart/nacional-san-lorenzo-copa-rio-la-plata-2025christian-oliva.jpg" height="undefined" id="609298-Libre-450589286_embed" src="https://media.elobservador.com.uy/p/b06234984c3c6b239b3a18ef666c90f2/adjuntos/362/imagenes/100/587/0100587425/1000x0/smart/nacional-san-lorenzo-copa-rio-la-plata-2025christian-oliva.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>El probable equipo tricolor será con <strong>Luis Mejía; Lucas Morales, Sebastián Coates, Diego Polenta y Gabriel Báez; Christian Oliva y Franco Catarozzi; Rómulo Otero, Jeremía Recoba y Nicolás “Diente” López, y el colombiano Diego Herazo.</strong></p><p>El DT tendrá a la orden a Ignacio Suárez, Nicolás Rodríguez, Julián Millán, Mateo Rivero, Diego Romero, Jairo Amaro, Rodrigo Mederos, Mauricio Pereyra, Nahuel "Magia" López, Alexander Dos Santos y Bruno Damiani.</p><p>Yonathan Rodríguez, uno de los últimos fichajes, es difícil que esté a la orden.</p><h2>¿Dónde ver Nacional vs Peñarol?</h2><p>El partido Nacional vs Peñarol se podrá ver por VTV Plus, por ESPN y Disney+ por streaming.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 20 de enero  2025  -  15:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

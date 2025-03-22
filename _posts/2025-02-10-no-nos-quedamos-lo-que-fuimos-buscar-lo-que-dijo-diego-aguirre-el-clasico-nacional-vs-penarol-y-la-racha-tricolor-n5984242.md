@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: '"No nos quedamos con lo que fuimos a buscar": lo que dijo Diego Aguirre tras el clásico Nacional vs Peñarol y la racha tricolor'
+description: '"Se sumó y esto recién está comenzando”, dijo Diego Aguirre tras el empate 1-1 en Nacional vs Peñarol'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/b2b147795f3e20eaf40bba43933cd5f8/adjuntos/362/imagenes/100/596/0100596801/1000x0/smart/nacional-penarol-clasico-gran-parque-central-torneo-apertura-diego-aguirrejpeg.jpeg'
+image2: 'https://media.elobservador.com.uy/p/59b75e06b39cb75c41f15c9b8d923a39/adjuntos/362/imagenes/100/596/0100596801/316x177/smart/nacional-penarol-clasico-gran-parque-central-torneo-apertura-diego-aguirrejpeg.jpeg'
+date: 2025-02-10T08:18:00 +2:00:00
+date_es: '10 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El entrenador de <a href="https://www.elobservador.com.uy/futbol/el-pesimo-estado-la-cancha-del-gran-parque-central-la-agresion-jaime-baez-la-petaca-que-saco-ostojich-y-la-inexplicable-actitud-diego-polenta-n5984202" rel="follow" target="_blank">Peñarol</a>, Diego Aguirre, habló este domingo a la noche luego del clásico que Nacional y los carboneros igualaron 1-1</strong> este domingo en el Gran Parque Central por la segunda fecha del Torneo Apertura 2025.</p><p>“Partido parejo, muy peleado, no (nos) quedamos con lo que fuimos a buscar, pero se sumó y esto recién está comenzando”, dijo el DT carbonero a El Espectador Deportes este domingo a la noche, horas después de que los carboneros dejaran el estadio tricolor, donde no hicieron declaraciones.</p><div style='height:75px;'></div><img alt="Maximiliano Olivera le entrega al árbitro Ostojich una petaca de vidrio que cayó desde la tribuna cuando el lateral aurinegro intentaba reponer un lateral" height="undefined" id="616832-Libre-1352548112_embed" src="https://media.elobservador.com.uy/p/becb7661e1eb412dc3562956f7bc79b9/adjuntos/362/imagenes/100/596/0100596813/1000x0/smart/maximiliano-olivera-le-entrega-al-arbitro-ostojich-una-petaca-vidrio-que-cayo-la-tribuna-cuando-el-lateral-aurinegro-intentaba-reponer-un-lateral.jpeg" title="Maximiliano Olivera le entrega al árbitro Ostojich una petaca de vidrio que cayó desde la tribuna cuando el lateral aurinegro intentaba reponer un lateral" width="100%"/><div style='height: 75px;'></div><p>Sobre lo que más le gustó de Peñarol, Aguirre señaló: <strong>“Fue un partido bastante entreverado</strong>, me cuesta sacar las conclusiones. Se entregaron. Por momentos jugaron un poco, fue un partido muy peleado. Después lo voy a ver tranquilo para sacar conclusiones”.</p><p>El DT también fue consultado <strong>por si la racha de 9 clásicos invictos que tienen los tricolores le preocupa</strong>.</p><p> <strong>“No, ahora nosotros estamos con un objetivo primordial que es volver a ser campeones uruguayos</strong>, esto está comenzando  y veremos en el corre del año cómo se van dando las cosas”, señaló.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 10 de febrero  2025  -  12:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

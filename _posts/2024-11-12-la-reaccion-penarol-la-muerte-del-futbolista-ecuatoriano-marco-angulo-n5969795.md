@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'La reacción de Peñarol tras la muerte del futbolista ecuatoriano Marco Angulo, que conmociona al fútbol sudamericano'
+description: 'El jugador de 22 años falleció tras permanecer internado por un accidente futbolístico hace un mes'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/d72ea33aca23a7ba3533e4dc93d03768/adjuntos/362/imagenes/100/565/0100565661/1000x0/smart/angulo-pejpg.jpg'
+date: 2024-11-12T13:30:00:00 +2:00:00
+date_es: '12 de noviembre  2024 - 13:30hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El mundo del fútbol está consternado por la muerte de <a href="https://www.elobservador.com.uy/futbol-internacional/quien-era-marco-angulo-el-futbolista-ecuatoriano-que-murio-un-accidente-transito-n5969778" rel="follow" target="_blank">Marco Angulo</a>, futbolista ecuatoriano de 22 años que jugaba en la Liga de Quito. El volante, que también defendió a la selección de su país, sufrió un accidente de tránsito a principio de octubre y no se pudo recuperar de las heridas.</p><p>Entre tantas muestras de dolor, las formativas de Peñarol también dejaron su mensaje: "Lamentamos profundamente el fallecimiento de Marco Angulo, jugador de Liga de Quito surgido en Independiente del Valle. Extendemos nuestro cálido abrazo a sus amigos, familiares y a ambas instituciones en este duro momento".</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Desde <a href="https://twitter.com/FormativasCAP?ref_src=twsrc%5Etfw">@formativascap</a> lamentamos profundamente el fallecimiento de Marco Angulo, jugador de <a href="https://twitter.com/LDU_Oficial?ref_src=twsrc%5Etfw">@ldu_oficial</a> surgido en <a href="https://twitter.com/IDV_EC?ref_src=twsrc%5Etfw">@IDV_EC</a>. <br/><br/>Extendemos nuestro cálido abrazo a sus amigos, familiares y a ambas instituciones en este duro momento. <br/><br/>QEPD. <a href="https://t.co/4gm56olnWz">pic.twitter.com/4gm56olnWz</a></p> &mdash; PEÑAROL | Formativas (@FormativasCAP) <a href="https://twitter.com/FormativasCAP/status/1856342041325613533?ref_src=twsrc%5Etfw">November 12, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p>Angulo, que sufrió un grave accidente de tráfico hace 39 días, falleció esta madrugada.</p><p>El internacional, de 22 años, <strong>estuvo más de un mes con pronóstico reservado en un hospital de la capital ecuatoriana</strong>, hasta que en el día de hoy se ha conocido su trágica muerte, a consecuencia de las lesiones que se produjo en la madrugada del pasado 7 de octubre, tras chocar a gran velocidad con unas vallas de protección obreras en una autopista de Quito.</p><p> En el vehículo viajaban Angulo y cuatro personas más. Con la muerte del internacional son tres los fallecidos en el accidente; Roberto Cabezas Simisterra, lateral de Independiente Juniors, y Víctor Charcopa Nazareno.</p><p></p>
+<div style='height: 300px;'></div>
+</html>

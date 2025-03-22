@@ -1,0 +1,16 @@
+---
+layout: post2
+title: '¿Por qué no juega Edinson Cavani en Boca Juniors, en el clásico contra Independiente que se disputa hoy sábado?'
+description: 'Boca Juniors cierra este sábado su participación en la Liga Profesional sin la participación del Matador'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/402ed233dd06767f5de17ce94e5668cd/adjuntos/362/imagenes/100/532/0100532079/1000x0/smart/20240815-boca-juniors-uruguayan-forward-edinson-cavani-celebrates-after-scoring-during-the-copa-sudamericana-round-of-16-first-leg-football-match-between-argentinas-boca-juniors-and-brazils-cruzeiro-at-la-bombonera-stadium-in-buenos-aires-on-august-15.jpg'
+image2: 'https://media.elobservador.com.uy/p/641df109df50faecaa01297cfc2c2a6c/adjuntos/362/imagenes/100/532/0100532079/316x177/smart/20240815-boca-juniors-uruguayan-forward-edinson-cavani-celebrates-after-scoring-during-the-copa-sudamericana-round-of-16-first-leg-football-match-between-argentinas-boca-juniors-and-brazils-cruzeiro-at-la-bombonera-stadium-in-buenos-aires-on-august-15.jpg'
+date: 2024-12-14T09:59:00 +2:00:00
+date_es: '2024-12-14  09:59'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Boca Juniors enfrenta este sábado a Independiente por la última fecha del Torneo de la Liga Profesional, <strong>con la ausencia del uruguayo Edinson Cavani</strong>. El clásico se disputa a las 19:15 horas en La Bombonera. Sin importar el resultado contra el Rojo, el Xeneize necesita que Vélez o Talleres se consagren campeones el domingo para ir al repechaje por la Copa Libertadores. Si el campeón es Huracán, Boca jugará la Copa Sudamericana.</p><p>Si bien se esperaba la participación de Cavani, <strong>el Matador no quedó concentrado el viernes por la noche</strong>. El motivo es un problema físico, que lo dejó afuera del último partido.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> ¡ !<br/><br/> <a href="https://twitter.com/hashtag/Torneo2024?src=hash&ref_src=twsrc%5Etfw">#Torneo2024</a> <br/>Independiente<br/>Sábado 14/12<br/>19:15<br/>La Bombonera<br/><a href="https://twitter.com/ElCanaldeBoca?ref_src=twsrc%5Etfw">@elcanaldeboca</a><a href="https://twitter.com/hashtag/DaleBoca?src=hash&ref_src=twsrc%5Etfw">#DaleBoca</a> <a href="https://t.co/zOKgVPppft">pic.twitter.com/zOKgVPppft</a></p> &mdash; Boca Juniors (@BocaJrsOficial) <a href="https://twitter.com/BocaJrsOficial/status/1867596013440999473?ref_src=twsrc%5Etfw">December 13, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>La ausencia del uruguayo le abre la puerta del equipo a Miguel Merentiel, con Milton Giménez por derecha y Exequiel Zeballos por izquierda.</p><p>De manera que el probable equipo de Boca es con <strong>Leandro Brey; Luis Advíncula, Lautaro Di Lollo, Marcos Rojo, Marcelo Saracchi o Frank Fabra; Pol Fernández, Milton Delgado, Kevin Zenón; Milton Giménez, Miguel Merentiel y Exequiel Zeballos.</strong></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/14 14:15 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Video: todo el estadio de Aguada gritando "negro cagón" a Jayson Granger mientras realiza el calentamiento'
+description: 'Este sábado el jugador de Peñarol Jayson Granger denunció racismo y odio contra él; un video muestra a toda la hincha de Aguada gritándole "negro cagón"'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/55418f951a8290126feb479d3b00a4fc/adjuntos/362/imagenes/100/505/0100505409/1000x0/smart/2da-final-aguada-penarol-jayson-granger.jpg'
+date: 2024-06-15T13:26:00:00 +2:00:00
+date_es: '15 de junio  2024 - 13:26hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong><a class="agrupador" href="https://www.elobservador.com.uy/tag/jayson-granger" rel="47469">Jayson Granger</a></strong>, jugador de <a class="agrupador" href="https://www.elobservador.com.uy/club-atletico-penarol-a42904" rel="42904"> Peñarol</a>, denunció mediante una extensa carta, que<a href="https://www.elobservador.com.uy/basquetbol/negro-cagon-jayson-granger-volvio-denunciar-racismo-y-odio-contra-el-luego-la-cuarta-final-aguada-y-penarol-n5946159" rel="follow" target="_blank"> ha sido víctima de "racismo y odio"</a> desde que llegó al básquetbol uruguayo. Especialmente en las finales de la Liga Uruguaya contra <a class="agrupador" href="https://www.elobservador.com.uy/tag/aguada" rel="7383">Aguada</a>, y luego de discutir con Santiago Pepo Vidal, al que amenazó de muerte tras el segundo encuentro.</p><p>A raíz de esto Granger y Vidal fueron citados a declarar en la Unidad de Violencia en el Deporte y en Fiscalía. Finalmente<a href="https://www.elobservador.com.uy/fiscalia-archivo-la-investigacion-las-amenazas-jayson-granger-ya-que-santiago-vidal-no-quiso-judicializar-el-tema-n5944837" rel="follow" target="_blank"> el caso fue archivado</a> porque el jugador de Aguada no realizó la denuncia.</p><p>Luego del cuarto partido, jugado este viernes en cancha de Aguada, que t<a href="https://www.elobservador.com.uy/basquetbol/aguada-vs-penarol-se-juega-la-cuarta-final-la-liga-uruguaya-basquetbol-que-el-lunes-va-al-antel-arena-n5946109" rel="follow" target="_blank">erminó con victoria local por 88-74</a>, poniendo la serie 3-1 a su favor, Granger expresó que "<strong>una vez más vuelvo a sufrir el racismo y el odio gratuito</strong> de una cancha llena en un espectáculo deportivo y me veo obligado a hablar".</p><p>El video publicado por el periodista Jorge Parietti es elocuente:</p><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Como en su momento dije que los gestos de Granger estuvieron mal, esto que pasó ayer en Aguada también está muy mal. Un cántico total de la tribuna a Granger con “negro cagon”.<br/>Tampoco puede pasar. <a href="https://t.co/kqJi5yXw83">pic.twitter.com/kqJi5yXw83</a></p> &mdash; jorge parietti (@jorgeparietti) <a href="https://twitter.com/jorgeparietti/status/1801989443022209361?ref_src=twsrc%5Etfw">June 15, 2024</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><p></p>
+<div style='height: 300px;'></div>
+</html>

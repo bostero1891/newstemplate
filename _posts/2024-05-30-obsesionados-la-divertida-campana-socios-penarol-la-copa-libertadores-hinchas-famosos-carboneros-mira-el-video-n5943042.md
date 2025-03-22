@@ -1,0 +1,17 @@
+---
+layout: post2
+title: 'Obsesionados: la divertida campaña de socios de Peñarol por la Copa Libertadores con hinchas famosos carboneros; mirá el video'
+description: 'Con un video con varios famosos, Peñarol lanzó una nueva campaña de socios luego de asegurarse el pasaje a octavos de final de la Copa Libertadores 2024'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/2810bebb2d7a5baf233fec255db33e61/adjuntos/362/imagenes/100/502/0100502060/1000x0/smart/penarol.jpg'
+date: 2024-05-30T13:15:00 +2:00:00
+date_es: '
+							30 de mayo  2024 - 13:15hs
+					'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p>El Club Atlético <strong><a class="agrupador" href="https://www.elobservador.com.uy/tag/penarol" rel="1813">Peñarol</a> lanzó este jueves una nueva <a class="agrupador" href="https://www.elobservador.com.uy/tag/campana-de-socios" rel="66272">campaña de socios</a></strong> luego de asegurarse el pasaje a octavos de final de la <a class="agrupador" href="https://www.elobservador.com.uy/tag/copa-libertadores" rel="18532">Copa Libertadores</a> 2024 al ganarle a Rosario Central el pasado martes en el <a class="agrupador" href="https://www.elobservador.com.uy/tag/campeon-del-siglo" rel="15337">Campeón del Siglo</a>.</p><p>“Obsesionados”, es el título de la pieza en el que varios hinchas carboneros, algunos de ellos famosos, pasan por el diván en el que Gastón “Rusito” González hace de psicólogo, y le dicen que quieren ganar la sexta Libertadores con Peñarol.</p><p>Entre los famosos carboneros aparecen <strong>Giannina Silva, <a class="agrupador" href="https://www.elobservador.com.uy/tag/deborah-rodriguez" rel="12490">Déborah Rodríguez</a>, Rafael Villanueva, Raúl “Flaco” Castro</strong>.</p><p>“Estoy resubido a la Aguirreneta”, dice Rafa Villanueva, quien promete pintar de amarillo y negro su moto si Peñarol gana la sexta Libertadores. “Llegó a quinta y necesito la sexta”, agrega.</p><h2> Mirá el video de Peñarol:</h2><div class="embed-responsive embed-responsive-16by9"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" data-td-src-property="https://www.youtube.com/embed/UTJTXJcFEQs?feature=oembed" frameborder="0" class="youtube mb-10 w-100 h-100" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/UTJTXJcFEQs?feature=oembed" title="OBSESIONADOS"></iframe></div><p class="mt-0">“No sé qué es lo que me pasa doctor. Es como que estoy obsesionada”, dice Giannina Da Silva, quien señala: “Si ganamos una más, pasamos a tener el doble que ellos”, en referencia a los tres título que tiene Nacional, el eterno rival aurinegro.</p><img alt="Giannina Silva en la campaña de socios de Peñarol" data-td-src-property="https://media.elobservador.com.uy/p/af705b6e5478cfb8b9921c41fee82741/adjuntos/362/imagenes/100/502/0100502065/1000x0/smart/giannina-silva-la-campana-socios-penarol.jpg" height="undefined" id="541669-Libre-1754647655_embed" src="https://media.elobservador.com.uy/p/af705b6e5478cfb8b9921c41fee82741/adjuntos/362/imagenes/100/502/0100502065/1000x0/smart/giannina-silva-la-campana-socios-penarol.jpg" title="Giannina Silva en la campaña de socios de Peñarol" width="100%"/><p class="card-text list-text">Por último, termina con el Flaco Castro cantando y Rusito González invitando a los hinchas aurinegros a calmar su obsesión y hacerse socios para disfrutar de la Copa Libertadores en el Campeón del Siglo.</p>
+<div style='height: 300px;'></div>
+</html>

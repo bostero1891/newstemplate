@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Robo y destrozos en la sede de un club de Primera división del fútbol uruguayo en la madrugada del jueves'
+description: '"El daño más grande fue el destrozo en un sector de la Sede", indicaron desde el club'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/761bee7df566cd77b673c97ff0eb9488/adjuntos/362/imagenes/100/332/0100332843/1000x0/smart/0016381365webp.webp'
+image2: 'https://media.elobservador.com.uy/p/f74a745cd197619da795bfd289033119/adjuntos/362/imagenes/100/332/0100332843/316x177/smart/0016381365webp.webp'
+date: 2025-01-02T11:24:00 +2:00:00
+date_es: '2025-01-02  11:24'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Uno de los clubes de la Primera división sufrió un robo y destrozos de su sede social</strong> en la madrugada de este jueves 2 de enero, según comunicado.</p><p>El club víctima de la delincuencia fue <strong>Progreso</strong>, el equipo de La Teja, cuya sede social está ubicada en avenida Carlos María Ramírez 758.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/999994a5ac961d6ea24e65d104faad17/adjuntos/362/imagenes/100/512/0100512148/1000x0/smart/progreso-penarol-hinchada-progreso.jpg" height="undefined" id="549442-Libre-1908608917_embed" src="https://media.elobservador.com.uy/p/999994a5ac961d6ea24e65d104faad17/adjuntos/362/imagenes/100/512/0100512148/1000x0/smart/progreso-penarol-hinchada-progreso.jpg" title="" width="100%"/><div style='height: 75px;'></div><p><strong> “Lamentablemente en la madrugada de hoy robaron nuestra Sede”, indicaron</strong> en las redes sociales de la institución.</p><p>“Todavía se está relevando los artículos faltantes, en estos momentos podemos informar que <strong>el daño más grande fue el destrozo en un sector de la Sede, el hurto de materiales de trabajo administrativos y alguna herramienta electrónica con datos importantes”, agregaron</strong>.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Lamentablemente en la madrugada de hoy robaron nuestra Sede. Todavía se está relevando los artículos faltantes, en estos momentos podemos informar que el daño más grande fue el destrozo en un sector de la Sede, el hurto de materiales de trabajo administrativos (SIGUE) <a href="https://t.co/PJkeXkVDzB">pic.twitter.com/PJkeXkVDzB</a></p> &mdash; C. A. Progreso (@ProgresoOficial) <a href="https://twitter.com/ProgresoOficial/status/1874820929517412448?ref_src=twsrc%5Etfw">January 2, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>Desde Progreso señalaron que trabajan “para arreglar los daños sufridos” y recuperar pertenencias.</p><p>“El club es de su gente y <strong>estamos seguros que como siempre estarán colaborando</strong> para evitar este tipo de situaciones en nuestra casa”, indicaron.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2025/01/02 18:47 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

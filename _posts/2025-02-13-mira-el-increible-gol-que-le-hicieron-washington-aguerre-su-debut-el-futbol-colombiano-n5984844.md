@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Mirá el increíble gol que le hizo un uruguayo a Washington Aguerre en su debut en el fútbol colombiano'
+description: 'El gol se lo hizo un futbolista uruguayo que llegó a Colombia directamente desde Peñarol de Maldonado'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/f3b8abb5f4b9a0eee79cfcb1014700c6/adjuntos/362/imagenes/100/598/0100598131/1000x0/smart/aguerrejpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/f20bbdf071eb230c488dedaf044109fd/adjuntos/362/imagenes/100/598/0100598131/316x177/smart/aguerrejpg.jpg'
+date: 2025-02-13T07:13:00 +2:00:00
+date_es: '13 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Este miércoles debutó Washington Aguerre en el arco de Independiente Medellín de Colombia (DIM). El partido contra Unión Magdalena por la cuarta fecha del torneo Apertura fue 1-1, en el estadio Atanasio Girardot. <strong>Abrió la cuenta el uruguayo Eric Krame para Unión</strong> y empató Leyser Chaverra Rentería de penal.</p><p>Aguerre, que<strong> fue el mejor golero del Campeonato Uruguayo 2024</strong>, que ganó Peñarol, llegó al fútbol colombiano después de negociar sin éxito su permanencia en el conjunto aurinegro. Luego de semanas de idas y vueltas, donde tuvo ofertas de otros países, decidió firmar por el DIM.</p><p><strong>En su debut le marcaron un gol increíble</strong> porque el futbolista de Unión intentó levantar un centro de zurda y terminó metiendo la pelota por encima del uruguayo, en el segundo palo.</p><p><strong>El autor del gol, Eric Krame</strong>, es un uruguayo que llegó este año al Magdalena, desde Peñarol de Maldonado, y marcó su primer golen Colombia.</p><p> Entrevistado Aguerre por los periodistas al final del encuentro, expresó: "La sensación es buena, logramos un punto importante, lo que queríamos era sumar".</p><p>Agregó que "comparado al fútbol uruguayo, <strong>el nuestro es más aguerrido</strong>, lo que nos está faltando es dinámica" y sobre su forma de ser, subrayó: "Fuera de la cancha soy tranquilo, pero dentro de la cancha soy diferente, tengo personalidad, carácter y espero que le gente quede contenta"</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> “VINE PARA GANAR COSAS IMPORTANTES CON EL CLUB” <br/><br/> Washington Aguerre arquero Uruguayo del <a href="https://twitter.com/DIM_Oficial?ref_src=twsrc%5Etfw">@DIM_Oficial</a> tras el empate 1x1 ante <a href="https://twitter.com/UnionMagdalena?ref_src=twsrc%5Etfw">@UnionMagdalena</a> <a href="https://t.co/tKVsVb8nUc">pic.twitter.com/tKVsVb8nUc</a></p> &mdash; Los Campeones FM (@LosCampeonesFM) <a href="https://twitter.com/LosCampeonesFM/status/1889877850473546212?ref_src=twsrc%5Etfw">February 13, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 13 de febrero  2025  -  11:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: '¿Dónde ver Liverpool vs Manchester United, con Darwin Núñez y Manuel Ugarte, por la Premier League?'
+description: '¿Dónde ver Liverpool vs Manchester United, con Darwin Núñez y Manuel Ugarte, por la Premier League?'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/78d1a1d57438878c7502da2baf03fa63/adjuntos/362/imagenes/100/581/0100581173/20241222-london-united-kingdom-22122024-tottenham-hotspurs-pedro-porro-r-and-liverpools-darwin-nunez-in-action-during-the-english-premier-league-soccer-match-beween-tottenham-hotspur-and-liverpool-fc-in-london-britain-22-december-2024-rein.jpg'
+image2: 'https://media.elobservador.com.uy/p/87a084f62b4c2339fb7dc949a58c5f6f/adjuntos/362/imagenes/100/581/0100581182/20241222-london-united-kingdom-22122024-tottenham-hotspurs-pedro-porro-r-and-liverpools-darwin-nunez-in-action-during-the-english-premier-league-soccer-match-beween-tottenham-hotspur-and-liverpool-fc-in-london-britain-22-december-2024-rein.jpg'
+date: 2025-01-05T05:00:00 +2:00:00
+date_es: '5 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El primer partido de Liverpool en 2025 es frente a Manchester United, en el estadio de Anfield. Estarán cara a cara los uruguayos <a href="https://www.elobservador.com.uy/futbol-internacional/liverpool-vs-manchester-united-dia-hora-y-donde-ver-darwin-nunez-y-manuel-ugarte-la-premier-league-n5977652" rel="follow" target="_blank">Darwin Núñez</a>, de los Reds, y Manuel Ugarte, del United, por una nueva jornada de la Premier League.</p><p><strong>Las estadísticas y el presente favorecen a Liverpool</strong>, que solo ha perdido uno de sus últimos 13 partidos de Premier contra Manchester United (ganó siete y empató cinco).</p><p>Los Reds han ganado sus últimos tres partidos de la Premier League, anotando tres o más goles en cada victoria, con un total de 14 goles. <strong>El United, en cambio, no ha ganado ninguno de sus últimos ocho partidos de liga como visitante contra el Liverpool</strong>.</p><h2>¿Cuándo juegan Liverpool vs Manchester United?</h2><p>El partidos se disputa <strong>este domingo 5 de enero, a las 13:30 horas de Uruguay</strong>, en el estadio de Anfield.</p><h2>¿Dónde ver Liverpool vs Manchester United?</h2><p>El encuentro que tendrá el enfrentamiento de Darwin Núñez y Manuel Ugarte, compañeros de la selección uruguaya, <strong>será televisado por Disney+</strong>.</p><h2>Tabla de posiciones de la Premier League</h2><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.premierleague&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.premierleague&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 5 de enero  2025  -  10:12 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

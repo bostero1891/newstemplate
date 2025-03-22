@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Video: el golazo de Giorgian De Arrascaeta para Flamengo y la nueva copa que consiguió el uruguayo'
+description: 'Video: el golazo de Giorgian De Arrascaeta para Flamengo y la nueva copa que consiguió el uruguayo'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e54ad7ca9d16aea0ca3f1b90a56373f6/adjuntos/362/imagenes/100/601/0100601447/1000x0/smart/giorgianjpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/9b2774956133d44b8610c271c8040be0/adjuntos/362/imagenes/100/488/0100488072/316x177/smart/giorgian-arrascaeta-flamengo.webp'
+date: 2025-02-23T11:59:00 +2:00:00
+date_es: '23 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El uruguayo <strong><a href="https://www.elobservador.com.uy/futbol-internacional/giorgian-arrascaeta-levanto-una-nueva-copa-flamengo-mira-la-impresionante-cantidad-titulos-que-tiene-el-10-la-seleccion-uruguay-su-club-n5983038" rel="follow" target="_blank"> Giorgian De Arrascaeta </a></strong> volvió a ser figura este sábado a la noche en Flamengo de Río de Janeiro, que goleó 5-0 a Maricá que alcanzó las semifinales del Torneo Carioca una vez más. El futbolista de la selección de Uruguay, además, consiguió una nueva copa en su historial.</p><p>El nacido en Nuevo Berlín fue titular una vez más en los rubronegros,<strong> al igual que Guillermo Varela.</strong></p><p> <strong>No estuvieron a la orden por lesión Nicolás De la Cruz, ni Matías Viña, </strong>este último, quien se viene recuperando de una complicada lesión en una de sus rodillas desde hace meses.</p><h2>El golazo de Giorgian De Arrascaeta para Flamengo y la nueva copa que consiguió el uruguayo</h2><p><strong>Giorgian De Arrascaeta convirtió el tercer gol para el transitorio 3-0 de Flamengo en Maracaná.</strong></p><p> Pero también colaboró en el cuarto tanto de su equipo, <strong>brindándole una asistencia a Luiz Araújo.</strong></p><p>El uruguayo disputó todo el compromiso y fue una de las figuras de su equipo, una vez más.</p><div style='height: 75px;'></div><img alt="Giorgian De Arrascaeta y su esposa con la Taca Guanabara, una nueva copa que gan&amp;oacute; el uruguayo con Flamengo" data-td-src-property="https://media.elobservador.com.uy/p/e54ad7ca9d16aea0ca3f1b90a56373f6/adjuntos/362/imagenes/100/601/0100601447/1000x0/smart/giorgianjpg.jpg" height="undefined" id="620692-Libre-2122105441_embed" src="https://media.elobservador.com.uy/p/e54ad7ca9d16aea0ca3f1b90a56373f6/adjuntos/362/imagenes/100/601/0100601447/1000x0/smart/giorgianjpg.jpg" title="Giorgian De Arrascaeta y su esposa con la Taca Guanabara, una nueva copa que gan&amp;oacute; el uruguayo con Flamengo" width="100%"/><div style='height: 75px;'></div><p>De esta manera, <strong>Giorgian De Arrascaeta consiguió una nueva copa con Flamengo, la Taca Guanabara.</strong></p><p>Esa copa <strong>se la gana el club que consiguió la primera rueda del Torneo Carioca</strong> y otra vez la obtuvieron los rubronegros.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 23 de febrero  2025  -  16:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

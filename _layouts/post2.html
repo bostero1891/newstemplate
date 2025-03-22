@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        {% include head.html %}
+    </head>
+    <body>
+        {% include navbar.html %}
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-md-12">
+                    <div class='mt-5 mb-2'>
+                        <h1 class='custom mb-2'>
+                           {{ page.title }}
+                        </h1>
+                        <hr>
+                        <p class="archivo700 archivo-post-size mb-2">{{ page.description }}</p>
+                        <div class="archivo700 post-date mb-2">
+                            <p>{{ page.date_es }}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-9 archivo archivo-post-size post-text-color">
+                    {{ content }}
+                </div>
+
+                <div class="col-md-3">
+                    {% include sidebar-Penarol-post.html %}
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    {% include Audios-sport890-Penarol.html %}
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12">
+                    {% include deportesbanner.html %}
+                </div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    </body>
+    {% include footer2.html %}
+</html>

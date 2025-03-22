@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Video: escándalo en el el fútbol de OFI en la final del litoral entre Paysandú Interior y Soriano Capital con una fortísima agresión'
+description: 'Video: escándalo en el el fútbol de OFI en la final del litoral entre Paysandú Interior y Soriano Capital con una fortísima agresión'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/2296109bcffcf9a92a0c1e6173f3bc79/adjuntos/362/imagenes/100/601/0100601437/1000x0/smart/ofijpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/8edf60ee4e83474831b35236e899dee0/adjuntos/362/imagenes/100/601/0100601437/316x177/smart/ofijpg.jpg'
+date: 2025-02-23T10:45:00 +2:00:00
+date_es: '23 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La<strong><a href="https://www.elobservador.com.uy/futbol/roza-el-manoseo-fuerte-denuncia-un-club-ofi-la-auf-un-premio-que-le-debe-hace-un-ano-n5976086" rel="follow" target="_blank"> Organización del Fútbol del Interior (OFI) </a></strong> viene disputando las principales instancias de sus respectivos torneos de selecciones a lo largo de todo el país y en las diferentes zonas. Este sábado a la noche, cuando se terminaba la final de ida del litoral entre Soriano Capital y Paysandú Interior, se dio un hecho bochornoso.</p><p><strong>No es la primera vez, sino que ya es algo recurrente, </strong>que en distintos partidos de OFI existen escándalos por diferentes temas.</p><p>Este sábado a la noche, casi sobre la medianoche de este domingo, se dio un nuevo episodio de violencia en el fútbol, nuevamente en un torneo del fútbol del interior.</p><h2>Escándalo en el el fútbol de OFI en la final del litoral entre Paysandú Interior y Soriano Capital y</h2><p><strong>Se terminaba la final de ida del Litoral entre Paysandú Interior (Guichón) y Soriano Capital </strong>en el Estadio Municipal de Guichón.</p><p> Cuando ganaban los sanduceros que eran locales, 1-0 sobre el final del encuentro, <strong>se dio un hecho lamentable.</strong></p><p><strong> El jugador Mario González de la visita, le pegó un tremendo golpe de puño en la pera a Enzo Echeveste de Paysandú Interior.</strong></p><p>Allí se dio un intercambio de golpes entre algunos jugadores de ambos equipos y el agresor fue expulsado.</p><p><strong>Aquí se puede ver el video:</strong></p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Así terminó Soriano Capital vs. Paysandú Interior.<a href="https://twitter.com/hashtag/F%C3%BAtbolUruguayo?src=hash&ref_src=twsrc%5Etfw">#FútbolUruguayo</a> <a href="https://t.co/fDii8l9NZo">pic.twitter.com/fDii8l9NZo</a></p> &mdash; En Una Baldosa (@enunabaldosa) <a href="https://twitter.com/enunabaldosa/status/1893498237706707005?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 23 de febrero  2025  -  15:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

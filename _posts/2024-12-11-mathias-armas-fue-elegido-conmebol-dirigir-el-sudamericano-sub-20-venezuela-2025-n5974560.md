@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Mathías de Armas fue elegido por Conmebol para dirigir en el Sudamericano sub 20 de Venezuela 2025'
+description: 'Conmebol designó a los tres árbitros de Uruguay para el Sudamericano sub 20 de Venezuela 2025'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e5f14a0f6d40267f26d03c26d97b395d/adjuntos/362/imagenes/100/379/0100379012/1000x0/smart/-lcm5268-jpgwebp.webp'
+image2: 'https://media.elobservador.com.uy/p/afce5cc4c23de7cdba5fc0d450590ae6/adjuntos/362/imagenes/100/379/0100379012/615x357/smart/-lcm5268-jpgwebp.webp'
+date: 2024-12-11T12:17:00 +2:00:00
+date_es: '2024-12-11  12:17'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>La <strong>Conmebol </strong>anunció este miércoles las ternas de árbitros de las 10 asociaciones y los invitados de UEFA que dirigirán el <strong><a href="https://www.elobservador.com.uy/seleccion/mira-el-grupo-que-le-toco-la-seleccion-uruguay-sub-20-vigente-campeona-mundial-el-sudamericano-n5973922" rel="follow" target="_blank">Sudamericano sub 20</a></strong> que entre el 23 de enero y 16 de febrero se disputará en Venezuela.</p><p>Por Uruguay fueron seleccionados <strong>Mathías de Armas</strong> y los asistentes <strong>Agustín Berisso y Horacio Ferreiro</strong>.</p><p>En este torneo no habrá VAR y actuarán <strong>33 jueces</strong> (11 árbitros y 22 asistentes), <strong>tres </strong>de ellos <strong>italianos </strong>que envía UEFA por el acuerdo que tienen con Conmebol en el intercambio de árbitros en todas las competencias continentales.</p><p>Estos son <strong>los árbitros convocados por Conmebol</strong>:</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/008fbff2bfc867760dced2f3ef29b1e2/adjuntos/362/imagenes/100/577/0100577485/1000x0/smart/arbitros-sudamericano-sub-20-2025jpeg.jpeg" height="undefined" id="601138-Libre-26511305_embed" src="https://media.elobservador.com.uy/p/008fbff2bfc867760dced2f3ef29b1e2/adjuntos/362/imagenes/100/577/0100577485/1000x0/smart/arbitros-sudamericano-sub-20-2025jpeg.jpeg" title="" width="100%"/><div style='height: 75px;'></div><p>La <a cmp-ltrk="detalle-nota-links-cuerpo" cmp-ltrk-idx="0" data-mrf-link="https://www.elobservador.com.uy/nota/el-espectacular-tatuaje-que-se-hizo-un-campeon-del-mundo-con-la-seleccion-uruguaya-sub-20-2023758639" href="https://www.elobservador.com.uy/nota/el-espectacular-tatuaje-que-se-hizo-un-campeon-del-mundo-con-la-seleccion-uruguaya-sub-20-2023758639" mrfobservableid="446ba7bf-6621-4c1b-b060-3d70049d0d40" rel="follow noopener" target="_blank">selección de Uruguay sub 20</a>, vigente campeona del mundo tras haber conseguido el título el año pasado en Argentina, fue emparejada en el grupo B.</p><p>Los rivales de Uruguay serán <strong>Venezuela, Paraguay, Chile y Perú</strong>.</p><p>Los equipos que integran cada grupo compiten todos contra todos y los tres mejores de cada zona clasifican al hexagonal final.</p><p>El torneo ofrece cuatro lugares para el Mundial que se desarrollará en Chile en 2025.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/11 16:48 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

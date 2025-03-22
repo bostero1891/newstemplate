@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Bolso Kombat: la divertida presentación de Nacional a modo de videojuego para anunciar a su nuevo fichaje Rómulo Otero; mirá el video'
+description: 'Para su presentación hicieron el “Bolso Kombat”, una parodia al tradicional videojuego pero con personajes tricolores; mirá el video'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/f08bde25785f2329cf8698f8620dd52b/adjuntos/362/imagenes/100/583/0100583140/1000x0/smart/bolso-kombat.jpg'
+image2: 'https://media.elobservador.com.uy/p/6b22b9267eb094e443fe5e0e3bdaa6c2/adjuntos/362/imagenes/100/583/0100583140/316x177/smart/bolso-kombatjpg.jpg'
+date: 2024-12-30T12:24:00 +2:00:00
+date_es: '2024-12-30  12:24'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>El <a href="https://www.elobservador.com.uy/futbol/nacional-oficializo-su-primer-fichaje-la-temporada-2025-mira-quien-es-el-nuevo-jugador-tricolor-n5977254" rel="follow" target="_blank"> Club Nacional de Football </a>anunció este lunes su primer fichaje para la temporada 2025 </strong>y lo hizo con un video a modo del videojuego Mortal Kombat.</p><p>Los tricolores cerraron las transferencia del venezolano <strong><a href="https://www.elobservador.com.uy/futbol/nacional-oficializo-su-primer-fichaje-la-temporada-2025-mira-quien-es-el-nuevo-jugador-tricolor-n5977254" rel="follow" target="_blank">Rómulo Otero, volante ofensivo de 32 años</a></strong>.</p><p> Para su presentación hicieron el “Bolso Kombat”, una parodia al tradicional videojuego pero con personajes tricolores.</p><div style='height: 75px;'></div><img alt="Bolso Kombat" data-td-src-property="https://media.elobservador.com.uy/p/f08bde25785f2329cf8698f8620dd52b/adjuntos/362/imagenes/100/583/0100583140/1000x0/smart/bolso-kombat.jpg" height="undefined" id="605821-Libre-955853821_embed" src="https://media.elobservador.com.uy/p/f08bde25785f2329cf8698f8620dd52b/adjuntos/362/imagenes/100/583/0100583140/1000x0/smart/bolso-kombat.jpg" title="Bolso Kombat" width="100%"/><div style='height: 75px;'></div><p>En la lista aparecen jugadores como Álvaro Recoba, Abdón Porte, Hugo De León, Carlos Camejo, Luis Suárez, OJ Morales, Richard “Chengue” Morales, José Luis Pintos Saldanha y Otero.</p><p> Además, hay hinchas famosos como <strong>El Bananero y Martín Quiroga.</strong></p><p>Luego de seleccionar a Otero, se ven sus mejores jugadas y sus espectaculares goles de tiro libre.</p><div style='height: 75px;'></div><img alt="Rómulo Otero, nuevo jugador de Nacional" data-td-src-property="https://media.elobservador.com.uy/p/52166601715c1b0c815b1877cdf8cb7e/adjuntos/362/imagenes/100/583/0100583119/1000x0/smart/romulo-otero-nuevo-jugador-nacional.jpg" height="undefined" id="605800-Libre-1419443739_embed" src="https://media.elobservador.com.uy/p/52166601715c1b0c815b1877cdf8cb7e/adjuntos/362/imagenes/100/583/0100583119/1000x0/smart/romulo-otero-nuevo-jugador-nacional.jpg" title="Rómulo Otero, nuevo jugador de Nacional" width="100%"/><div style='height: 75px;'></div><p></p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/31 15:46 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

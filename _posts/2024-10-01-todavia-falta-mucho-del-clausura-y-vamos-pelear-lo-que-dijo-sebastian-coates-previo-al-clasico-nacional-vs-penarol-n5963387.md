@@ -1,0 +1,15 @@
+---
+layout: post2
+title: '"Todavía falta mucho del Clausura y vamos a pelear": lo que dijo Sebastián Coates previo al clásico Nacional vs Peñarol'
+description: '“Demostramos que estamos bien", dijo Sebastián Coates, uno de los capitanes de Nacional'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/ce1a7657f6050ba779cdb81aac143e46/adjuntos/362/imagenes/100/548/0100548915/1000x0/smart/coates-mereles-y-recoba.jfif'
+date: 2024-10-01T08:02:00:00 +2:00:00
+date_es: '1 de octubre  2024 - 8:02hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><strong>Sebastián Coates, uno de los capitanes de <a href="https://www.elobservador.com.uy/futbol/nacional-le-aplicara-derecho-admision-tres-funcionarios-penarol-el-clasico-del-domingo-n5963353" rel="follow" target="_blank">Nacional</a>, analizó la victoria ante Progreso de este domingo por la quinta fecha del Clausura y habló de la previa del clásico ante Peñarol</strong> del próximo domingo a las 16:00 en el Gran Parque Central, en el que los albos buscarán una victoria para descontar en la Anual y seguir en carrera por el torneo.</p><p>“Teníamos que ganar. Era importante llevarnos los tres puntos”, dijo Coates a Nacional TV tras el triunfo ante Progreso, partido en el que marcó el primer gol del 3-0.</p><p><strong> “Demostramos que estamos bien, que todavía falta mucho del Clausura y vamos a pelear”, agregó</strong> el zaguero el día antes del empate 0-0 de Peñarol ante Racing de este lunes.</p><p>Sobre su gol, señaló: “Me quedó ahí por suerte y pude hacerlo”. Además, consideró que su tanto fue justo para cerrar el primer tiempo arriba en el marcador. “Creo que merecíamos ir ganando el primer tiempo”, dijo.</p><p>Coates también fue consultado por los juveniles de Nacional, tras la buena actuación de Exequiel Mereles y Jeremía Recoba, autores de los otros goles del partido.</p><img alt="Sebastián Coates de Nacional festeja su gol ante Progreso" data-td-src-property="https://media.elobservador.com.uy/p/b11c593020872a04b3842d2d818f7d31/adjuntos/362/imagenes/100/548/0100548844/1000x0/smart/sebastian-coates-nacional-festeja-su-gol-progreso.jpg" height="undefined" id="579539-Libre-1773758416_embed" src="https://media.elobservador.com.uy/p/b11c593020872a04b3842d2d818f7d31/adjuntos/362/imagenes/100/548/0100548844/1000x0/smart/sebastian-coates-nacional-festeja-su-gol-progreso.jpg" title="Sebastián Coates de Nacional festeja su gol ante Progreso" width="100%"/><div style='height: 30px;'><p><strong> “Siempre Nacional se caracterizó por las formativas </strong>y sigue demostrando que la cantera sigue ahí. Ojalá que los que vengan sigan ayudando”, comentó.</p><p>Consultado sobre el clásico del próximo domingo y si era el “partido del año”, señaló que “sí” lo es y que se prepararán para el encuentro.</p><p><strong>“Ahora a festejar este triunfo que es importantísimo para nosotros, y a preparar bien el partido que viene”, dijo.</strong></p>
+<div style='height: 300px;'></div>
+</html>

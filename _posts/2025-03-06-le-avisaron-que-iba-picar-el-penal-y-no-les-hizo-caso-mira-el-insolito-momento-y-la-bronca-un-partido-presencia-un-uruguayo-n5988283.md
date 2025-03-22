@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Le avisaron que iba a picar el penal y no les hizo caso: mirá el insólito momento y la bronca en un partido con presencia de un uruguayo'
+description: 'El fútbol de Colombia tuvo un insólito momento en el partido en el que Atlético Nacional de Medellín goleó a Fortaleza; mirá el video'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/e75779ab15c01df07cc5b31e105ecc16/adjuntos/362/imagenes/100/605/0100605668/1000x0/smart/edwin-cardona-antes-del-penal-y-los-gestos-los-jugadores-rivales.jpg'
+image2: 'https://media.elobservador.com.uy/p/41cbdac62db79b31b96f3cbf9f130456/adjuntos/362/imagenes/100/605/0100605668/316x177/smart/edwin-cardona.jpg'
+date: 2025-03-06T09:45:00 +2:00:00
+date_es: '6 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El fútbol de Colombia tuvo un insólito momento en el partido en el que <strong>Atlético Nacional de Medellín, del uruguayo ex Nacional Camilo Cándido, goleó a Fortaleza 5-1</strong> por la séptima fecha del Torneo Apertura.</p><p>Cuando el partido estaba 2-1, los visitantes tuvieron un penal del que <strong>se hizo cargo el talentoso Edwin Cardona</strong>.</p><div style='height: 75px;'></div><img alt="Edwin Cardona antes del penal y los gestos de los jugadores rivales" data-td-src-property="https://media.elobservador.com.uy/p/e75779ab15c01df07cc5b31e105ecc16/adjuntos/362/imagenes/100/605/0100605668/1000x0/smart/edwin-cardona-antes-del-penal-y-los-gestos-los-jugadores-rivales.jpg" height="undefined" id="623954-Libre-1160117741_embed" src="https://media.elobservador.com.uy/p/e75779ab15c01df07cc5b31e105ecc16/adjuntos/362/imagenes/100/605/0100605668/1000x0/smart/edwin-cardona-antes-del-penal-y-los-gestos-los-jugadores-rivales.jpg" title="Edwin Cardona antes del penal y los gestos de los jugadores rivales" width="100%"/><div style='height: 75px;'></div><p>Al notar quien iba a ser el ejecutante, algunos jugadores de Fortaleza comenzaron a hacerle gestos al golero Juan Diego Castillo para indicarle que Cardona iba a picar su penal y que se quedara parado en el lugar.</p><p>Así se pudo ver en las imágenes de TV del partido.</p><p>Cardona ejecutó el penal y, como se esperaba, picó el remate, pero Castillo se tiró a un palo, por lo que fue gol de Atlético Nacional, lo que generó la bronca de los compañeros del arquero que le habían advertido cómo iba a patear el penal.</p><div style='height: 75px;'></div><img alt="Golazo de Edwin Cardona" data-td-src-property="https://media.elobservador.com.uy/p/d501b87b68bdd37710a29de19712518c/adjuntos/362/imagenes/100/358/0100358416/1000x0/smart/golazo-edwin-cardona.webp" height="undefined" id="379009-Libre-1327700699_embed" src="https://media.elobservador.com.uy/p/d501b87b68bdd37710a29de19712518c/adjuntos/362/imagenes/100/358/0100358416/1000x0/smart/golazo-edwin-cardona.webp" title="Golazo de Edwin Cardona" width="100%"/><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 6 de marzo  2025  -  14:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

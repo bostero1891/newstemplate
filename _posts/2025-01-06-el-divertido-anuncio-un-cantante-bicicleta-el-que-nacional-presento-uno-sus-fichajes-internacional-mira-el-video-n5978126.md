@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'El divertido anuncio con un cantante en bicicleta con el que Nacional presentó a un fichaje internacional; mirá el video'
+description: 'El Club Nacional de Football presentó a uno de sus fichajes internacionales con un divertido anuncio a cargo de un cantante tricolor; mirá el video'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/c62696e812b54974f99dc69c2cd53f2a/adjuntos/362/imagenes/100/584/0100584759/1000x0/smart/julian-millan-fue-presentado-nacional.jpg'
+image2: 'https://media.elobservador.com.uy/p/a3f9961bf09c0e993202ce855fa03fa8/adjuntos/362/imagenes/100/584/0100584761/665x399/smart/martin-quiroga-el-anuncio-nacional.jpg'
+date: 2025-01-06T10:24:00 +2:00:00
+date_es: '6 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El <strong><a href="https://www.elobservador.com.uy/futbol/bienvenido-al-pais-nacional-asi-presento-el-club-tricolor-al-volante-venezolano-romulo-otero-n5977955" rel="follow" target="_blank">Club Nacional de Football</a> presentó a uno de sus fichajes internacionales para la temporada 2025</strong> con un divertido video en el que aparece un cantante y reconocido hincha tricolor.</p><p>Se trata del defensa colombiano <strong>Julián Millán</strong>, quien fue oficializado este lunes como nuevo jugador albo.</p><div style='height: 75px;'></div><img alt="Julián Millán fue presentado en Nacional" data-td-src-property="https://media.elobservador.com.uy/p/c62696e812b54974f99dc69c2cd53f2a/adjuntos/362/imagenes/100/584/0100584759/1000x0/smart/julian-millan-fue-presentado-nacional.jpg" height="undefined" id="607134-Libre-396174043_embed" src="https://media.elobservador.com.uy/p/c62696e812b54974f99dc69c2cd53f2a/adjuntos/362/imagenes/100/584/0100584759/1000x0/smart/julian-millan-fue-presentado-nacional.jpg" title="Julián Millán fue presentado en Nacional" width="100%"/><div style='height: 75px;'></div><p><strong> El encargado de presentarlo fue Martín Quiroga</strong>, el cantante de plena y reconocido bolso, quien actuó para el anuncio, cantando en el Gran Parque Central y yendo a buscar al jugador en bicicleta.</p><div style='height: 75px;'></div><img alt="Martín Quiroga en el anuncio de Nacional" data-td-src-property="https://media.elobservador.com.uy/p/da0154b62f0fb6fba9068a3ad987c28c/adjuntos/362/imagenes/100/584/0100584760/1000x0/smart/martin-quiroga-el-anuncio-nacional.jpg" height="undefined" id="607135-Libre-710603658_embed" src="https://media.elobservador.com.uy/p/da0154b62f0fb6fba9068a3ad987c28c/adjuntos/362/imagenes/100/584/0100584760/1000x0/smart/martin-quiroga-el-anuncio-nacional.jpg" title="Martín Quiroga en el anuncio de Nacional" width="100%"/><div style='height: 75px;'></div><p>Millán, zaguero zurdo de 26 años, es el cuarto fichaje de los tricolores para la temporada 2025, tras las llegadas del venezolano Rómulo Otero, del lateral izquierdo Diego Romero y del volante Franco Catarozzi.</p><p> <em>Noticia en desarrollo</em></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 6 de enero  2025  -  14:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

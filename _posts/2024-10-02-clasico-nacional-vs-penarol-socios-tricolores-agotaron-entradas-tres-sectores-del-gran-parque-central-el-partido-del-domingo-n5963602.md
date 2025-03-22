@@ -1,0 +1,15 @@
+---
+layout: post2
+title: 'Clásico Nacional vs Peñarol: socios tricolores agotaron entradas de cuatro sectores del Gran Parque Central para el partido del domingo'
+description: 'Socios de Nacional agotaron cuatro sectores del Gran Parque Central de cara al clásico ante Peñarol'
+category: noticias
+image: 'https://media.elobservador.com.uy/p/c51ef9665e89e89af754dd656910b367/adjuntos/362/imagenes/100/387/0100387510/1000x0/smart/-lcm9645-jpgwebp.webp'
+date: 2024-10-02T12:00:00:00 +2:00:00
+date_es: '2 de octubre  2024 - 12:08hs'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'>
+<p><em>ACTUALIZADO A LAS 12.08</em></p><p><strong>Socios de <a href="https://www.elobservador.com.uy/futbol/el-ex-nacional-que-volvio-los-cespedes-un-amistoso-antes-del-clasico-penarol-y-el-lesionado-que-sumo-minutos-cancha-n5963571" rel="follow" target="_blank">Nacional</a> agotaron cuatro sectores del Gran Parque Centra</strong>l en la venta de entradas para el clásico ante Peñarol del próximo domingo a las 16:00 por la quinta fecha del Torneo Clausura 2024.</p><p>Los sectores <strong>Codo, Atilio García y José María Delgado ya se agotaron</strong>, según informó el club tricolor en sus redes sociales este miércoles por la mañana.</p><p>Luego,<strong> al mediodía, también se agotó la Abdón Porte.</strong></p><p> Solo quedan las últimas entradas para la Héctor Scarone.</p><p>Hasta este 2 de octubre el canje y venta de entradas ha sido exclusivo para socios de Nacional en sus distintas categorías.</p><img alt="Nacional comenzó la venta de entradas para el clásico ante Peñarol" data-td-src-property="https://media.elobservador.com.uy/p/08c3ddf0ad528358513e192a73efe391/adjuntos/362/imagenes/100/549/0100549107/1000x0/smart/nacional-comenzo-la-venta-entradas-el-clasico-penarol.jfif" height="undefined" id="579702-Libre-686684897_embed" src="https://media.elobservador.com.uy/p/08c3ddf0ad528358513e192a73efe391/adjuntos/362/imagenes/100/549/0100549107/1000x0/smart/nacional-comenzo-la-venta-entradas-el-clasico-penarol.jfif" title="Nacional comenzó la venta de entradas para el clásico ante Peñarol" width="100%"/><div style='height: 30px;'><p><strong> Este jueves 3 se abrirá la venta de entradas generales</strong>, en caso de que queden boletos.</p><img alt="Nacional comenzó la venta de entradas para el clásico ante Peñarol" data-td-src-property="https://media.elobservador.com.uy/p/cc0dcecfe7cb3756c5ef99a4e46e2746/adjuntos/362/imagenes/100/549/0100549108/1000x0/smart/nacional-comenzo-la-venta-entradas-el-clasico-penarol.jfif" height="undefined" id="579703-Libre-1222556242_embed" src="https://media.elobservador.com.uy/p/cc0dcecfe7cb3756c5ef99a4e46e2746/adjuntos/362/imagenes/100/549/0100549108/1000x0/smart/nacional-comenzo-la-venta-entradas-el-clasico-penarol.jfif" title="Nacional comenzó la venta de entradas para el clásico ante Peñarol" width="100%"/><div style='height: 30px;'><p>Como ya es sabido, <strong>el clásico Nacional vs Peñarol no tendrá hinchas visitantes</strong>.</p>
+<div style='height: 300px;'></div>
+</html>

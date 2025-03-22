@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Jeremía Recoba cantando: los videos que se viralizaron tras el gol del jugador de Nacional ante Peñarol por la Supercopa Uruguaya'
+description: 'Tras la gran actuación Jeremía Recoba, se viralizaron videos en los que se lo ve cantando'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/8efe06d9ec510eeef5c90c41c3a3e0b6/adjuntos/362/imagenes/100/591/0100591924/1000x0/smart/20250126-nacional-penarol-supercopa-uruguaya-2025-foto-ines-guimaraens-30jpeg.jpeg'
+image2: 'https://media.elobservador.com.uy/p/6fd1397a6623e9c681d332f397206636/adjuntos/362/imagenes/100/592/0100592048/316x177/smart/jeremia-recoba-cantando.jpg'
+date: 2025-01-27T08:17:00 +2:00:00
+date_es: '27 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/futbol/uno-uno-nacional-penarol-la-supercopa-mejia-y-coates-fueron-dos-murallas-y-recoba-aparecio-el-momento-justo-n5981646" rel="follow" target="_blank">Jeremía Recoba</a> fue una de las figuras en el clásico por la final de la Supercopa Uruguaya 2025</strong> que Nacional, con un gol de su autoría, le ganó 2-1 a Peñarol en el clásico disputado en el Estadio Centenario por 2-1.</p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/8efe06d9ec510eeef5c90c41c3a3e0b6/adjuntos/362/imagenes/100/591/0100591924/1000x0/smart/20250126-nacional-penarol-supercopa-uruguaya-2025-foto-ines-guimaraens-30jpeg.jpeg" height="undefined" id="612799-Libre-63467375_embed" src="https://media.elobservador.com.uy/p/8efe06d9ec510eeef5c90c41c3a3e0b6/adjuntos/362/imagenes/100/591/0100591924/1000x0/smart/20250126-nacional-penarol-supercopa-uruguaya-2025-foto-ines-guimaraens-30jpeg.jpeg" title="" width="100%"/><div style='height: 75px;'></div><p>Tras la gran actuación del hijo de Álvaro “Chino” Recoba, se viralizaron videos en los que se lo ve cantando, uno de sus hobbies y que comparte con su familia, donde son habituales los karaokes.</p><p><strong>Así se lo pudo ver en un viejo video en el que canta “La mejor de todas”, una canción de amor.</strong></p><p>Además, también se viralizó en la previa del clásico un video en el que se lo ve junto al ex Nacional Gastón González, palpitando un clásico ante Peñarol mientras iban en el ómnibus tricolor.</p><p> A ese video luego le agregaron imágenes de cuando era un niño.</p><div style='height: 75px;'></div><img alt="Jeremía Recoba cantando" data-td-src-property="https://media.elobservador.com.uy/p/e8f246c1af12130ab02267a350c82887/adjuntos/362/imagenes/100/592/0100592048/1000x0/smart/jeremia-recoba-cantando.jpg" height="undefined" id="612906-Libre-910106011_embed" src="https://media.elobservador.com.uy/p/e8f246c1af12130ab02267a350c82887/adjuntos/362/imagenes/100/592/0100592048/1000x0/smart/jeremia-recoba-cantando.jpg" title="Jeremía Recoba cantando" width="100%"/><div style='height: 75px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 27 de enero  2025  -  12:30 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

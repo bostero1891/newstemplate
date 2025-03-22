@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'El elogio de Luis Suárez a Adam Bareiro, delantero que quiere Nacional y que ya estuvo a punto de llegar a los tricolores'
+description: 'Adam Bareiro, el centrodelantero que quiere Nacional, fue elogiado por Luis Suárez y estuvo por llega al tricolor en 2019'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/1d55b68fec4c4a04e96baab861785a29/adjuntos/362/imagenes/100/402/0100402952/1000x0/smart/1691144272540webp.webp'
+image2: 'https://media.elobservador.com.uy/p/406193d9e0b886016167e3ff1beb5ccd/adjuntos/362/imagenes/100/402/0100402952/665x399/smart/1691144272540webp.webp'
+date: 2025-01-07T14:13:00 +2:00:00
+date_es: '7 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Nacional sigue buscando un centrodelantero y uno de los nombres que suena ahora es el del paraguayo Adam Bareiro, que tiene pocos minutos en River Plate de Argentina. Caído el fichaje de Lucas Alario, quien firmó en Estudiantes de La Plata, el tricolor apuntó para otro lado.</p><p><a href="https://www.elobservador.com.uy/nota/juan-vieyra-y-adam-bareiro-los-jugadores-que-estan-cerca-de-nacional-2019627192621" rel="follow" target="_blank">Bareiro ya estuvo cerca de llegar a Nacional en el año 2019</a>, cuando tenía 22 años y su pase pertenecía a Monterrey. El tricolor intentaba llenar la vacante que había dejado en ese momento Octavio Rivero.</p><p>El entonces presidente albo José Decurnex tenía cerrada la incorporación del jugador, pero a último momento <a href="https://www.elobservador.com.uy/nota/quien-es-adam-bareiro-el-delantero-que-halago-suarez-que-quiso-nacional-y-lo-dirigieron-alonso-y-mendez-202384154912" rel="follow" target="_blank">el club mexicano aumentó la propuesta</a>.</p><p>Unos años después, en 2023, Luis Suárez elogió un gol de Bareiro, entonces jugador de San Lorenzo, por la Copa Sudamericana.</p><p>Lo hizo a través de las redes sociales y por eso tomó trascendencia. "<strong>Qué golazo de San Lorenzo y qué jugador Adam Bareiro</strong>", escribió el Pistolero.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Qué golazo de <a href="https://twitter.com/SanLorenzo?ref_src=twsrc%5Etfw">@SanLorenzo</a> y qué jugador <a href="https://twitter.com/AdamBareiro09?ref_src=twsrc%5Etfw">@AdamBareiro09</a> <a href="https://t.co/abb4JPJt0f">pic.twitter.com/abb4JPJt0f</a></p> &mdash; Luis Suárez (@LuisSuarez9) <a href="https://twitter.com/LuisSuarez9/status/1687269818578206720?ref_src=twsrc%5Etfw">August 4, 2023</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>Emocionado, Bareiro le respondió: "<strong>Que Grande Lucho querido! No puedo emocionarme más. </strong>Sos Gigante y ejemplo para todos los 9 del mundo . Muchas gracias de verdad Goleador".</p><p>"Vamo arriba crack, seguí así", le comentó Suárez, actual jugador de Inter Miami.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 7 de enero  2025  -  18:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

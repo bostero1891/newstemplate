@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: '"No tengas miedo": el Cholo Simeone reaccionó con vehemencia en la conferencia de prensa tras quedar eliminado de Champions League'
+description: 'El árbitro y el VAR le anularon el penal a Julián Álvarez porque tocó dos veces la pelota al rematar y así reaccionó el Cholo Simeone'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/11d44e313115536b65289e9f11844fd8/adjuntos/362/imagenes/100/608/0100608133/1000x0/smart/simeonejpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/5c809d7ae92d6e8e7887561a8d6da3f8/adjuntos/362/imagenes/100/608/0100608133/316x177/smart/simeonejpg.jpg'
+date: 2025-03-13T07:57:00 +2:00:00
+date_es: '13 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>La gran polémica</strong> del partido que <a href="https://www.elobservador.com.uy/futbol-internacional/atletico-madrid-vs-real-madrid-fede-valverde-vuelve-jugar-lateral-derecho-la-revancha-liga-campeones-n5989320" rel="follow" target="_blank">Real Madrid</a> le ganó a Atlético de Madrid por octavos de final de la Liga de Campeones <strong>fue <a href="https://www.elobservador.com.uy/futbol-internacional/polemica-mundial-el-penal-julian-alvarez-la-definicion-atletico-madrid-vs-real-madrid-y-la-particular-frase-diego-simeone-n5989381" rel="follow" target="_blank">el penal convertido por Julián Álvarez</a></strong>, que el árbitro polaco Szymon Marciniak y el VAR, anularon porque el jugador argentino tocó dos veces el balón al rematar.</p><p>Si hubo un doble toque es imperceptible al ojo humano.</p><div style='height: 75px;'></div><blockquote class="twitter-tweet" data-td-script-src="https://platform.twitter.com/widgets.js"><p dir="ltr" lang="es"> Aquí una mejor toma del polémico penal de Julián Álvarez. <br/><br/> Toca el balón dos veces?? <br/><a href="https://t.co/VAyoETd9lV">pic.twitter.com/VAyoETd9lV</a></p> &mdash; Antonio de Valdés (@adevaldes) <a href="https://twitter.com/adevaldes/status/1899995676127486401?ref_src=twsrc%5Etfw">March 13, 2025</a></blockquote><script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script><div style='height: 75px;'></div><p>En la conferencia de prensa posterior al partido, Diego Cholo Simeone, técnico del Atlético de Madrid,<strong> tuvo una increíble reacción</strong> frente a los periodistas.</p><h2>"No tengas miedo" le dijo Simeone a un periodista</h2><p>"Ustedes estuvieron en el estadio, ¿que vieron?,<strong> ¿la tocó o no la tocó?</strong>", preguntó el entrenador argentino.</p><p> Un periodista le respondió y el Cholo repitió la pregunta: "¿La viste o no la viste?".</p><p>"Vi la repetición, cómo sale el balón rebotado", señala el periodista y Simeone le dice, ya exhaltado: "<strong>No tengas miedo</strong>, si tenés miedo no hables".</p><p>"¿Cualquiera de los que está acá presente vio que Julian tocó la pelota dos veces? Que levante la mano", repitió el DT.</p><p>Y cerró: "No la levanta nadie, otra pregunta".</p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 13 de marzo  2025  -  12:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

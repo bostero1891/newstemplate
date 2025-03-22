@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Los grandes elogios del técnico de Liverpool, Arne Slot, a Darwin Núñez luego de su doblete en la hora para ganarle a Brenftord para seguir líderes de la Premier League'
+description: 'Los grandes elogios del técnico de Liverpool, Arne Slot, a Darwin Núñez luego de su doblete en la hora para ganarle a Brenftord para seguir líderes de la Premier League'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/2f7e1bee36f998e7ac80c44b2c1de830/adjuntos/362/imagenes/100/589/0100589193/1000x0/smart/20250118-federico-chiesa-celebra-junto-darwin-nunez-liverpool.jpg'
+image2: 'https://media.elobservador.com.uy/p/2d85a6b3613a060d75e9709dea200f7f/adjuntos/362/imagenes/100/589/0100589193/665x399/smart/20250118-federico-chiesa-celebra-junto-darwin-nunez-liverpool.jpg'
+date: 2025-01-18T15:52:00 +2:00:00
+date_es: '18 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El delantero uruguayo <strong><a href="https://www.elobservador.com.uy/tremendo-doblete-darwin-nunez-liverpool-la-hora-mira-los-goles-n5980311" rel="follow" target="_blank">Darwin Núñez</a></strong> fue la figura descollante de Liverpool este sábado luego de haber convertido los dos goles del triunfazo en la hora y de visitante contra Brentford, para mantenerse en la punta de la tabla de la Premier League de Inglaterra y conseguir tres puntos de oro.</p><p>El artiguense <a href="https://www.elobservador.com.uy/tremendo-doblete-darwin-nunez-liverpool-la-hora-mira-los-goles-n5980311" rel="follow" target="_blank"> convirtió los dos tantos de los reds cuando se terminaba el partido, </a>ambos, en tiempo de adición.</p><p>Darwin Núñez comenzó como suplente una vez más, luego de no haber podido jugar el pasado miércoles en el empate de visita, 1-1 contra el tercero, Nottingham Forest.</p><p>De esta manera, <strong>llegó a seis goles en lo que va de la temporada, y 39 desde que firmó con Liverpool.</strong></p><p> El uruguayo había ingresado a los 66 minutos por el colombiano Luis Díaz, quien esta vez, no pudo rendir como de costumbre.</p><h2>Los grandes elogios del técnico de Liverpool, Arne Slot, a Darwin Núñez luego de su doblete en la hora para ganarle a Brenftord para seguir líderes de la Premier League</h2><p>El técnico de Liverpool, Arne Slot, dijo en la conferencia de prensa luego del triunfo ante Brentford que tener a "alguien como Darwin Núñez saliendo del banco es bueno".</p><p>Después del partido, el entrenador elogió <strong>el "impacto" del delantero de 25 años, quien "siempre aporta energía y poder",</strong> revelando que <strong>"está en su mejor momento".</strong></p><p>"Durante la temporada esperás estos momentos", dijo el holandés.</p><p>“Hubo muchos momentos en los que pudimos haber marcado un gol de la victoria en el último momento contra el United, el Forest y Fulham. Hoy (este sábado) funcionó. Logramos marcar en los últimos segundos", agregó.</p><p>Darwin Núñez se fue aplaudido por el grupo de hinchas que viajó para ver de visita a su equipo que se mantiene como líder de la Premier League.</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 18 de enero  2025  -  20:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

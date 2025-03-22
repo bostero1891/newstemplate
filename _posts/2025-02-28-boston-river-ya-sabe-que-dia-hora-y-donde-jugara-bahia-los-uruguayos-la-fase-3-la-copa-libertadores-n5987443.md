@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Boston River ya sabe qué día, hora y dónde jugará ante Bahía de los uruguayos por la fase 3 de la Copa Libertadores'
+description: 'La Conmebol le informó a Boston River día, hora y dónde jugará ante Bahía de los uruguayos por la fase 3 de la Copa Libertadores'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/710468e0eaee5bb71a4e747d9e19fef5/adjuntos/362/imagenes/100/600/0100600342/1000x0/smart/boston-river-nublense-copa-libertadores-2025.jpg'
+image2: 'https://media.elobservador.com.uy/p/52d54b9f336ddfd2603c54796edc2d78/adjuntos/362/imagenes/100/600/0100600342/316x177/smart/boston-river-nublense-copa-libertadores-2025.jpg'
+date: 2025-02-28T16:03:00 +2:00:00
+date_es: '28 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/copa-libertadores/nublense-vs-boston-river-vivo-el-equipo-uruguayo-va-la-clasificacion-la-fase-3-la-copa-libertadores-n5987060" rel="follow" target="_blank">Boston River</a></strong> consiguió una histórica clasificación a la fase 3 de la Copa Libertadores de América el pasado miércoles jugando como visitante en Chillán, Chile, al empatar 1-1 contra Ñublense, por lo que logró seguir en el torneo ya que en Montevideo había ganado 1-0.</p><p><a cmp-ltrk="detalle-nota-links-cuerpo" cmp-ltrk-idx="7" data-mrf-link="https://www.elobservador.com.uy/copa-libertadores/nublense-vs-boston-river-vivo-el-equipo-uruguayo-va-la-clasificacion-la-fase-3-la-copa-libertadores-n5987060" href="https://www.elobservador.com.uy/copa-libertadores/nublense-vs-boston-river-vivo-el-equipo-uruguayo-va-la-clasificacion-la-fase-3-la-copa-libertadores-n5987060" mrfobservableid="4e91979a-8ebb-4120-88cf-eda876250a71" rel="follow noopener" target="_blank">El gol del empate llegó casi sobre el final, a los 85 minutos, y en realidad, fue un golazo de Agustín Anello, </a>quien le pegó al segundo palo del arquero uruguayo Nicola Pérez que ya había sacado instantes antes, el empate.</p><p>De esa manera,<a href="https://www.elobservador.com.uy/copa-libertadores/mira-contra-quien-jugara-boston-river-la-fase-3-clasificar-copa-libertadores-ya-se-aseguro-al-menos-fase-grupos-la-copa-sudamericana-n5987091" rel="follow" target="_blank"> los rojiverdes enfrentarán a Bahía, el club de los uruguayos Luciano Rodríguez, Nicolás Acevedo y Michel Araújo.</a></p><h2> Boston River ya sabe qué día, hora y dónde jugará ante Bahía de los uruguayos por la fase 3 de la Copa Libertadores</h2><p>La Confederación Sudamericana de Fútbol (Conmebol) confirmó este viernes cuándo se disputará el partido de ida y cuándo el de vuelta contra los brasileños.</p><p> <strong>Boston River será local el próximo jueves 6 de marzo en el Estadio Centenario a la hora 21.30.</strong></p><p>Por su parte, el encuentro de vuelta se disputará <strong>el jueves 13 del mismo mes, en el Estadio Fonte Nova de Bahía y a la misma hora.</strong></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 28 de febrero  2025  -  20:15 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

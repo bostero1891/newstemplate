@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Premier League Boxing Day 2024: por qué se llama así, por qué juegan al fútbol el 26 de diciembre y desde cuándo lo hacen'
+description: 'Todo sobre la fecha del fútbol inglés que se juega el 26 y 27 de noviembre: por qué se llama Boxing Day y desde cuándo se juega'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/17bc72f00bb970904c4d5fb38e739049/adjuntos/362/imagenes/100/581/0100581905/1000x0/smart/manuel-ugartejpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/a69654b0f3812a6dcdd66ccd7bcb354e/adjuntos/362/imagenes/100/581/0100581905/316x177/smart/manuel-ugartejpg.jpg'
+date: 2024-12-25T11:58:00 +2:00:00
+date_es: '2024-12-25  11:58'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>Este año 2024 se jugarán ocho partidos el <a href="https://www.elobservador.com.uy/futbol-internacional/liverpool-vs-leicester-city-dia-hora-y-donde-ver-darwin-nunez-la-fecha-del-boxing-day-la-premier-league-n5976662" rel="follow" target="_blank">Boxing Day</a> (26 de diciembre), mientras que los otros dos partidos correspondientes a la fecha 18 de la premier League, se jugarán el 27 de diciembre. En total, se disputarán 40 partidos de la liga inglesa en 17 días durante la temporada festiva, ya que esta época del año es absolutamente brillante para los fanáticos del fútbol.</p><h2>¿Qué es el Boxing Day de la Premier League?</h2><p><strong>El 26 de diciembre es un día famoso en el calendario deportivo del Reino Unido</strong>, ya que es un feriado nacional y el deporte domina todo lo que sucede.</p><p>Las carreras de caballos, el cricket (fuera del Reino Unido), el rugby y <strong>el fútbol </strong>son los protagonistas y es una época especial del año con grandes multitudes, ya que las familias y los amigos se reúnen y van a ver los partidos juntos.</p><h2>¿Por qué el Boxing Day se llama Boxing Day?</h2><p><strong>Se dice que el Boxing Day recibió su nombre literalmente porque era un “día en el que la gente recibía una caja de regalos”</strong> para agradecerles por su trabajo durante todo el año. En serio.</p><p> El Boxing Day se celebra el 26 de diciembre de cada año y, en lo que respecta a la historia del Boxing Day, en el Reino Unido ha sido un día festivo nacional desde 1871. Se dice que en la época victoriana, los empleadores repartían cajas de regalo de Navidad a los empleados como agradecimiento por su trabajo durante todo el año. También se les daba el día libre.</p><h2>¿Por qué juegan al fútbol el día de Navidad?</h2><p><strong>Desde 1958, el Boxing Day ha sido el principal día festivo</strong> en el que se ha jugado al fútbol en todas las ligas del Reino Unido, y esa tradición se ha mantenido.</p><p>Es un día festivo nacional en el Reino Unido, por lo que la mayoría de la gente no trabaja y disfruta de ir a ver fútbol con amigos y familiares. El Boxing Day también es como una celebración del día de Navidad en miniatura en el Reino Unido, con banquetes, bebidas y reuniones planificadas para el 26 de diciembre.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/26 18:31 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

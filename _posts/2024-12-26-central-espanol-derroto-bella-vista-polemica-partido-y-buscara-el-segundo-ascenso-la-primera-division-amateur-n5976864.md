@@ -1,0 +1,16 @@
+---
+layout: post2
+title: 'Central Español derrotó a Bella Vista en polémica final y buscará el segundo ascenso en la Primera División Amateur'
+description: 'Con goles de Mateo Urrutia y Raúl Tarragona, Central Español conquistó el Torneo Clausura de la Primera División Amateur y jugará una final por el segundo ascenso'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/83ee15df6b63a97b5e6be953be5bc4b9/adjuntos/362/imagenes/100/582/0100582296/1000x0/smart/central-espanol.jfif'
+image2: 'https://media.elobservador.com.uy/p/c713dfd2f365f49ff6c2288891e68028/adjuntos/362/imagenes/100/582/0100582291/316x177/smart/20241226-raul-tarragona-central-espanol-bella-vista-final-clausura-primera-division-amateur-2024-foto-amateurauf.jfif'
+date: 2024-12-26T19:28:00 +2:00:00
+date_es: '2024-12-26  19:28'
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Central Español derrotó </strong>este jueves <strong>2-1 a Bella Vista</strong> y se proclamó <strong>campeón del Torneo Clausura</strong> de la<strong> Primera División Amateur.</strong> Este triunfo le permite a los palermitanos buscar<strong> revancha</strong> para poder lograr el segundo y definitivo ascenso a la Segunda División Profesional.</p><p>El partido se disputó en el estadio Obdulio Varela y tras empate 0-0 en el tiempo reglamentario debió disputarse un alargue.</p><p>En el primer tiempo, <strong>Bella Vista fue perjudicado</strong> cuando no se le sancionó un<strong> claro penal </strong>en una acción que siguió y donde terminó cobrándose tiro libre, por mano bien sancionada, cerca del área.</p><p>En el alargue llegaron los goles.</p><p> <strong>Mateo Urrutia</strong> adelantó a los palermitanos, pero<strong> Andrés Pérez</strong> decretó la igualdad.</p><p>Estaban 1-1 cuando a Bella Vista le <strong>anularon un gol por fuera de juego</strong>, muy protestado por los papales.</p><p>Finalmente, el capitán y experimentado<strong> Raúl Tarragona sentenció el juego</strong> con un gol para Central Español.</p><div style='height: 75px;'></div><img alt="Central Español" data-td-src-property="https://media.elobservador.com.uy/p/83ee15df6b63a97b5e6be953be5bc4b9/adjuntos/362/imagenes/100/582/0100582296/1000x0/smart/central-espanol.jfif" height="undefined" id="605073-Libre-1922695770_embed" src="https://media.elobservador.com.uy/p/83ee15df6b63a97b5e6be953be5bc4b9/adjuntos/362/imagenes/100/582/0100582296/1000x0/smart/central-espanol.jfif" title="Central Español" width="100%"/><div style='height: 75px;'></div><p>Ahora, Central Español deberá jugar una<strong> final con Villa Española</strong>, campeón del Torneo Apertura, para dilucidar quién logrará el <strong>segundo ascenso</strong> para la Segunda División Profesional en 2025.</p><p>El domingo pasado, <a href="https://www.elobservador.com.uy/futbol/carlos-bueno-fue-campeon-artigas-sad-como-entrenador-recordo-martin-lasarte-y-crtitico-el-manoseo-que-sufrio-nacional-n5976591" rel="follow" target="_blank">Artigas se coronó campeón de la divisional</a> al <strong>ganarle 1-0 a Central Español</strong> en el Ubilla de Melo en una final por la Tabla Anual.</p><p style='font-size: 14px;color: #1a1a1a;'><strong>Noticia rastreada 2024/12/27 19:47 CET @bostero.dev</strong></p>
+<div style='height: 60px;'></div>
+</html>

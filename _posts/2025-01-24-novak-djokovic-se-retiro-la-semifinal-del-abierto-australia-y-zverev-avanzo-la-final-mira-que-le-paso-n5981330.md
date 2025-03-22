@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Novak Djokovic se retiró en la semifinal del Abierto de Australia y Zverev avanzó a la final; mirá qué le pasó'
+description: 'Después de ceder el primer set, con marcador de 7-6 (7/5), Novak Djokovic se acercó a Alexander Zverev para comunicarle que no podía continuar'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/f7be9ef055b8601a50b4700030b352a2/adjuntos/362/imagenes/100/591/0100591125/1000x0/smart/djokovic-su-vendaje-saluda-zverev.jpg'
+image2: 'https://media.elobservador.com.uy/p/9b17ef53d3829b6792f05a98d5338e8d/adjuntos/362/imagenes/100/591/0100591123/316x177/smart/serbias-novak-djokovic-wipes-his-face-between-games-during-his-mens-singles-semifinal-match-against-germanys-alexander-zverev-on-day-thirteen-of-the-australian-open-tennis-tournament-in-melbourne-on-january-24-2025-martin-keep-afp.jpg'
+date: 2025-01-24T07:29:00 +2:00:00
+date_es: '24 de enero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p>El serbio <strong>Novak Djokovic, ganador de 24 Grand Slams, se retiró este viernes lesionado</strong> tras perder el primer set de la semifinal del Abierto de Australia contra el alemán Alexander Zverev, que disputará la final del domingo.</p><p>La leyenda de 37 años, diez veces campeón en Melbourne, <strong>saltó a la pista con un vendaje en la pierna izquierda</strong>, que se había lesionado en los cuartos de final del miércoles ante el español Carlos Alcaraz.</p><p>Pero justo después de ceder el primer set, con marcador de 7-6 (7/5), Djokovic se acercó al alemán para comunicarle que no podía continuar y <strong>abandonó al poco la pista bajo los silbidos de parte del público</strong>.</p><div style='height: 75px;'></div><img alt="Djokovic, con su vendaje. saluda a Zverev" data-td-src-property="https://media.elobservador.com.uy/p/f7be9ef055b8601a50b4700030b352a2/adjuntos/362/imagenes/100/591/0100591125/1000x0/smart/djokovic-su-vendaje-saluda-zverev.jpg" height="undefined" id="612191-Libre-1672639421_embed" src="https://media.elobservador.com.uy/p/f7be9ef055b8601a50b4700030b352a2/adjuntos/362/imagenes/100/591/0100591125/1000x0/smart/djokovic-su-vendaje-saluda-zverev.jpg" title="Djokovic, con su vendaje. saluda a Zverev" width="100%"/><div style='height: 75px;'></div><h2>Zverev a la final</h2><p>El número dos del mundo, que <strong>pidió a los espectadores respetar a su rival</strong>, disputará así su primera final en Melbourne ante el ganador del duelo entre Jannik Sinner y Ben Shelton.</p><p> Durante una hora y 20 minutos, ambos jugadores libraron una intensa batalla, en la que Nole tuvo que salvar cinco bolas de ruptura para llevar a su rival hasta el desempate.</p><p>En un tie break muy igualado y con un parcial de 6-5, el serbio remató una volea a la red y entregó así el primer set al alemán.</p><p><strong>A sus 27 años, Zverev intentará el domingo hacer bueno el dicho de "a la tercera va la vencida"</strong> tras las finales de Grand Slam perdidas en el Abierto de Estados Unidos (2020) y en Roland Garros (2024).</p><p>AFP</p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 24 de enero  2025  -  11:45 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

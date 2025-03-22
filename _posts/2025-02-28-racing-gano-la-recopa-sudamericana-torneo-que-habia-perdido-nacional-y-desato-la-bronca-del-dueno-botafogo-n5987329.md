@@ -1,0 +1,16 @@
+---
+layout: 'post2-Deportes'
+title: 'Racing ganó la Recopa Sudamericana, torneo que había perdido con Nacional, y desató la bronca del dueño de Botafogo'
+description: 'El uruguayo Gastón Martirena ganó un nuevo título internacional con Racing de Avellaneda: la Recopa Sudamericana'
+category: 'Deportes'
+image: 'https://media.elobservador.com.uy/p/3c859b2050f5a9548fab097682e8058a/adjuntos/362/imagenes/100/603/0100603235/1000x0/smart/nacionaljpg.jpg'
+image2: 'https://media.elobservador.com.uy/p/6eb877f61f45a9e231f9e7cfec2b1ea0/adjuntos/362/imagenes/100/603/0100603225/316x177/smart/video-external.jpg'
+date: 2025-02-28T08:46:00 +2:00:00
+date_es: '28 de febrero  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong>Racing de Argentina consiguió este jueves el único título vigente del fútbol de Sudamérica que le hacía falta</strong>: la Recopa Sudamericana, que conquistó al imponerse 2-0 a un alicaído Botafogo (global 4-0) en Rio de Janeiro. En el equipo de Avellaneda fue titular el uruguayo Gastón Martirena, también campeón de la Sudamericana.</p><p><strong>La Academia aseguró un trofeo que Nacional de Uruguay le arrebató en 1989</strong>, gracias a dos golazos del mediocampista Matías Zaracho (50) y el volante Bruno Zuculini (69) y la victoria 2-0 alcanzada la semana pasada en suelo argentino.</p><p>Nacional fue campeón de la primera edición de la Recopa Sudamericana en 1989, venciendo en las finales a Racing. el 31 de enero en el Centenario, Nacional ganó 1-0 con gol de Daniel Fonseca y el 6 de febrero empataron 0-0 en el estadio José Amalfitani. <strong>Fue el el vigesimoprimer título internacional oficial de su historia.</strong></p><div style='height: 75px;'></div><img alt="" data-td-src-property="https://media.elobservador.com.uy/p/3c859b2050f5a9548fab097682e8058a/adjuntos/362/imagenes/100/603/0100603235/1000x0/smart/nacionaljpg.jpg" height="undefined" id="622164-Libre-1062176907_embed" src="https://media.elobservador.com.uy/p/3c859b2050f5a9548fab097682e8058a/adjuntos/362/imagenes/100/603/0100603235/1000x0/smart/nacionaljpg.jpg" title="" width="100%"/><div style='height: 75px;'></div><p>El club de Avellaneda ya puede enorgullecerse de ver su vitrina completa, colmada con la <strong>Copa Libertadores de 1967, la Copa Sudamericana de 2024</strong> y ahora la Recopa, que no quedaba en manos de un equipo argentino desde 2021 (Defensa y Justicia). </p><p>La conquista en el césped sintético del estadio olímpico Nilton Santos agranda, además, la leyenda del entrenador argentino Gustavo Costas, campeón como jugador (Supercopa Sudamericana-1988) y técnico (Sudamericana-2024 y Recopa-2025) con el cuadro de sus amores.</p><p>"Es el regalo más lindo de mi vida (...) ahora vamos por la Libertadores", dijo el DT, quien cumple 62 años el viernes.</p><p>Jhon Textor, el empresario dueño del Botafogo, <strong>se levantó con bronca del palco tras el segundo gol de Racing</strong> y después regaló la medalla de segundo puesto.</p><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 28 de febrero  2025  -  13:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: 'post2-Penarol'
+title: 'Peñarol vs Liverpool: día, hora, cancha y precio de las entradas para la séptima fecha del Torneo Apertura'
+description: 'Peñarol buscará dar vuelta su racha de cinco partidos sin ganar nada menos que ante el actual líder del Torneo Apertura'
+category: 'Penarol'
+image: 'https://media.elobservador.com.uy/p/cae22f298a5854a82646c20429fa1a36/adjuntos/362/imagenes/100/601/0100601755/1000x0/smart/20250223-leonardo-fernandez-river-plate-penarol-torneo-apertura-2025-foto-ines-guimaraens.jpg'
+image2: 'https://media.elobservador.com.uy/p/b4e0e422b2a67c9a45dad5e879e59743/adjuntos/362/imagenes/100/601/0100601755/316x177/smart/20250223-leonardo-fernandez-river-plate-penarol-torneo-apertura-2025-foto-ines-guimaraens.jpg'
+date: 2025-03-18T21:49:00 +2:00:00
+date_es: '18 de marzo  2025 '
+---
+
+<html>
+<img style='width: 100%' src='{{ page.image | prepend: base.url }}'><div style='height: 75px'></div>
+<p><strong><a href="https://www.elobservador.com.uy/copa-libertadores/como-llega-olimpia-el-equipo-que-dirigio-diego-aguirre-que-enfrenta-penarol-copa-libertadores-un-uruguayo-y-martin-palermo-como-tecnico-n5990285" rel="follow" target="_blank">Peñarol</a></strong> jugará uno de los dos partidos adelantados de la séptima fecha del Torneo Apertura. Los aurinegros se medirá <strong>con Liverpool, líder</strong> del certamen.</p><p>Peñarol arrastra una racha de<strong> cinco partidos sin victorias</strong> y está 12º en el Apertura mientras que Liverpool está invicto con dos empates y cuatro victorias, tres de ellas en forma consecutiva: Cerro 2-1, Defensor Sporting 1-0 y Montevideo City Torque 4-1.</p><h2>¿Cuándo jugarán Peñarol vs Liverpool?</h2><p>El partido se jugará este<strong> jueves 20 de marzo. </strong></p><h2> ¿A qué hora jugarán Peñarol vs Liverpool?</h2><p>El encuentro comenzará a la <strong>hora 20.00. </strong></p><h2> ¿Dónde jugarán Peñarol vs Liverpool?</h2><p>Aurinegros y negriazules se medirán en el Estadio<strong> Campeón del Siglo. </strong></p><h2>Entradas para Peñarol vs Liverpool</h2><p><a href="https://www.elobservador.com.uy/futbol/penarol-ya-puso-la-venta-las-entradas-el-partido-el-lider-liverpool-este-jueves-el-torneo-apertura-mira-los-precios-n5990057" rel="follow" target="_blank">Mirá en esta nota el precio de las entradas</a> y dónde se venden.</p><h2>Por dónde ver Peñarol vs Liverpool</h2><p>El cotejo se verá por <strong>VTV en cable y Disney+ en streaming. </strong></p><h2>Tabla de posiciones del Torneo Apertura</h2><div style='height: 50px;'></div><div class='embed-responsive embed-responsive-16by9'><iframe class="border-0" data-td-src-property="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&amp;lang=es_LA&amp;page=posiciones" height="700" scrolling="auto" src="https://df.elobservador.com.uy/adjuntos/datafactory/html/v3/minapp/page/page.html?channel=deportes.futbol.uruguay&lang=es_LA&page=posiciones" style="width:1px;min-width:100%;*width:100%;" width="100%"></iframe></div><div style='height: 50px;'></div><p></p><div class='info_rastreador text-muted'><p class='text-muted post-date-font mt-3 mb-2'>Noticia rastreada 18 de marzo  2025  -  02:00 CET @bostero.dev</p></div>
+<div style='height: 60px;'></div>
+</html>
